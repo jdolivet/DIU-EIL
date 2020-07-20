@@ -1,0 +1,99 @@
+-- 1.1
+SELECT nom
+FROM genre;
+
+-- 1.2
+SELECT titre
+FROM film
+WHERE titre LIKE 'R%' AND annee = 2010;
+
+-- 1.3
+SELECT nom, naissance
+FROM personne
+WHERE nom LIKE 'So%' AND naissance IS NOT NULL
+ORDER BY naissance;
+
+
+-- 2.1
+SELECT film.titre, genre.nom
+FROM film, genre, personne
+WHERE film.idGenre = genre.id AND 
+  film.idRealisateur = personne.id AND
+  personne.nom LIKE '%Scorsese%'
+ORDER BY film.titre;
+
+-- 2.2
+SELECT film.titre, film.nbSpectateurs
+FROM film, personne
+WHERE film.idRealisateur = personne.id AND 
+  personne.nom LIKE '%Tarantino' AND 
+  film.nbSpectateurs < 10000000
+ORDER BY film.nbSpectateurs;
+
+-- 2.3
+SELECT DISTINCT genre.nom
+FROM film, genre, personne, joue
+WHERE film.idGenre = genre.id AND
+ film.id = joue.idFilm AND
+ joue.idActeur = personne.id AND
+ personne.nom LIKE '%Caprio'
+ 
+ -- 2.4
+SELECT film.titre
+FROM film, joue, personne
+WHERE film.id = joue.idFilm AND 
+  joue.idActeur = personne.id AND
+  personne.nom LIKE '%Caprio'
+INTERSECT
+SELECT film.titre
+FROM film, joue, personne
+WHERE film.id = joue.idFilm AND 
+  joue.idActeur = personne.id AND
+  personne.nom LIKE '%Depp'
+
+-- 3.1
+SELECT MIN(annee)
+FROM film, personne
+WHERE film.idRealisateur = personne.id AND
+pays = 'France'
+
+-- 3.2
+SELECT pays, COUNT(*) AS 'nbFilms'
+FROM film, personne
+WHERE film.idRealisateur = personne.id AND
+pays IS NOT NULL
+GROUP BY pays
+ORDER BY nbFilms DESC
+LIMIT 10
+
+-- 3.3
+SELECT nom, COUNT(*) AS 'nbFilms'
+FROM film, personne
+WHERE film.idRealisateur = personne.id AND
+annee = 2000
+GROUP BY nom
+ORDER BY nbFilms DESC
+
+--3.4
+SELECT nom, COUNT(*) AS 'nbFilms'
+FROM film, personne
+WHERE film.idRealisateur = personne.id AND
+annee BETWEEN 2000 AND 2010
+GROUP BY nom
+HAVING COUNT(*) >= 4
+ORDER BY nbFilms DESC
+
+-- 3.5
+SELECT titre, SUM(salaire) AS 'Budget'
+FROM film, joue
+WHERE film.id = joue.idFilm
+GROUP BY titre
+ORDER BY Budget DESC
+LIMIT 10
+
+-- 4.1
+SELECT nom, titre, salaire
+FROM film, personne, joue
+WHERE film.id = joue.idFilm AND
+joue.idActeur = personne.id AND
+salaire > (SELECT MAX(salaire) / 2 FROM joue)

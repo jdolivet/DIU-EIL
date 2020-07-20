@@ -1,0 +1,5176 @@
+id,nom,pays,naissance,sexe
+1,George Lucas,USA,1944-05-14,M
+2,Mark Hamill,USA,1951-09-25,M
+3,Harrison Ford,USA,1942-07-13,M
+4,Carrie Fisher,USA,1956-10-21,F
+6,Anthony Daniels,UK,1946-02-21,M
+7,Andrew Stanton,USA,1965-12-03,M
+8,Lee Unkrich,USA,1967-08-08,M
+10,Bob Peterson,USA,1961-01-18,M
+13,Albert Brooks,USA,1947-07-22,M
+18,Brad Garrett,USA,1960-04-14,M
+19,Allison Janney,USA,1959-11-19,F
+24,Robert Zemeckis,USA,1951-05-14,M
+31,Tom Hanks,USA,1956-07-09,M
+32,Robin Wright,USA,1966-04-08,F
+33,Gary Sinise,USA,1955-03-17,M
+34,Mykelti Williamson,USA,1957-03-04,M
+35,Sally Field,USA,1946-11-06,F
+39,Sam Mendes,UK,1965-08-01,M
+40,Orson Welles,USA,1915-05-06,M
+48,Sean Bean,UK,1959-04-17,M
+50,Catherine Deneuve,France,1943-10-22,F
+52,David Morse,USA,1953-10-11,M
+53,Peter Stormare,Sweden,1953-08-27,M
+59,Luc Besson,France,1959-03-18,M
+62,Bruce Willis,Germany,1955-03-19,M
+63,Milla Jovovich,Ukraine,1975-12-17,F
+64,Gary Oldman,UK,1958-03-21,M
+65,Ian Holm,UK,1931-09-12,M
+66,Chris Tucker,USA,1971-08-31,M
+85,Johnny Depp,USA,1963-06-09,M
+90,Isabel Coixet,Spain,1960-04-09,F
+99,Amanda Plummer,USA,1957-03-23,F
+103,Mark Ruffalo,USA,1967-11-22,M
+108,Peter Jackson,New Zealand,1961-10-31,M
+109,Elijah Wood,USA,1981-01-28,M
+110,Viggo Mortensen,USA,1958-10-20,M
+112,Cate Blanchett,Australia,1969-05-14,F
+113,Christopher Lee,England,1922-05-27,M
+114,Orlando Bloom,UK,1977-01-13,M
+116,Keira Knightley,UK,1985-03-26,F
+118,Geoffrey Rush,Australia,1951-07-06,M
+130,Kenny Baker,UK,1934-08-24,M
+133,Peter Sarsgaard,USA,1971-03-07,M
+134,Jamie Foxx,USA,1967-12-13,M
+138,Quentin Tarantino,USA,1963-03-27,M
+139,Uma Thurman,USA,1970-04-29,F
+140,Lucy Liu,USA,1968-12-02,F
+141,David Carradine,USA,1936-12-08,M
+147,Michael Madsen,USA,1957-09-25,M
+150,RZA,USA,1969-07-05,M
+169,Hanns Zischler,Germany,1947-06-18,M
+190,Clint Eastwood,USA,1930-05-31,M
+192,Morgan Freeman,USA,1937-06-01,M
+193,Gene Hackman,USA,1930-01-30,M
+194,Richard Harris,Ireland,1930-10-01,M
+197,David Silverman,USA,1957-03-15,M
+198,Dan Castellaneta,USA,1957-10-29,M
+199,Julie Kavner,U.S.,1950-09-07,F
+200,Nancy Cartwright,USA,1957-10-25,F
+201,Michel Gondry,France,1963-05-08,M
+204,Kate Winslet,UK,1975-10-05,F
+205,Kirsten Dunst,USA,1982-04-30,F
+206,Jim Carrey,Canada,1962-01-17,M
+207,Tom Wilkinson,UK,1948-02-05,M
+212,David Cross,USA,1964-04-04,M
+223,Alejandro González Iñárritu,Mexico,1963-08-15,M
+224,David Cronenberg,Canada,1943-03-15,M
+227,William Hurt,USA,1950-03-20,M
+228,Ed Harris,USA,1950-11-28,M
+240,Stanley Kubrick,USA,1928-07-26,M
+250,Margaret Tyzack,England,1931-09-09,F
+280,Terry Gilliam,USA,1940-11-22,M
+287,Brad Pitt,USA,1963-12-18,M
+288,Jon Seda,USA,1970-10-14,M
+290,Christopher Plummer,Canada,1929-12-13,M
+323,Curtis Hanson,USA,1945-03-24,M
+326,Kim Basinger,USA,1953-12-08,F
+335,Michael Shannon,USA,1974-08-07,M
+349,Scott Glenn,USA,1939-01-26,M
+350,Laura Linney,USA,1964-02-05,F
+351,Judy Davis,Australia,1955-04-23,F
+352,Dennis Haysbert,USA,1954-06-02,M
+357,Hany Abu-Assad,Israel,1961-10-11,M
+366,James Mangold,USA,1963-12-16,M
+378,Jonathan Pryce,Reino Unido,1947-06-01,M
+380,Robert De Niro,USA,1943-08-17,M
+381,Katherine Helmond,USA,1929-07-05,F
+382,Bob Hoskins,UK,1942-10-26,M
+383,Michael Palin,UK,1943-05-05,M
+385,Ian Richardson,UK,1934-04-07,M
+386,Peter Vaughan,England,1923-04-04,M
+388,Jim Broadbent,UK,1949-05-24,M
+400,Geraldine Chaplin,United States,1944-07-31,F
+417,Ginnifer Goodwin,USA,1978-05-22,F
+418,Robert Patrick,USA,1958-11-05,M
+448,Hilary Swank,USA,1974-07-30,F
+449,Jay Baruchel,Canada,1982-04-09,M
+450,Mike Colter,USA,1976-08-26,M
+452,Margo Martindale,USA,1951-07-18,F
+453,Riki Lindhome,USA,1979-03-05,F
+454,Michael Peña,USA,1976-01-13,M
+477,Julie Walters,UK,1950-02-22,F
+478,Jamie Bell,UK,1986-03-14,M
+480,Gary Lewis,UK,1958-11-30,M
+488,Steven Spielberg,USA,1946-12-18,M
+500,Tom Cruise,USA,1962-07-03,M
+501,Dakota Fanning,USA,1994-02-23,F
+502,Miranda Otto,Australia,1967-12-16,F
+504,Tim Robbins,USA,1958-10-16,M
+510,Tim Burton,USA,1958-08-25,M
+514,Jack Nicholson,USA,1937-04-22,M
+515,Glenn Close,USA,1947-03-19,F
+516,Annette Bening,USA,1958-05-29,F
+517,Pierce Brosnan,Ireland,1953-05-16,M
+518,Danny DeVito,USA,1944-11-17,M
+519,Martin Short,Canada,1950-03-26,M
+521,Michael J. Fox,Canada,1961-06-09,M
+522,Rod Steiger,USA,1925-04-14,M
+524,Natalie Portman,Israel,1981-06-09,F
+525,Christopher Nolan,UK,1970-07-30,M
+526,Lukas Haas,USA,1976-04-16,M
+529,Guy Pearce,UK,1967-10-05,M
+532,Joe Pantoliano,USA,1951-09-12,M
+534,Mark Boone Junior,U.S.A,1955-03-17,M
+535,Russ Fega,,,M
+537,Stephen Tobolowsky,USA,1951-05-30,M
+538,Harriet Sansom Harris,USA,1955-01-08,F
+539,Thomas Lennon,USA,1970-08-09,M
+540,Callum Keith Rennie,UK,1960-09-14,M
+543,Marianne Muellerleile,USA,1948-11-26,F
+544,Larry Holden,,1961-05-15,M
+569,Ethan Hawke,USA,1970-11-06,M
+578,Ridley Scott,UK,1937-11-30,M
+585,Rutger Hauer,Netherlands,1944-01-23,M
+587,Edward James Olmos,U.S.,1947-02-24,M
+588,M. Emmet Walsh,USA,1935-03-22,M
+589,Daryl Hannah,USA,1960-12-03,F
+592,Joe Turkel,USA,1927-07-15,
+607,Zhang Yimou,China,1951-11-14,M
+608,Hayao Miyazaki,Japan,1941-01-05,M
+613,Sumi Shimamoto,Japan,1954-12-08,F
+614,Mahito Tsujimura,,,
+616,Gorō Naya,Japan,1929-11-17,M
+617,Ichirō Nagai,Japan,1931-05-10,M
+618,Kōhei Miyauchi,,,
+620,Minoru Yada,Prefettura di Tōkyō,1931-04-27,M
+622,Yōji Matsuda,,,
+648,Philip Kaufman,USA,1936-10-23,M
+649,Vernon Dobtcheff,France,1934-08-14,M
+650,Karen Allen,USA,1951-10-05,F
+653,Ronald Lacey,United Kingdom,1935-09-28,M
+655,John Rhys-Davies,UK,1944-05-05,M
+656,Denholm Elliott,UK,1922-05-31,M
+658,Alfred Molina,UK,1953-05-24,M
+659,Wolf Kahler,Germany,1940-04-03,M
+663,William Hootkins,USA,1948-07-05,M
+664,Frank Marshall,USA,1946-09-13,M
+677,Moritz Bleibtreu,Germany,1971-08-13,M
+679,Franka Potente,Germany,1974-07-22,F
+694,Philip Stone,UK,1924-04-14,M
+696,David Yip,UK,1951-06-04,M
+707,Dan Aykroyd,Canada,1952-07-01,M
+738,Sean Connery,UK,1930-08-25,M
+739,Alison Doody,Ireland,1966-11-11,F
+740,Julian Glover,England,1935-03-27,M
+742,Michael Byrne,UK,1943-11-07,M
+743,Kevork Malikyan,Turkey,1943-06-02,M
+747,Alex Hyde-White,UK,1959-01-30,M
+782,Steven Berkoff,,1937-08-03,M
+793,Luis Buñuel,España,1900-02-22,M
+814,Tony Kaye,United Kingdom,1946-01-11,M
+819,Edward Norton,USA,1969-08-18,M
+820,Edward Furlong,USA,1977-08-02,M
+824,Ethan Suplee,USA,1976-05-25,M
+827,Elliott Gould,USA,1938-08-29,M
+828,Guy Torry,U.S.,1969-01-05,M
+856,Ben Gazzara,USA,1930-08-28,M
+865,Michael Bay,USA,1965-02-17,M
+880,Ben Affleck,USA,1972-08-15,M
+882,Liv Tyler,USA,1977-07-01,F
+883,Will Patton,USA,1954-06-14,M
+884,Steve Buscemi,USA,1957-12-13,M
+886,William Fichtner,USA,1956-11-27,M
+887,Owen Wilson,USA,1968-11-18,M
+893,Tony Scott,UK,1944-06-21,M
+902,Milton Welsh,Germany,1969-01-01,M
+920,Jürgen Prochnow,Germany,1941-06-10,M
+923,Dean Stockwell,USA,1936-03-05,M
+925,Paul Guilfoyle,USA,1949-04-28,M
+934,Russell Crowe,New Zealand,1964-04-07,M
+935,Connie Nielsen,Denmark,1965-07-03,F
+937,Derek Jacobi,England,1938-10-22,M
+938,Djimon Hounsou,Benin,1964-04-24,M
+939,David Schofield,UK,1951-01-01,M
+940,John Shrapnel,UK,1942-04-27,M
+941,Tomas Arana,USA,1955-04-03,M
+955,Penélope Cruz,Spain,1974-04-28,F
+956,Guy Ritchie,UK,1968-09-10,M
+957,Matthew Vaughn,UK,1971-03-07,M
+973,Jason Flemyng,England,1966-09-25,M
+974,Dexter Fletcher,UK,1966-01-31,M
+975,Nick Moran,UK,1969-12-23,M
+976,Jason Statham,UK,1967-07-26,M
+980,Vinnie Jones,UK,1965-01-05,M
+982,Sting,UK,1951-10-02,M
+1003,Jean Reno,Morocco,1948-07-30,M
+1004,Danny Aiello,USA,1933-06-20,M
+1005,Peter Appel,USA,1959-10-19,M
+1010,Michael Badalucco,U.S.,1954-12-20,M
+1018,Nikolaj Lie Kaas,Denmark,1973-05-22,M
+1019,Mads Mikkelsen,Denmark,1965-11-22,M
+1032,Martin Scorsese,USA,1942-11-17,M
+1037,Harvey Keitel,USA,1939-05-13,M
+1038,Jodie Foster,USA,1962-11-19,F
+1039,Peter Boyle,USA,1935-10-18,M
+1064,Crispin Glover,USA,1964-04-20,M
+1067,Marc McClure,U.S.,1957-03-31,M
+1071,Tom Tykwer,Germany,1965-05-23,M
+1086,Heino Ferch,Germany,1963-08-18,M
+1088,Ludger Pistor,Germany,1959-03-16,M
+1090,John McTiernan,USA,1951-01-08,M
+1100,Arnold Schwarzenegger,Austria,1947-07-30,M
+1101,Carl Weathers,USA,1948-01-14,M
+1118,Rade Šerbedžija,Croatia,1946-07-27,M
+1121,Benicio del Toro,Puerto Rico,1967-02-19,M
+1123,Andy Beckwith,,,
+1125,Ewen Bremner,UK,1972-01-23,M
+1137,Juliette Binoche,France,1964-03-09,F
+1141,Hélène Vincent,France,1943-09-09,F
+1146,Julie Delpy,France,1969-12-21,F
+1150,Brian De Palma,USA,1940-09-11,M
+1152,Oliver Stone,USA,1946-09-15,M
+1158,Al Pacino,USA,1940-04-25,M
+1160,Michelle Pfeiffer,USA,1958-04-29,F
+1162,Robert Loggia,USA,1930-01-03,M
+1163,Miriam Colón,Puerto Rico,1936-08-20,F
+1164,F. Murray Abraham,USA,1939-10-24,M
+1165,Paul Shenar,USA,1936-02-12,M
+1166,Harris Yulin,USA,1937-11-05,M
+1169,Pepe Serna,,1944-07-23,F
+1173,Mark Margolis,USA,1939-11-26,M
+1201,Garry Marshall,USA,1934-11-13,M
+1204,Julia Roberts,USA,1967-10-28,F
+1205,Richard Gere,USA,1949-08-31,M
+1210,Héctor Elizondo,USA,1936-12-22,M
+1211,Larry Miller,USA,1953-10-15,M
+1223,Joel Coen,USA,1954-11-29,M
+1229,Jeff Bridges,USA,1949-12-04,M
+1230,John Goodman,USA,1952-06-20,M
+1233,Philip Seymour Hoffman,USA,1967-07-23,M
+1236,Mark Pellegrino,USA,1965-04-09,M
+1237,Flea,Australia,1962-10-16,M
+1240,Jack Kehler,USA,1946-05-22,M
+1241,John Turturro,USA,1957-02-28,M
+1243,Woody Allen,USA,1935-12-01,M
+1245,Scarlett Johansson,USA,1984-11-22,F
+1246,Emily Mortimer,UK,1971-12-01,F
+1248,Brian Cox,UK,1946-06-01,M
+1255,David Mamet,USA,1947-11-30,M
+1269,Kevin Costner,USA,1955-01-18,M
+1270,Charles Martin Smith,USA,1953-10-30,M
+1271,Andy García,Cuba,1956-04-12,M
+1276,Patricia Clarkson,USA,1959-12-29,F
+1280,Don Harvey,USA,1960-05-31,M
+1281,Freddie Highmore,UK,1992-02-14,M
+1283,Helena Bonham Carter,UK,1966-05-26,F
+1284,Noah Taylor,England,1969-09-04,M
+1292,James Fox,UK,1939-05-19,M
+1294,Missi Pyle,USA,1972-11-16,F
+1320,Alan Lee,UK,1947-08-20,M
+1327,Ian McKellen,UK,1939-05-25,M
+1328,Sean Astin,USA,1971-02-25,M
+1329,Billy Boyd,UK,1968-08-28,M
+1330,Dominic Monaghan,Germany,1976-12-08,M
+1331,Hugo Weaving,Nigeria,1960-04-04,M
+1332,Craig Parker,Fiji,1970-11-12,M
+1333,Andy Serkis,UK,1964-04-20,M
+1336,Jet Li,China,1963-04-26,M
+1341,Donnie Yen,China,1963-07-27,M
+1352,Jean-Louis Trintignant,France,1930-12-11,M
+1356,Jean-Pierre Lorit,,,M
+1365,Lawrence Makoare,New Zealand,1968-03-20,M
+1366,Sala Baker,New Zealand,1976-09-22,M
+1367,Alan Howard,UK,1937-08-05,M
+1369,Bernard Hill,United Kingdom,1944-12-17,M
+1370,Brad Dourif,USA,1950-03-18,M
+1371,David Wenham,Australia,1965-09-21,M
+1372,Karl Urban,New Zealand,1972-06-07,M
+1381,John Noble,Australia,1948-08-20,M
+1382,Paul Norell,UK,1952-02-11,M
+1383,Thomas Robins,,,M
+1461,George Clooney,USA,1961-05-06,M
+1462,Tim Blake Nelson,USA,1964-05-11,M
+1466,Charles Durning,USA,1923-02-28,M
+1472,Ray McKinnon,USA,1957-11-15,M
+1473,Daniel von Bargen,USA,1950-06-05,M
+1479,Frank Collison,USA,1950-02-14,M
+1532,Bill Murray,USA,1950-09-21,M
+1534,Chris Elliott,USA,1960-05-31,M
+1579,Maggie Gyllenhaal,USA,1977-11-16,F
+1581,Mary McDonnell,USA,1952-04-28,F
+1598,David St. James,USA,1947-09-04,M
+1614,Ang Lee,Taiwan,1954-10-23,M
+1620,Michelle Yeoh,Malaysia,1962-08-06,F
+1640,Stellan Skarsgård,Sweden,1951-06-13,M
+1642,Jean-Marc Barr,Germany,1960-09-27,M
+1643,Adrian Rawlins,UK,1958-03-27,M
+1646,Udo Kier,Germany,1944-10-14,M
+1650,François Truffaut,France,1932-02-06,M
+1653,Jean-Pierre Léaud,France,1944-05-28,M
+1654,Claire Maurier,France,1929-03-27,F
+1662,Pierre Repp,France,1900-11-05,M
+1665,Eddie Marsan,England,1968-06-23,M
+1666,Julie Christie,India,1941-04-14,F
+1670,Daniel Mays,UK,1978-03-31,M
+1711,Mackenzie Crook,UK,1971-09-29,M
+1715,David Bailie,South Africa,1937-12-04,M
+1724,Roger Spottiswoode,Canada,1945-01-05,M
+1733,Nick Nolte,USA,1941-02-08,M
+1736,James Remar,USA,1953-12-31,M
+1737,David Patrick Kelly,USA,1951-01-23,M
+1739,James Keane,USA,1952-09-26,M
+1743,Denise Crosby,USA,1957-11-24,F
+1769,Sofia Coppola,USA,1971-05-14,F
+1771,Giovanni Ribisi,USA,1974-12-17,M
+1776,Francis Ford Coppola,USA,1939-04-07,M
+1810,Heath Ledger,Australia,1979-04-04,M
+1811,Randy Quaid,USA,1950-10-01,M
+1812,Michelle Williams,USA,1980-09-09,F
+1813,Anne Hathaway,USA,1982-11-12,F
+1817,Linda Cardellini,USA,1975-06-25,F
+1834,Shirley Henderson,Scotland,1965-11-24,F
+1844,Til Schweiger,Germany,1963-12-19,M
+1884,Steven Soderbergh,USA,1963-01-14,M
+1892,Matt Damon,USA,1970-10-08,M
+1893,Casey Affleck,USA,1975-08-12,M
+1894,Scott Caan,USA,1976-08-23,M
+1895,Carl Reiner,U.S.,1922-03-20,M
+1896,Don Cheadle,USA,1964-11-29,M
+1897,Bernie Mac,USA,1957-10-05,M
+1898,Eddie Jemison,,1963-01-01,M
+1900,Shaobo Qin,,1982-01-01,M
+1906,Scott L. Schwartz,USA,1959-03-16,M
+1920,Winona Ryder,USA,1971-10-29,F
+1922,Catherine Zeta-Jones,UK,1969-09-25,F
+1923,Robbie Coltrane,UK,1950-03-30,M
+1925,Vincent Cassel,France,1966-11-23,M
+1926,Eddie Izzard,Yemen,1962-02-07,M
+1927,Blake Edwards,USA,1922-07-26,M
+1942,José Luis de Villalonga,Spain,1920-01-29,M
+1957,Sophie Marceau,France,1966-11-17,F
+1958,Claude Brasseur,France,1936-06-15,M
+1959,Brigitte Fossey,France,1946-06-15,F
+1960,Alexandre Sterling,,1966-02-13,
+1961,Claude Pinoteau,,1925-05-25,M
+1963,Danièle Thompson,Monaco,1942-01-03,F
+1969,Denise Grey,Italy,1896-09-17,F
+1970,Sheila O'Connor,,1966-05-04,F
+1972,Dominique Lavanant,France,1944-04-24,F
+1973,Bernard Giraudeau,France,1947-06-18,M
+1976,Evelyne Bellego,,,
+1977,Richard Bohringer,France,1942-01-16,M
+1978,Iain Softley,UK,1956-11-30,M
+1979,Kevin Spacey,USA,1959-07-26,M
+1980,Mary McCormack,U.S.,1969-02-08,F
+1981,Alfre Woodard,USA,1952-11-08,F
+1983,Vincent Laresca,USA,1974-01-21,M
+1984,Kimberly Scott,USA,1961-12-11,F
+1986,Peter Gerety,USA,1940-05-17,M
+1989,Celia Weston,USA,1951-12-14,F
+1990,Brian Howe,,,M
+2034,Danny Boyle,UK,1956-10-20,M
+2037,Cillian Murphy,Ireland,1976-05-25,M
+2038,Naomie Harris,UK,1976-09-06,F
+2039,Brendan Gleeson,Ireland,1955-03-29,M
+2040,Christopher Eccleston,UK,1964-02-16,M
+2047,Danny Glover,USA,1946-07-22,M
+2048,Gary Busey,USA,1944-06-29,M
+2053,Bill Paxton,USA,1955-05-17,M
+2055,Robert Davi,USA,1951-06-26,M
+2059,Adam Baldwin,USA,1962-02-27,M
+2067,Calvin Lockhart,Bahamas,1934-10-18,M
+2086,Pierre Cosso,Algeria,1961-09-24,M
+2090,Kirk Douglas,USA,1916-12-09,M
+2097,Ted de Corsia,USA,1905-09-29,M
+2115,Kurtwood Smith,USA,1943-07-03,M
+2127,James Wan,Malaysia,1977-02-27,M
+2130,Cary Elwes,UK,1962-10-26,M
+2131,Ken Leung,USA,1970-01-21,M
+2134,Mike Butters,,,M
+2137,Benito Martinez,USA,1971-06-28,M
+2141,Ned Bellamy,USA,1957-05-07,M
+2157,Robin Williams,USA,1951-07-21,M
+2165,Rosanna Arquette,USA,1959-08-10,F
+2166,Sergio Castellitto,Italia,1953-08-18,M
+2168,Jean Bouise,France,1929-06-03,M
+2169,Michael Jeter,USA,1952-08-26,M
+2170,Marc Duret,France,1957-09-28,M
+2171,Griffin Dunne,USA,1955-06-08,M
+2173,Valentina Vargas,Chile,1964-12-31,F
+2174,Kimberly Beck,U.S.,1956-01-09,F
+2176,Tommy Lee Jones,USA,1946-09-15,M
+2178,Forest Whitaker,USA,1961-07-15,M
+2179,Suzy Amis,USA,1962-01-05,F
+2189,Renaud,France,1952-05-11,M
+2192,Lambert Wilson,France,1958-08-03,M
+2193,Alexandra Gonin,,,
+2197,Daniel Russo,France,1948-05-13,M
+2201,Max von Sydow,Sweden,1929-04-10,M
+2202,Steve Harris,USA,1965-12-03,M
+2203,Neal McDonough,USA,1966-02-13,M
+2206,Samantha Morton,UK,1977-05-13,F
+2208,Kathryn Morris,USA,1969-01-28,F
+2211,Gerald R. Molen,USA,1935-01-06,M
+2219,Tobey Maguire,USA,1975-06-27,M
+2220,Tony Curran,UK,1969-12-13,M
+2221,Leland Orser,USA,1960-08-06,M
+2222,Beau Bridges,USA,1941-12-09,M
+2223,Fred Savage,USA,1976-07-09,M
+2226,Sydney Pollack,USA,1934-07-01,M
+2227,Nicole Kidman,USA,1967-06-20,F
+2228,Sean Penn,USA,1960-08-17,M
+2229,Catherine Keener,USA,1959-03-23,F
+2230,Pam Grier,USA,1949-05-26,F
+2231,Samuel L. Jackson,USA,1948-12-21,M
+2232,Michael Keaton,USA,1951-09-05,M
+2233,Bridget Fonda,USA,1964-01-27,F
+2234,Michael Bowen,USA,1953-06-21,M
+2244,Jesper Christensen,Denmark,1948-05-16,M
+2245,Yvan Attal,Israel,1965-01-04,M
+2246,Earl Cameron,,1917-08-18,M
+2247,George Harris,West Indies,1949-10-20,M
+2249,Clyde Kusatsu,USA,1948-09-13,M
+2250,Eric Keenleyside,Canada,1957-10-11,M
+2264,Patrick Magee,UK,1922-03-31,M
+2282,Ben Kingsley,UK,1943-12-31,M
+2283,Stanley Tucci,USA,1960-11-11,M
+2291,Paul McGuigan,UK,1963-09-19,M
+2294,Robert Rodriguez,USA,1968-06-20,M
+2295,Mickey Rourke,USA,1952-09-16,M
+2296,Clive Owen,UK,1964-10-03,M
+2299,Josh Hartnett,USA,1978-07-21,M
+2310,Bruno Ganz,Switzerland,1941-03-22,M
+2314,Peter Falk,USA,1927-09-16,M
+2352,Jean-Jacques Annaud,France,1943-10-01,M
+2355,Andrew Birkin,UK,1945-12-09,M
+2368,Elya Baskin,U.S.S.R.,1950-08-11,M
+2369,Michael Lonsdale,France,1931-05-24,M
+2372,Ron Perlman,USA,1950-04-13,M
+2387,Patrick Stewart,UK,1940-07-13,M
+2391,Michael Dorn,USA,1952-12-09,M
+2395,Whoopi Goldberg,USA,1955-11-13,F
+2405,Audrey Tautou,France,1976-08-09,F
+2406,Mathieu Kassovitz,France,1967-08-03,M
+2407,Rufus,France,1942-12-19,M
+2408,Jamel Debbouze,France,1975-06-18,M
+2412,Isabelle Nanty,,1962-01-21,F
+2413,Dominique Pinon,France,1955-03-04,M
+2414,Artus de Penguern,,1957-03-13,M
+2415,Yolande Moreau,Belgium,1953-02-27,F
+2416,Urbain Cancelier,,,M
+2417,Maurice Bénichou,Algeria,1943-01-23,M
+2419,Jean-Pierre Jeunet,France,1953-09-03,M
+2440,Bill Nighy,UK,1949-12-12,M
+2441,Tom Hollander,UK,1967-08-25,M
+2449,Kevin McNally,UK,1956-04-27,M
+2453,Mary Steenburgen,USA,1953-02-08,F
+2460,Randall Wallace,USA,1949-07-28,M
+2461,Mel Gibson,USA,1956-01-03,M
+2462,Catherine McCormack,UK,1972-04-03,F
+2467,James Cosmo,UK,1948-05-24,M
+2468,Sean McGinley,Ireland,1956-01-01,M
+2472,Sean Lawlor,Ireland,1954-01-25,M
+2478,Tommy Flanagan,Uni,1965-07-03,M
+2479,Rupert Vansittart,UK,1958-02-10,M
+2482,David O'Hara,UK,1965-07-09,M
+2505,James Cromwell,USA,1940-01-27,M
+2506,Alice Krige,Afrique du Sud,1954-06-28,F
+2516,Anthony Zerbe,USA,1936-05-20,M
+2518,Gregg Henry,USA,1952-05-06,M
+2524,Tom Hardy,UK,1977-09-15,M
+2535,Vivica A. Fox,USA,1964-07-30,F
+2536,Michael Parks,USA,1940-04-24,M
+2538,Chiaki Kuriyama,Japan,1984-10-10,F
+2539,Julie Dreyfus,France,1966-01-24,F
+2541,Jun Kunimura,Japan,1955-11-16,M
+2542,Kazuki Kitamura,Japan,1969-07-17,M
+2544,Akaji Maro,Giappone,1943-02-23,M
+2545,Lawrence Bender,,1957-10-17,M
+2555,David Proval,U.S.,1942-05-20,M
+2565,Yves Montand,Italy,1921-10-13,M
+2589,Terry George,UK,1952-12-20,M
+2628,Kiefer Sutherland,UK,1966-12-21,M
+2632,Chris Rock,USA,1965-02-07,M
+2636,Alfred Hitchcock,UK,1899-08-13,M
+2639,Eva Marie Saint,USA,1924-07-04,F
+2659,Sol Gorss,U.S.A,1908-03-22,M
+2698,Norman Lloyd,USA,1914-11-08,M
+2701,George Martin,USA,1929-08-15,M
+2710,James Cameron,Canada,1954-08-16,M
+2712,Michael Biehn,USA,1956-07-31,M
+2758,Timothy Carey,USA,1929-03-11,M
+2829,Andrzej Seweryn,Germany,1946-04-25,M
+2880,Emilio Estevez,USA,1962-05-12,M
+2882,Diane Lane,USA,1965-01-22,F
+2887,Tom Waits,USA,1949-12-07,M
+2888,Will Smith,U.S.A.,1968-09-25,M
+2954,Jeffrey Wright,USA,1965-12-07,M
+2955,Chris Cooper,USA,1951-07-09,M
+2960,Amr Waked,Cairo Egypt,1973-04-12,M
+2963,Nicolas Cage,USA,1964-01-07,M
+2970,Jocelyn Quivrin,France,1979-02-14,M
+2974,Roger Yuan,USA,1961-01-25,M
+2975,Laurence Fishburne,USA,1961-07-30,M
+2978,Max Minghella,UK,1985-09-16,M
+2983,Mark Strong,UK,1963-08-05,M
+3019,Olympia Dukakis,USA,1931-06-20,F
+3026,Rob Reiner,USA,1947-03-06,M
+3037,Richard Dreyfuss,USA,1947-10-29,M
+3039,Bradley Gregg,USA,1966-11-08,M
+3051,Toni Collette,Australia,1972-11-01,F
+3061,Ewan McGregor,UK,1971-03-31,M
+3063,Tilda Swinton,UK,1960-11-05,F
+3064,Peter Mullan,UK,1959-11-02,M
+3075,Rory McCann,UK,1969-04-24,M
+3084,Marlon Brando,USA,1924-04-03,M
+3085,James Caan,USA,1940-03-26,M
+3087,Robert Duvall,USA,1931-01-05,M
+3088,Sterling Hayden,USA,1916-03-26,M
+3092,Diane Keaton,USA,1946-01-05,F
+3094,Talia Shire,USA,1946-04-25,F
+3110,Allison Anders,U.S,1954-11-16,F
+3124,Valeria Golino,Italy,1966-10-22,F
+3125,Madonna,USA,1958-08-16,F
+3127,Lili Taylor,USA,1967-02-20,F
+3128,Alicia Witt,USA,1975-08-21,F
+3129,Tim Roth,UK,1961-05-14,M
+3131,Antonio Banderas,Spain,1960-08-10,M
+3136,Salma Hayek,Mexico,1966-09-02,F
+3137,Paul Calderon,Puerto Rico,1959-01-01,M
+3140,Marc Lawrence,U.S.,1910-02-17,M
+3141,Marisa Tomei,USA,1964-12-04,F
+3150,Tony Curtis,USA,1925-06-03,M
+3197,Tom Sizemore,USA,1961-11-29,M
+3202,Edie McClurg,USA,1951-07-23,F
+3211,Dale Dye,USA,1944-10-08,M
+3217,Robert Swan,,1945-01-01,
+3223,Robert Downey Jr.,USA,1965-04-04,M
+3224,Stephen Frears,UK,1941-06-20,M
+3229,Arliss Howard,USA,1954-10-18,M
+3230,Todd Louiso,USA,1970-01-27,M
+3234,Joan Cusack,USA,1962-10-11,F
+3265,Eli Wallach,USA,1915-12-07,M
+3288,Chris Weitz,New York,1969-11-30,M
+3291,Hugh Grant,UK,1960-09-09,M
+3292,Nicholas Hoult,UK,1989-12-07,M
+3293,Rachel Weisz,UK,1970-03-07,F
+3300,Natalia Tena,UK,1984-11-01,F
+3337,Vince Edwards,USA,1928-07-09,M
+3347,James Griffith,USA,1916-02-13,M
+3359,Laurence Olivier,UK,1907-05-22,M
+3392,Michael Douglas,USA,1944-09-25,M
+3418,Vincent Schiavelli,USA,1948-11-11,M
+3489,Naomi Watts,UK,1968-09-28,F
+3490,Adrien Brody,USA,1973-04-14,M
+3491,Thomas Kretschmann,Germany,1962-09-08,M
+3493,Evan Parke,Jamaica,1968-01-02,M
+3497,Kyle Chandler,USA,1965-09-17,M
+3507,Claude Jade,France,1948-10-08,F
+3508,Delphine Seyrig,Lebanon,1932-04-10,F
+3509,Daniel Ceccaldi,France,1927-07-25,M
+3513,André Falcon,France,1924-11-28,
+3516,Serge Rousseau,France,1930-03-13,M
+3517,Paul Pavel,France,1920-07-17,M
+3533,Albert Simono,,,
+3536,Marie-France Pisier,French Indochina,1944-05-10,F
+3537,Rosy Varte,Ottoman Empire,1923-11-22,F
+3540,Raoul Coutard,France,1924-09-16,M
+3541,David Pittu,,1967-04-04,M
+3548,Timothy Bateson,UK,1926-04-03,M
+3556,Roman Polanski,France,1933-08-18,M
+3568,Patrick Godfrey,UK,1933-02-13,M
+3573,Daniel Boulanger,France,1922-01-24,M
+3581,Philippe Léotard,France,1940-08-28,M
+3591,Dani,,1945-10-01,F
+3594,Julien Bertheau,France [now now Algeria],1910-06-19,M
+3614,Michel Houellebecq,France,1956-02-26,M
+3623,Elena Anaya,Spain,1975-07-17,F
+3636,Paul Newman,USA,1925-01-26,M
+3711,Anna Levine,USA,1955-09-18,F
+3712,Saul Rubinek,Germany,1948-07-02,M
+3713,Frances Fisher,UK,1952-05-11,F
+3731,Marie Pillet,France,1941-07-20,F
+3753,Giancarlo Giannini,Italy,1942-08-01,M
+3776,Jean-Luc Godard,France,1930-12-03,M
+3783,Brigitte Bardot,France,1934-09-28,F
+3784,Michel Piccoli,France,1925-12-27,M
+3798,Pat Hingle,USA,1924-07-19,M
+3810,Javier Bardem,Spain,1969-03-01,M
+3829,Jean-Paul Belmondo,France,1933-04-09,M
+3831,Jean-Pierre Melville,France,1917-10-20,M
+3832,Henri-Jacques Huet,,,
+3833,Van Doude,,1926-05-28,M
+3836,Roger Hanin,France [now now Algeria],1925-10-20,M
+3872,Daniel Brühl,Spain,1978-06-16,M
+3894,Christian Bale,UK,1974-01-30,M
+3895,Michael Caine,UK,1933-03-14,M
+3896,Liam Neeson,Northern Ireland,1952-06-07,M
+3897,Katie Holmes,USA,1978-12-18,F
+3899,Ken Watanabe,Japan,1959-10-21,M
+3901,Richard Brake,Wales,1964-11-30,M
+3902,Sara Stewart,,1966-06-28,F
+3905,William H. Macy,USA,1950-03-13,M
+3910,Frances McDormand,USA,1957-06-23,F
+3911,John Carroll Lynch,USA,1963-08-01,M
+3926,Albert Finney,UK,1936-05-09,M
+3930,Phoebe Nicholls,UK,1957-04-07,F
+3967,Kate Beckinsale,UK,1973-07-26,F
+3968,Michael Sheen,UK,1969-02-05,M
+3974,Miloš Forman,Československo,1932-02-18,M
+3977,Joe Morton,USA,1947-10-18,M
+3981,Jenette Goldstein,U.S.,1960-02-04,F
+3982,Xander Berkeley,USA,1955-12-16,M
+4003,Christine Ebersole,USA,1953-02-21,F
+4012,Spencer Treat Clark,United States,1987-09-24,M
+4014,Paul W.S. Anderson,UK,1965-03-04,M
+4027,Frank Darabont,France,1959-01-28,M
+4029,Bob Gunton,USA,1945-11-15,M
+4030,Martin Klebba,U.S.,1969-06-23,M
+4031,Greg Ellis,UK,1968-03-21,M
+4038,Susan Sarandon,USA,1946-10-04,F
+4065,Fred Zinnemann,Hungary [now now Poland],1907-04-29,M
+4121,Marcel Dalio,France,1899-11-23,M
+4130,Harvey Parry,,,
+4133,Giuseppe Andrews,USA,1979-04-25,M
+4134,Keram Malicki-Sánchez,Canada,1974-05-14,M
+4135,Robert Redford,USA,1936-08-18,M
+4165,John Wayne,USA,1907-05-26,M
+4166,Isabelle Carré,France,1971-05-28,F
+4171,Stanley DeSantis,,,M
+4173,Anthony Hopkins,UK,1937-12-31,M
+4174,Claire Forlani,UK,1971-12-17,F
+4175,Jeffrey Tambor,USA,1944-07-08,M
+4201,Wayne Knight,USA,1955-08-07,M
+4238,Common,USA,1972-03-13,M
+4250,Michael Lerner,USA,1941-06-22,M
+4251,John Mahoney,UK,1940-06-20,M
+4252,Tony Shalhoub,USA,1953-10-09,M
+4253,Jon Polito,USA,1950-12-29,M
+4255,Richard Portnow,USA,1947-01-26,M
+4273,Charlotte Gainsbourg,UK,1971-07-21,F
+4274,Miou-Miou,France,1950-02-22,F
+4275,Alain Chabat,Algérie,1958-11-24,M
+4286,Emma de Caunes,France,1976-09-09,
+4287,Aurélia Petit,,1971-04-18,F
+4288,Sacha Bourdo,USSR [now now Russia],1962-01-08,M
+4290,Stéphane Metzger,,1973-04-02,M
+4299,Dean Martin,USA,1917-06-07,M
+4301,Angie Dickinson,USA,1931-09-30,F
+4318,Victor McGuire,UK,1964-03-17,M
+4387,François Ozon,France,1967-11-15,M
+4390,Ludivine Sagnier,France,1979-07-03,F
+4391,Charles Dance,UK,1946-10-10,M
+4397,Emilie Gavois-Kahn,,,F
+4430,Sharon Stone,USA,1958-03-10,F
+4432,Frances Conroy,USA,1953-11-13,F
+4443,Christopher McDonald,USA,1955-02-15,M
+4453,Thomas Vinterberg,Denmark,1969-05-19,M
+4483,Dustin Hoffman,USA,1937-08-08,M
+4491,Jennifer Aniston,USA,1969-02-11,F
+4492,Philip Baker Hall,USA,1931-09-10,M
+4494,Lisa Ann Walter,USA,1963-08-03,F
+4495,Steve Carell,USA,1962-08-16,M
+4496,Nora Dunn,USA,1952-04-29,F
+4499,Tom Shadyac,USA,1958-12-11,M
+4512,James Woods,USA,1947-04-18,M
+4517,Joe Pesci,USA,1943-02-09,M
+4529,Sylvie Testud,France,1971-01-17,F
+4566,Alan Rickman,UK,1946-02-21,M
+4569,David Fox,Canada,1941-01-01,M
+4570,Emily Hampshire,Quebec,1981-08-29,F
+4581,Steve Coogan,UK,1965-10-14,M
+4586,Pitof,France,1957-07-04,M
+4587,Halle Berry,USA,1966-08-14,F
+4604,Theresa Randle,U.S.,1964-12-27,F
+4610,John Landis,USA,1950-08-03,M
+4687,Patricia Arquette,USA,1968-04-08,F
+4688,Michael Rapaport,USA,1970-03-20,M
+4690,Christopher Walken,New York USA,1943-03-31,M
+4691,James Gandolfini,USA,1961-09-18,M
+4704,Fu'ad Aït Aattou,,1980-11-02,
+4724,Kevin Bacon,USA,1958-07-08,M
+4726,Marcia Gay Harden,USA,1959-08-14,F
+4728,Kevin Chapman,USA,1962-07-29,M
+4729,Tom Guiry,USA,1981-10-12,M
+4733,Robert Wahlberg,USA,1967-12-18,M
+4738,Connor Paolo,USA,1990-07-11,M
+4756,Matthew Broderick,USA,1962-03-21,M
+4757,Rupert Everett,UK,1959-05-29,M
+4764,John C. Reilly,USA,1965-05-24,M
+4765,Jason Robards,USA,1922-07-26,M
+4774,Jim Brown,USA,1936-02-17,M
+4783,Sam Neill,UK,1947-09-14,M
+4784,Laura Dern,USA,1967-02-10,F
+4785,Jeff Goldblum,USA,1952-10-22,M
+4786,Richard Attenborough,UK,1923-08-29,M
+4787,Joseph Mazzello,USA,1983-09-21,M
+4788,Ariana Richards,USA,1979-09-11,F
+4800,Gena Rowlands,USA,1930-06-19,F
+4808,Giancarlo Esposito,Denmark,1958-04-26,M
+4812,Isaach De Bankolé,Côte d'Ivoire,1957-08-12,M
+4818,Roberto Benigni,Italia,1952-10-27,M
+4885,Emmanuelle Béart,France,1963-08-14,F
+4887,Joe Grifasi,USA,1944-06-14,M
+4889,Kim Director,USA,1974-11-13,F
+4892,Chuck Cooper,,1954-11-08,M
+4935,Pete Postlethwaite,UK,1945-02-07,M
+4937,Vince Vaughn,USA,1970-03-28,M
+4939,Téa Leoni,USA,1966-02-25,F
+4941,Alessandro Nivola,USA,1972-06-28,M
+4945,Joe Johnston,USA,1950-05-13,M
+4971,Bud Cort,USA,1948-03-29,M
+5004,Omar Sharif,Egypt,1932-04-10,M
+5005,François Dupeyron,Francia,1950-08-14,M
+5048,Harry Dean Stanton,USA,1926-07-14,M
+5049,John Hurt,UK,1940-01-22,M
+5064,Meryl Streep,USA,1949-06-22,F
+5069,Robert Guédiguian,France,1953-12-03,M
+5077,Valeria Bruni Tedeschi,Italia,1964-11-16,F
+5079,Gilbert Melki,France,1958-11-12,M
+5081,Emily Blunt,UK,1983-02-23,F
+5082,Jacques Bonnaffé,,1958-06-22,
+5140,Wes Craven,USA,1939-08-02,M
+5149,Bonnie Hunt,USA,1961-09-22,F
+5151,Beth Grant,USA,1949-09-18,F
+5168,Gabriel Byrne,Ireland,1950-05-12,M
+5170,Mike Starr,USA,1950-07-29,M
+5174,Barry Sonnenfeld,USA,1953-04-01,M
+5216,Gus Van Sant,USA,1952-07-24,M
+5231,Wolfgang Petersen,Germany,1941-03-14,M
+5249,E.G. Marshall,USA,1914-06-18,M
+5266,Rüdiger Vogler,Warthausen,1942-05-14,M
+5274,Patrick Bauchau,Belgium,1938-12-06,
+5281,Spike Lee,USA,1957-03-20,M
+5292,Denzel Washington,United States,1954-12-28,M
+5293,Willem Dafoe,USA,1955-07-22,M
+5294,Chiwetel Ejiofor,UK,1977-07-10,M
+5298,Victor Colicchio,USA,1953-08-13,M
+5300,Peter Frechette,USA,1956-10-03,M
+5301,Waris Ahluwalia,India,1974-01-01,M
+5304,"Rodney \""Bear\"" Jackson",,,M
+5306,Lasse Hallström,Sweden,1946-06-02,M
+5309,Judi Dench,UK,1934-12-09,F
+5311,Hélène Cardona,,,F
+5318,Elisabeth Commelin,France,1954-06-02,
+5320,Leslie Caron,Seine,1931-07-01,F
+5341,Richard Burton,UK,1925-11-10,M
+5342,Mike Nichols,Germany,1931-11-06,M
+5365,Clifton Collins Jr.,USA,1970-06-16,M
+5376,Jean Smart,USA,1951-09-13,F
+5377,Ato Essandoh,USA,1972-07-29,M
+5384,Method Man,USA,1971-04-01,M
+5411,Sanaa Lathan,USA,1971-09-19,F
+5414,Colin Salmon,England,1962-12-06,M
+5419,Saïd Taghmaoui,France,1973-07-19,M
+5425,Christophe Rossignon,,1959-11-26,M
+5440,François Levantal,France,1960-10-14,M
+5441,Edouard Montoute,France,1970-12-20,M
+5442,Benoît Magimel,France,1974-05-11,M
+5443,Vincent Lindon,France,1959-07-15,M
+5444,Philippe Nahon,France,1938-12-24,M
+5445,Zinedine Soualem,France,1957-04-17,M
+5469,Ralph Fiennes,UK,1962-12-22,M
+5470,Kristin Scott Thomas,UK,1960-05-24,F
+5472,Colin Firth,UK,1960-09-10,M
+5502,Bill Nunn,U.S.,1953-10-20,M
+5524,Andrew Adamson,New Zealand,1966-12-01,M
+5530,James McAvoy,UK,1979-04-21,M
+5531,Kiran Shah,Kenya,1956-09-28,M
+5538,Ray Winstone,UK,1957-02-19,M
+5572,Joel Schumacher,USA,1939-08-28,M
+5576,Val Kilmer,USA,1959-12-31,M
+5578,Debi Mazar,USA,1964-08-13,F
+5587,Hank Azaria,USA,1964-04-25,M
+5602,David Lynch,USA,1946-01-20,M
+5605,Richard Farnsworth,USA,1920-09-01,M
+5606,Sissy Spacek,USA,1949-12-25,F
+5611,Dan Flannery,,,
+5616,Everett McGill,USA,1945-10-21,M
+5628,Angelo Badalamenti,USA,1937-03-22,M
+5655,Wes Anderson,USA,1969-05-01,M
+5657,Anjelica Huston,USA,1951-07-08,F
+5658,Michael Gambon,Ireland,1940-10-19,M
+5677,John Lordan,,,M
+5682,Anouk Aimée,France,1932-04-27,F
+5688,Guido Alberti,Italy,1909-04-20,M
+5694,Robert Forster,USA,1941-07-13,M
+5695,Sid Haig,USA,1939-07-14,M
+5713,Chris Wedge,USA,1957-03-20,M
+5723,John Leguizamo,Colombia,1964-07-22,M
+5724,Denis Leary,USA,1957-08-18,M
+5726,Cedric the Entertainer,USA,1964-04-24,M
+5727,Diedrich Bader,USA,1966-12-24,M
+5916,Rosario Dawson,USA,1979-05-09,F
+5917,Ernie Barbarash,USA,1947-01-29,M
+5953,Spike Jonze,USA,1969-10-22,M
+5963,Magali Noël,Turkey,1932-06-27,F
+6008,Harry Shearer,USA,1943-12-23,M
+6011,Michael Haneke,Germany,1942-03-23,M
+6012,Daniel Auteuil,France [now now Algeria],1950-01-24,M
+6014,Annie Girardot,France,1931-10-25,F
+6015,Bernard Le Coq,France,1950-09-25,M
+6016,Walid Afkir,,,M
+6018,Daniel Duval,France,1944-11-28,M
+6019,Nathalie Richard,France,1963-01-06,F
+6020,Denis Podalydès,France,1963-04-22,M
+6024,Loïc Brabant,,1961-12-23,
+6035,Russi Taylor,USA,1944-05-04,F
+6046,Roland Emmerich,West Germany,1955-11-10,M
+6047,Jeffrey Nachmanoff,USA,,M
+6065,Dennis Quaid,USA,1954-04-09,M
+6066,Dash Mihok,USA,1974-05-24,M
+6074,Kenneth Welsh,Canada,1942-03-30,M
+6079,Ivan Shvedoff,Russia),1969-01-01,M
+6091,August Diehl,Germany,1976-01-04,M
+6104,Julian Sands,UK,1958-01-04,M
+6110,Graham Beckel,USA,1949-12-22,M
+6159,Ron Howard,USA,1954-03-01,M
+6161,Jennifer Connelly,USA,1970-12-12,F
+6162,Paul Bettany,UK,1971-05-27,M
+6163,Adam Goldberg,USA,1970-10-25,M
+6164,Josh Lucas,USA,1971-06-20,M
+6193,Leonardo DiCaprio,USA,1974-11-11,M
+6197,Brian Dennehy,USA,1938-07-09,M
+6199,Miriam Margolyes,UK,1941-05-18,F
+6200,Diane Venora,USA,1952-08-10,F
+6201,Baz Luhrmann,Australia,1962-09-17,M
+6213,Jamie Kennedy,USA,1970-05-25,M
+6214,Edwina Moore,,,F
+6250,Romy Schneider,Austria,1938-09-23,F
+6283,Michael Nyqvist,Sweden,1960-11-08,M
+6295,Catherine Breillat,France,1948-07-13,F
+6304,Jean-François Stévenin,,1944-04-23,M
+6310,David Brisbin,,1952-06-26,M
+6349,Alan J. Pakula,USA,1928-04-07,M
+6352,Jane Fonda,USA,1937-12-21,F
+6368,Embeth Davidtz,USA,1965-08-11,F
+6383,Aaron Eckhart,USA,1968-03-12,M
+6384,Keanu Reeves,Lebanon,1964-09-02,M
+6407,Marley Shelton,USA,1974-04-12,F
+6413,Danny Huston,Italy,1962-05-14,M
+6431,Darren Aronofsky,USA,1969-02-12,M
+6450,Faye Dunaway,USA,1941-01-14,F
+6465,Grace Zabriskie,USA,1941-05-17,F
+6486,Dan Hedaya,USA,1940-07-24,M
+6487,Richard Roundtree,USA,1942-07-09,M
+6541,Philip Bosco,USA,1930-09-26,M
+6548,Isabelle Renauld,France,1966-11-24,F
+6549,Lola Naymark,France,1987-04-05,F
+6550,Anne Suarez,,,F
+6553,Isabelle Adjani,France,1955-06-27,F
+6554,Guillaume Gallienne,France,1972-02-08,M
+6556,Manuel Le Lièvre,,,
+6557,Daniel Znyk,France,1959-06-10,M
+6573,William Sadler,USA,1950-04-13,M
+6574,Clancy Brown,USA,1959-01-05,M
+6576,Mark Rolston,USA,1956-12-07,M
+6580,Brian Libby,,,M
+6585,Perla Haney-Jardine,Brazil,1997-07-17,F
+6587,Diane Ladd,U.S.A.,1932-11-29,F
+6588,Isabella Rossellini,Italy,1952-06-18,F
+6610,Walter Gotell,Germany,1924-03-15,M
+6613,Minnie Driver,UK,1970-01-31,F
+6614,Cole Hauser,USA,1975-03-22,M
+6637,Frank Finlay,UK,1926-08-06,M
+6644,Wanja Mues,Germany,1973-01-01,M
+6645,Richard Ridings,UK,1958-09-19,M
+6677,Kyle MacLachlan,USA,1959-02-22,M
+6692,Caroline Goodall,UK,1959-11-13,F
+6696,Mark Ivanir,USSR [now Ukraine],1968-09-06,M
+6698,Friedrich von Thun,Czech Republic,1942-06-30,M
+6701,Norbert Weisser,Germany,1946-07-09,M
+6718,Jack Nance,USA,1943-12-21,M
+6719,Ray Wise,USA,1947-08-20,M
+6726,Sheryl Lee,Germany,1967-04-22,F
+6730,Sacha Baron Cohen,UK,1971-10-13,M
+6734,Ken Davitian,USA,1953-06-19,M
+6737,Jay Roach,USA,1957-06-14,M
+6751,Siobhan Fallon Hogan,USA,1961-05-13,F
+6752,Zeljko Ivanek,Slovenia,1957-08-15,M
+6767,Larry Charles,USA,1956-02-20,M
+6804,Graham Greene,Canada,1952-06-22,M
+6806,Doug Hutchison,USA,1960-05-26,M
+6807,Sam Rockwell,California,1968-11-05,M
+6832,Melissa Leo,USA,1960-09-14,F
+6856,Kurt Russell,USA,1951-03-17,M
+6884,Patty Jenkins,USA,1971-07-24,F
+6885,Charlize Theron,South Africa,1975-08-07,F
+6905,Bruce Dern,USA,1936-06-04,M
+6913,Ellen Barkin,USA,1954-04-16,F
+6916,Peter Jason,USA,1944-07-22,M
+6929,Tippi Hedren,U.S,1930-01-19,F
+6941,Cameron Diaz,USA,1972-08-30,F
+6944,Octavia Spencer,USA,1972-05-25,F
+6949,John Malkovich,USA,1953-12-09,M
+6968,Hugh Jackman,Australia,1968-10-12,M
+6972,Ian McShane,UK,1942-09-29,M
+6975,Meera Syal,UK,1961-06-27,F
+6985,Jody Halse,,,
+7004,Paul Sorvino,USA,1939-04-13,M
+7013,Mark Camacho,Canada,1964-04-12,M
+7017,Roger Michell,South Africa,1956-06-05,M
+7024,Nick Gillard,,,M
+7026,Rhys Ifans,UK,1967-07-22,M
+7029,Roger Frost,UK,1948-06-09,M
+7030,Henry Goodman,Londra,1950-04-23,M
+7031,Julian Rhind-Tutt,UK,1968-07-20,M
+7037,Jean-Hugues Anglade,France,1955-07-29,M
+7056,Emma Thompson,England,1959-04-15,F
+7060,Martin Freeman,UK,1971-09-08,M
+7074,Peter Brocco,USA,1903-01-16,M
+7077,Scatman Crothers,USA,1910-05-23,M
+7087,Brad Bird,USA,1957-09-11,M
+7090,Kelsey Grammer,U.S. Virgin Islands,1955-02-21,M
+7132,Vincent D'Onofrio,USA,1959-06-30,M
+7140,Leonard Termo,USA,1935-03-06,M
+7164,Frank Vincent,USA,1939-08-04,M
+7167,Don Rickles,U.S.,1926-05-08,M
+7187,Richard Donner,USA,1930-04-24,M
+7219,David Andrews,USA,1952-01-01,M
+7248,Cliff Curtis,Zélande,1968-07-27,M
+7256,Lee Tamahori,New Zealand,1950-06-17,M
+7275,Patrick Chesnais,,1947-03-18,M
+7276,Anne Consigny,France,1963-05-25,F
+7277,Georges Wilson,France,1921-10-16,M
+7278,Lionel Abelanski,France,1964-10-22,M
+7279,Cyril Couton,,,M
+7283,Olivier Claverie,France,1959-03-03,M
+7285,Stéphan Wojtowicz,,,
+7301,Anthony Perkins,USA,1932-04-04,M
+7372,Pedro Armendáriz Jr.,Mexico,1940-04-06,M
+7399,Ben Stiller,USA,1965-11-30,M
+7404,Sarah Silverman,USA,1970-12-01,F
+7420,Harvey Fierstein,U.S.,1954-06-06,M
+7447,Alec Baldwin,USA,1958-04-03,M
+7467,David Fincher,USA,1962-08-28,M
+7470,Meat Loaf,USA,1947-09-27,M
+7471,Zach Grenier,USA,1954-02-12,M
+7472,Richmond Arquette,USA,1963-08-21,M
+7473,Rachel Singer,,,F
+7482,Julian Schnabel,USA,1951-10-26,M
+7487,David Bowie,UK,1947-01-08,M
+7497,Holt McCallany,USA,1964-09-03,M
+7499,Jared Leto,USA,1971-12-26,M
+7505,Roddy McDowall,UK,1928-09-17,M
+7517,Kate Bosworth,USA,1983-01-02,F
+7531,Joseph P. Reidy,,,M
+7568,Dominique Davray,France,1919-01-27,F
+7570,Lauren Bacall,USA,1924-09-16,F
+7576,Bill Raymond,USA,1938-09-09,M
+7624,Stan Lee,USA,1922-12-28,M
+7632,Shelley Winters,USA,1920-08-18,F
+7676,William Atherton,USA,1947-07-30,M
+7682,Anthony Dawson,UK,1916-10-18,M
+7691,Caroline Ducey,France,1977-01-01,F
+7692,Sagamore Stévenin,,1974-06-09,M
+7693,François Berléand,France,1952-04-22,M
+7694,Rocco Siffredi,Italy,1964-05-04,M
+7706,Roxane Mesquida,France,1981-10-01,F
+7707,Libero De Rienzo,Italia,1978-02-24,M
+7709,Romain Goupil,Francia,1951-08-25,
+7775,Stephen Sommers,USA,1962-03-20,M
+7796,Illeana Douglas,USA,1965-07-25,F
+7803,Christian Berkel,Germany,1957-10-28,M
+7832,Oliver Hirschbiegel,Germany,1957-12-29,M
+7868,Maury Chaykin,USA,1949-07-27,M
+7879,John Lasseter,USA,1957-01-12,M
+7882,Jeff Pidgeon,,1965-03-19,M
+7904,Billy Crystal,USA,1948-03-14,M
+7907,John Ratzenberger,USA,1947-04-06,M
+7908,Frank Oz,United Kingdom,1944-05-25,M
+7911,Joe Ranft,,1960-03-13,M
+7918,Bud Luckey,USA,1934-07-28,M
+7932,Rhett Reese,,,M
+7960,Jerome Ranft,,,M
+8032,Dylan Brown,,,M
+8065,Torbin Xan Bullock,,,
+8078,E.J. Holowicki,,,
+8169,Tyrese Gibson,USA,1978-12-30,M
+8170,Eva Mendes,USA,1974-03-05,F
+8171,Ludacris,USA,1977-09-11,M
+8183,Kathleen Quinlan,USA,1954-11-19,F
+8184,Mary Kate Schellhardt,,1978-11-01,F
+8189,Tracy Reiner,,1964-07-07,F
+8191,Chris Ellis,USA,1956-04-14,M
+8197,Sebastian Koch,Germany,1962-05-31,M
+8198,Ulrich Tukur,Germany,1957-07-29,M
+8205,Marie Gruber,Germany,1955-06-11,F
+8210,Wes Bentley,USA,1978-09-04,M
+8213,Sam Robards,USA,1961-12-16,M
+8214,Barry Del Sherman,USA,1962-11-10,M
+8224,Alec McCowen,Kent,1925-05-26,M
+8289,Billy Crudup,USA,1968-07-08,M
+8293,Marion Cotillard,France,1975-09-30,F
+8296,Christophe Gans,France,1960-03-11,M
+8329,Radha Mitchell,Australia,1973-11-12,F
+8349,Martin Sheen,USA,1940-08-03,M
+8354,Albert Hall,U.S.,1937-11-10,M
+8373,Nicolas Boukhrief,France,1963-06-04,M
+8395,Luke Perry,USA,1966-10-11,M
+8396,Tom Lister Jr.,USA,1958-06-24,M
+8398,John Bluthal,Poland,1929-08-12,M
+8399,Christopher Fairbank,UK,1953-10-04,M
+8400,Kim Chan,,1917-12-28,M
+8436,Miranda Richardson,UK,1958-03-03,F
+8437,Teri Garr,USA,1944-12-11,F
+8447,Jeff Daniels,USA,1955-02-19,M
+8534,Kathy Bates,USA,1948-06-28,F
+8536,Victor Garber,Canada,1949-03-16,M
+8540,Danny Nucci,Austria,1968-09-15,M
+8541,Jason Barry,Ireland,1972-12-14,M
+8545,Bernard Fox,UK,1927-05-11,M
+8557,Fernando Meirelles,Brazil,1955-11-09,M
+8591,Ted Grossman,,,
+8602,Alice Braga,Brazil,1983-04-15,F
+8606,Robert Shaw,UK,1927-08-09,M
+8635,Buster Keaton,USA,1895-10-04,M
+8645,Vivian Kubrick,USA,1960-08-05,F
+8654,Matthew Modine,USA,1959-03-22,M
+8655,R. Lee Ermey,USA,1944-03-24,M
+8657,Kevyn Major Howard,,,
+8664,Bruce Boa,Canada,1930-07-10,M
+8665,Ian Tyler,,,
+8666,Sal Lopez,,1954-11-08,
+8668,Papillon Soo,,,
+8669,Peter Edmund,,,M
+8682,Gino Acevedo,,,
+8685,Andrew Niccol,New Zealand,1964-06-01,M
+8687,Chi McBride,USA,1961-09-23,M
+8691,Zoe Saldana,USA,1978-06-19,F
+8693,Jude Ciccolella,USA,1947-11-30,M
+8700,Sasha Spielberg,USA,1990-05-14,
+8732,Joe Siffleet,,,
+8784,Daniel Craig,UK,1968-03-02,M
+8785,Ciarán Hinds,UK,1953-02-09,M
+8786,Ayelet Zurer,Israel,1969-06-28,F
+8789,Mathieu Amalric,France,1965-10-25,M
+8791,Marie-Josée Croze,Canada,1970-02-23,F
+8844,Lawrence Kasdan,USA,1949-01-14,M
+8857,Debbie Reynolds,USA,1932-04-01,F
+8873,Annie Potts,USA,1952-10-28,F
+8891,John Travolta,USA,1954-02-18,M
+8924,Frank Langella,USA,1938-01-01,M
+8925,Emmanuelle Seigner,France,1966-06-22,F
+8930,John Cleese,UK,1939-10-27,M
+8937,John Wood,UK,1930-07-05,M
+8945,Kevin Kline,USA,1947-10-24,M
+8979,Patrick Malahide,UK,1945-03-24,M
+8984,Bill Pullman,U.S.A.,1953-12-17,M
+8986,James Rebhorn,USA,1948-09-01,M
+8987,Lisa Jakub,Canada,1978-12-27,F
+9013,Kevin McKidd,UK,1973-08-09,M
+9015,Kelly Macdonald,UK,1976-02-23,F
+9030,Thandie Newton,UK,1972-11-06,F
+9032,Bryan Singer,USA,1965-09-17,M
+9045,Stephen Baldwin,USA,1966-05-12,M
+9046,Chazz Palminteri,USA,1952-05-15,M
+9047,Christine Estabrook,,1952-09-13,F
+9048,Clark Gregg,USA,1962-04-02,M
+9126,Edward Fox,UK,1937-04-13,M
+9128,Derek de Lint,Netherlands,1950-07-17,M
+9137,Renée Zellweger,USA,1969-04-25,F
+9138,Gemma Jones,UK,1942-12-04,F
+9139,Celia Imrie,UK,1952-07-15,F
+9142,Paul Brooke,U.K.,1944-11-22,M
+9144,Sally Phillips,British Crown Colony [now now China],1970-05-10,F
+9168,Alan Parker,UK,1944-02-14,M
+9172,Elizabeth Whitcraft,,,F
+9181,Edward Zwick,USA,1952-10-08,M
+9191,Timothy Spall,UK,1957-02-27,M
+9192,Togo Igawa,Japan,1946-09-26,M
+9193,Shun Sugata,Japan,1955-02-17,M
+9208,Robert Wagner,USA,1930-02-10,M
+9273,Amy Adams,Italy,1974-08-20,F
+9275,Frank John Hughes,USA,1967-11-11,M
+9277,John Finn,USA,1952-09-30,M
+9278,Jennifer Garner,USA,1972-04-17,F
+9281,Elizabeth Banks,USA,1974-02-10,F
+9284,Thomas Kopache,USA,1945-10-17,M
+9286,Louis Eppolito,,,M
+9289,Michael Massee,USA,1955-08-16,M
+9290,Henry Rollins,USA,1961-02-13,M
+9291,Michael Shamus Wiles,USA,1955-10-27,M
+9305,Heather Stephens,,,F
+9306,Scott Coffey,United States,1964-05-01,M
+9309,Richard Pryor,USA,1940-12-01,M
+9313,Lisa Boyle,USA,1964-08-06,F
+9437,Hank Amos,,,
+9464,Harry Lennix,USA,1964-11-16,M
+9560,Ellen Burstyn,USA,1932-12-07,F
+9575,Jada Pinkett Smith,USA,1971-09-18,F
+9599,Cloris Leachman,USA,1926-04-30,F
+9625,Linda Fiorentino,USA,1958-03-09,F
+9626,Rip Torn,USA,1931-02-06,M
+9630,Sergio Calderón,Mexico,1945-07-21,M
+9632,Fredric Lehne,USA,1959-02-03,M
+9634,Kent Faulcon,,,M
+9642,Jude Law,UK,1972-12-29,M
+9657,Patrick Warburton,USA,1964-11-14,M
+9740,René Clément,France,1913-03-18,M
+9741,Jean Marais,France,1913-12-11,M
+9746,Michel Auclair,Germany,1922-09-14,M
+9765,Françoise Fabian,Algeria,1933-05-10,F
+9766,Macha Méril,Morocco,1940-09-03,F
+9777,Cuba Gooding Jr.,USA,1968-01-02,M
+9778,Ice Cube,USA,1969-06-15,M
+9780,Angela Bassett,USA,1958-08-16,F
+9789,Robert Altman,USA,1925-02-20,M
+9805,Sally Kellerman,USA,1937-06-02,F
+9824,Diane Kruger,Germany,1976-07-15,F
+9828,Garrett Hedlund,USA,1984-09-03,M
+9831,Vincent Regan,Wales,1965-05-16,M
+9855,Terence Young,China,1915-06-20,M
+9871,Ursula Andress,Switzerland,1936-03-19,F
+9874,Bernard Lee,UK,1908-01-10,M
+9877,Eunice Gayson,UK,1928-03-17,F
+9878,Lois Maxwell,Canada,1927-02-14,F
+9880,Sam Shepard,USA,1943-11-05,M
+9893,Aurore Clément,France,1945-10-12,F
+9894,Bernhard Wicki,Austria,1919-10-28,M
+9901,Nadja Regin,Yugoslavia,1931-12-02,F
+9906,Desmond Llewelyn,,1914-09-12,M
+9908,Gert Fröbe,Germany,1913-02-25,M
+9915,Guy Hamilton,France,1922-09-16,M
+9919,Claudine Auger,France,1941-04-26,F
+9920,Adolfo Celi,Italy,1922-07-27,M
+9925,Martine Beswick,,1941-09-26,F
+9951,Kevin McClory,Ireland,1926-06-08,M
+9976,Henry Thomas,USA,1971-09-09,M
+10017,Charlton Heston,USA,1923-10-04,M
+10051,Tobe Hooper,USA,1943-01-25,M
+10074,Charles Gray,UK,1928-08-29,M
+10075,Tsai Chin,China,1936-11-30,F
+10076,Lewis Gilbert,UK,1920-03-06,M
+10127,Jon Voight,USA,1938-12-29,M
+10128,William Lee Scott,U.S.,1973-07-06,M
+10132,Colm Feore,USA,1958-08-22,M
+10134,Mako Iwamatsu,Japan,1933-12-10,M
+10135,Jesse James,USA,1989-09-14,M
+10137,Steve Rankin,USA,,
+10138,Brian Haley,USA,1963-02-12,M
+10179,John Glen,UK,1932-05-15,M
+10182,Ving Rhames,USA,1959-05-12,M
+10205,Sigourney Weaver,USA,1949-10-08,F
+10207,William Hope,Canada,1955-03-02,M
+10208,Al Matthews,USA,1942-11-21,M
+10222,Roger Moore,UK,1927-10-14,M
+10224,Clifton James,USA,1920-05-29,M
+10262,Andréa Ferréol,France,1947-01-06,F
+10297,Matthew McConaughey,USA,1969-11-04,M
+10342,Maud Adams,Sweden,1945-02-12,F
+10360,Robert Prosky,USA,1930-12-13,M
+10430,Fred Ward,USA,1942-12-30,M
+10431,Jennifer Jason Leigh,USA,1962-02-05,F
+10437,Lily Tomlin,USA,1939-09-01,F
+10459,Curd Jürgens,Germany,1915-12-13,M
+10460,Richard Kiel,USA,1939-09-13,M
+10462,Geoffrey Keen,UK,1916-08-21,M
+10465,Edward de Souza,,1932-09-04,M
+10476,Corinne Cléry,France,1950-03-23,F
+10486,Chelcie Ross,USA,1942-10-26,M
+10488,Benjamin Mouton,,,M
+10489,Jack McGee,USA,1949-02-02,M
+10491,Paul Verhoeven,Netherlands,1938-07-18,M
+10500,Carole Bouquet,France,1957-08-18,F
+10507,Jack Hedley,UK,1930-10-28,M
+10513,Robert Brown,UK,1921-07-23,M
+10531,Kitty Bradbury,,1875-05-17,F
+10580,Tracie Thoms,USA,1975-08-19,F
+10586,Richard Lester,U.S.,1932-01-19,M
+10648,Michael Kitchen,UK,1948-10-31,M
+10654,Graham Crowden,,1922-11-30,M
+10655,Leslie Phillips,UK,1924-04-20,M
+10657,Shane Rimmer,Canada,1929-05-28,M
+10669,Timothy Dalton,UK,1946-03-21,M
+10671,Joe Don Baker,USA,1936-02-12,M
+10672,Art Malik,Pakistan,1952-11-13,M
+10691,April Grace,USA,1962-05-12,F
+10696,Famke Janssen,Netherlands,1964-11-05,F
+10697,Alan Cumming,UK,1965-01-27,M
+10698,Tchéky Karyo,Turkey,1953-10-04,M
+10699,Samantha Bond,UK,1961-11-27,F
+10701,Simon Kunz,England,,M
+10702,Martin Campbell,USA,1943-10-24,M
+10707,Terry Jones,UK,1942-02-01,M
+10713,Eric Idle,UK,1943-03-29,M
+10722,Graham Chapman,England,1941-01-08,M
+10723,Mike Newell,UK,1942-03-28,M
+10727,John Hannah,UK,1962-04-23,M
+10730,Rowan Atkinson,UK,1955-01-06,M
+10732,Terence Bayler,,,
+10733,Carol Cleveland,,1942-01-13,F
+10739,Bebe Neuwirth,USA,1958-12-31,F
+10744,Götz Otto,Germany,1967-10-15,M
+10746,Geoffrey Palmer,UK,1927-06-04,M
+10748,Terence Rigby,UK,1937-01-02,M
+10765,Andrzej Bartkowiak,Poland,1950-03-06,M
+10774,Anne Bancroft,USA,1931-09-17,F
+10777,Maria Grazia Cucinotta,Italy,1968-07-27,F
+10779,David Calder,UK,1946-08-01,M
+10781,Michael Apted,UK,1941-02-10,M
+10808,Stephen Norrington,UK,1964-01-01,M
+10814,Wesley Snipes,USA,1962-07-31,M
+10823,Kris Kristofferson,USA,1936-06-22,M
+10828,Guillermo del Toro,Mexico,1964-10-09,M
+10841,Karel Roden,Czechoslovakia,1962-05-18,M
+10847,Santiago Segura,Spain,1965-07-17,M
+10849,Marek Vašut,,1960-05-05,
+10859,Ryan Reynolds,Canada,1976-10-23,M
+10882,Rosamund Pike,UK,1979-01-27,F
+10883,Rick Yune,USA,1971-08-22,M
+10912,Eva Green,France,1980-07-06,F
+10916,Caterina Murino,Italy,1977-09-15,F
+10917,Simon Abkarian,France,1962-03-05,M
+10930,Irvin Kershner,USA,1923-04-29,M
+10942,Pat Roach,UK,1937-05-19,M
+10943,Francis Lawrence,Austria,1970-03-26,M
+10959,Shia LaBeouf,USA,1986-06-11,M
+10965,Chris Columbus,USA,1958-09-10,M
+10978,Maggie Smith,United Kingdom,1934-12-28,F
+10980,Daniel Radcliffe,UK,1989-07-23,M
+10981,Fiona Shaw,Ireland,1958-07-10,F
+10982,Harry Melling,UK,1989-03-13,M
+10983,Richard Griffiths,UK,1947-07-31,M
+10984,Derek Deadman,,,
+10986,Ben Borowiecki,,,
+10987,Verne Troyer,USA,1969-01-01,M
+10988,Geraldine Somerville,Republic of Ireland,1967-05-19,F
+10989,Rupert Grint,UK,1988-08-24,M
+10990,Emma Watson,France,1990-04-15,F
+10991,Bonnie Wright,UK,1991-02-17,F
+10992,Chris Rankin,,1983-11-08,M
+10993,Tom Felton,UK,1987-09-22,M
+11006,James Marsden,USA,1973-09-18,M
+11022,Aaron Stanford,USA,1976-12-27,M
+11040,Gustaf Hammarsten,Sweden,1967-09-02,M
+11057,Robert Towne,USA,1934-11-23,M
+11059,Lyle Lovett,USA,1957-11-01,M
+11064,David Strathairn,USA,1949-01-26,M
+11066,Hal Holbrook,USA,1925-02-17,M
+11076,David Hyde Pierce,USA,1959-04-03,M
+11090,Edgar Wright,UK,1974-04-18,M
+11107,Ben Foster,USA,1980-10-29,M
+11108,Simon Pegg,UK,1970-02-14,M
+11109,Nick Frost,UK,1972-03-28,M
+11115,Peter Serafinowicz,UK,1972-07-10,M
+11148,Joan Allen,USA,1956-08-20,F
+11151,Nick Cassavetes,USA,1959-05-21,M
+11154,Matt Ross,USA,1970-01-03,M
+11159,Cheech Marin,USA,1946-07-13,M
+11160,Danny Trejo,USA,1944-05-16,M
+11161,Tom Savini,United States,1946-11-03,M
+11179,Sean Biggerstaff,Scotland,1983-03-15,M
+11180,David Bradley,UK,1942-04-17,M
+11181,Kenneth Branagh,UK,1960-12-10,M
+11183,Eleanor Columbus,,,
+11184,Warwick Davis,UK,1970-02-03,M
+11185,Emily Dale,,,
+11187,Louis de Funès,France,1914-07-31,M
+11188,Suzy Delair,France,1917-12-31,F
+11189,Claude Giraud,France,1936-02-05,M
+11191,Xavier Gélin,,1946-06-21,M
+11192,Henri Guybet,France,1936-12-21,M
+11193,Popeck,,,
+11194,Denise Provence,,,
+11195,Gérard Oury,France,1919-04-29,M
+11201,Claude Zidi,France,,M
+11207,David Thewlis,UK,1963-03-20,M
+11212,Josh Herdman,UK,1987-09-09,M
+11214,Coluche,France,1944-10-28,M
+11216,Julien Guiomar,France,1928-05-03,M
+11217,Claude Gensac,Multien,1927-03-01,F
+11218,Alfonso Cuarón,Mexico,1961-11-28,M
+11220,Fernand Guiot,,1932-08-07,
+11221,Raymond Bussières,France,1907-11-03,M
+11223,Vittorio Caprioli,Italia,1921-08-15,M
+11266,James McTeigue,Australia,1967-12-29,M
+11275,Stephen Fry,UK,1957-08-24,M
+11276,Tim Pigott-Smith,UK,1946-05-13,M
+11279,Roger Allam,UK,1953-10-26,M
+11288,Robert Pattinson,UK,1986-05-13,M
+11291,Clémence Poésy,France,1982-11-30,F
+11334,Elizabeth Moody,UK,1939-01-01,F
+11335,Ian Watkin,New Zealand,1940-01-15,M
+11343,David Yates,UK,1963-11-30,M
+11355,Jason Isaacs,UK,1963-06-06,M
+11356,Imelda Staunton,United Kingdom,1956-01-09,F
+11367,Bradley Whitford,USA,1959-10-10,M
+11370,Elton John,UK,1947-03-25,M
+11397,Ric Young,UK,,M
+11398,Cary-Hiroyuki Tagawa,Japan,1950-09-27,M
+11401,John Woo,China,1946-09-22,M
+11477,Ray Liotta,USA,1954-12-18,M
+11478,Lorraine Bracco,USA,1954-10-02,F
+11480,Frank Sivero,,1952-01-06,M
+11485,Gina Mastrogiacomo,USA,1961-11-05,F
+11486,Michael Imperioli,USA,1966-03-26,M
+11512,John Heard,USA,1945-03-07,M
+11519,Larry Hankin,USA,1940-08-31,M
+11528,Jean Renoir,France,1894-09-15,M
+11535,Paulette Dubost,France,1910-10-08,F
+11541,Julien Carette,,1897-12-23,M
+11543,Gaston Modot,,1887-12-30,M
+11544,Jean Gabin,France,1904-05-16,M
+11548,Georges Péclet,,,
+11550,Jean Dasté,,1904-08-18,M
+11661,Kate Hudson,USA,1979-04-19,F
+11662,Jason Lee,USA,1970-04-25,M
+11669,Jimmy Fallon,USA,1974-09-19,M
+11677,Terry Chen,Canada,1975-02-03,M
+11694,Doug Liman,USA,1965-07-24,M
+11701,Angelina Jolie,USA,1975-06-04,F
+11703,Kerry Washington,USA,1977-01-31,F
+11764,Ian Abercrombie,UK,1936-09-11,M
+11782,Adrienne Barbeau,USA,1945-06-11,F
+11794,Frances Bay,Canada,1919-01-23,F
+11803,Peter Greene,USA,1965-10-08,M
+11851,Om Puri,India,1950-10-18,M
+11855,Geraldine James,UK,1950-07-06,F
+11856,Daniel Day-Lewis,UK,1957-04-29,M
+11857,John Gielgud,UK,1904-04-14,M
+11870,Christine Baranski,USA,1952-05-02,F
+11885,John C. McGinley,USA,1959-08-03,M
+11953,Benno Fürmann,West Germany,1972-01-17,M
+11989,Michel Bouquet,France,1925-11-06,M
+12021,Mia Farrow,USA,1945-02-09,F
+12028,John Moore,Ireland,1970-01-01,M
+12041,Julia Stiles,USA,1981-03-28,F
+12044,Predrag Bjelac,Yugoslavia,1962-06-30,M
+12052,Gwyneth Paltrow,USA,1972-09-27,F
+12054,Daniel Zacapa,Honduras,1951-07-19,M
+12055,John Cassini,Canada,,M
+12058,Vicky Jenson,USA,1960-03-04,F
+12073,Mike Myers,Canada,1963-05-25,M
+12074,John Lithgow,USA,1945-10-19,M
+12077,Jim Cummings,USA,1952-11-03,M
+12079,Kelly Asbury,USA,1960-01-15,M
+12080,Conrad Vernon,,,M
+12095,Cody Cameron,United States,1965-02-28,M
+12097,Christopher Knights,,,M
+12098,Chris Miller,NY Long Island,1975-09-23,M
+12122,Ron Rifkin,USA,1939-10-31,M
+12132,Michael Rooker,USA,1955-04-06,M
+12133,Laurie Metcalf,USA,1955-06-16,F
+12134,Sally Kirkland,USA,1941-10-31,F
+12206,Richard Roxburgh,Australia,1962-01-01,M
+12210,Jacek Koman,Poland,1956-08-15,M
+12219,Jon Stewart,USA,1962-11-28,M
+12223,Joel McCrary,,,M
+12266,Simone Signoret,Germany,1921-03-25,F
+12270,Michel Serrault,France,1928-01-24,M
+12272,Noël Roquevert,France,1892-12-18,M
+12446,Peter Sellers,UK,1925-09-08,M
+12516,Linda Hunt,USA,1945-04-02,F
+12517,Freddie Jones,UK,1927-09-12,M
+12518,Richard Jordan,United States,1937-07-19,M
+12519,Virginia Madsen,USA,1961-09-11,F
+12538,Nick Searcy,USA,1959-03-07,M
+12539,Lily Knight,USA,1956-11-30,F
+12644,Mitch Pileggi,USA,1952-04-05,M
+12645,Jeffrey DeMunn,USA,1947-04-25,M
+12647,Armin Mueller-Stahl,Germany,1930-12-17,M
+12660,Gavan O'Herlihy,Ireland,1954-04-29,M
+12748,Michel Simon,Switzerland,1895-04-09,M
+12786,Simon West,UK,,M
+12797,Glenn Morshower,USA,1959-04-24,M
+12798,Enrique Murciano,USA,1973-07-09,M
+12833,Edward Burns,USA,1968-01-29,M
+12834,Barry Pepper,Canada,1970-04-04,M
+12835,Vin Diesel,USA,1967-07-18,M
+12838,Joerg Stadler,,1961-01-01,M
+12891,Joss Whedon,USA,1964-06-23,M
+12898,Tim Allen,USA,1953-06-13,M
+12899,Jim Varney,,1949-06-15,M
+12900,Wallace Shawn,USA,1943-11-12,M
+12901,Erik von Detten,U.S.,1982-10-03,M
+12931,Rita Wilson,USA,1956-10-26,F
+12995,Marc Forster,Germany,1969-11-30,M
+13014,Toby Jones,UK,1966-09-07,M
+13022,Tom Berenger,USA,1949-05-31,M
+13235,Alexander Payne,USA,1961-02-10,M
+13240,Mark Wahlberg,USA,1971-06-05,M
+13242,Paul Giamatti,USA,1967-06-06,M
+13275,Tadanobu Asano,Japan,1973-11-27,M
+13309,Oprah Winfrey,USA,1954-01-29,F
+13333,Vanessa Redgrave,UK,1937-01-30,F
+13420,Ellen Greene,U.S.,1951-02-22,F
+13446,Eliza Dushku,USA,1980-12-30,F
+13520,Aaron Sorkin,USA,1961-06-09,M
+13525,Matt Craven,Canada,1956-11-10,M
+13548,James Spader,USA,1960-02-07,M
+13550,Elias Koteas,Canada,1961-03-11,M
+13563,Norman Jewison,Canada,1926-07-21,M
+13602,Joie Lee,USA,1962-06-22,F
+13687,Jean-Claude Dreyfus,France,1946-02-18,M
+13688,Karin Viard,France,1966-01-24,F
+13689,Ticky Holgado,France,1944-06-24,M
+13692,Jacques Mathou,,,M
+13695,Silvie Laguna,,,
+13696,Howard Vernon,Switzerland,1914-07-15,M
+13697,Dominique Zardi,France,1930-03-02,M
+13726,Ned Beatty,USA,1937-07-06,M
+13776,John Frankenheimer,USA,1930-02-19,M
+13848,Charlie Chaplin,UK,1889-04-16,M
+13855,Al Ernest Garcia,,1887-03-11,M
+13856,Hank Mann,USA,1887-05-28,M
+13922,Seth Green,U.S.,1974-02-08,M
+13924,Mindy Sterling,USA,1953-07-11,F
+13939,Ritchie Coster,Uni,1967-07-01,M
+14027,Paulette Goddard,USA,1910-06-03,F
+14121,Wolfgang Preiss,Germany,1910-02-27,M
+14149,Renato Scarpa,Italy,1939-01-01,M
+14151,Leopoldo Trieste,Italy,1917-05-03,M
+14242,Jean Servais,Belgium,1910-09-24,M
+14243,Robert Manuel,France,1916-09-07,M
+14246,Robert Hossein,France,1927-12-30,M
+14261,David Niven,UK,1910-03-01,M
+14262,Capucine,France,1928-01-06,F
+14325,Derrick O'Connor,Ireland,1941-01-01,M
+14328,Steve Kahan,New York,1930-01-01,M
+14329,Dean Norris,USA,1963-04-10,M
+14331,Nestor Serrano,USA,1955-11-05,M
+14343,Rene Russo,USA,1954-02-17,F
+14353,Max Ophüls,Germany,1902-05-06,M
+14386,Beyoncé Knowles,United States,1981-09-04,F
+14409,David Schwimmer,Unis,1966-11-02,M
+14435,Mack Swain,USA,1876-02-16,M
+14438,Henry Bergman,USA,1868-02-22,M
+14468,Brian Glover,UK,1934-04-02,M
+14501,Peter Ustinov,UK,1921-04-16,M
+14503,Herbert Lom,Hungary,1917-09-12,M
+14548,Marcia Jean Kurtz,USA,,F
+14592,BD Wong,USA,1960-10-24,M
+14593,Ingeborga Dapkūnaitė,USSR [now now Lithuania],1963-01-20,F
+14597,Gaspar Noé,Argentina,1963-12-27,M
+14606,Albert Dupontel,France,1964-01-11,M
+14610,Jo Prestia,Italy,1960-06-05,M
+14630,Mac Steinmeier,Germany,1963-11-16,M
+14639,Mel Brooks,USA,1926-06-28,M
+14721,Kevin Dunn,USA,1956-06-24,M
+14722,Arabella Field,USA,1965-02-05,F
+14723,Vicki Lewis,,1960-03-17,F
+14759,Albert Moses,Sri Lanka,1937-12-19,M
+14792,Josef Sommer,Germany,1934-06-26,M
+14796,Jeanne Bates,USA,1918-05-21,F
+14801,Hal Landon Jr.,USA,1941-05-23,M
+14812,Jeanne Moreau,France,1928-01-23,F
+14852,James Karen,USA,1923-11-28,M
+14887,Paddy Considine,UK,1974-09-05,M
+14888,Bruce McGill,U.S.A.,1950-07-11,M
+14950,Jim Norton,Ireland,1938-01-04,M
+14991,Jay Leno,USA,1950-04-28,M
+15002,Dean Parisot,United States,1952-10-01,M
+15007,Laura Harring,Mexico,1964-03-03,F
+15009,Justin Theroux,USA,1971-08-10,M
+15011,Brent Briscoe,USA,1961-05-21,M
+15012,Katharine Towne,,1978-07-17,
+15029,Enrico Colantoni,Canada,1963-02-14,M
+15033,Justin Long,USA,1978-06-02,M
+15034,Jeremy Howard,USA,1981-06-12,M
+15091,Melanie Lynskey,New Zealand,1977-05-16,F
+15094,Diana Kent,,,F
+15109,Lisa Roberts Gillan,USA,1965-01-01,F
+15111,Jean-Claude Van Damme,Belgium,1960-10-18,M
+15135,Alain Delon,France,1935-11-08,M
+15137,Serge Reggiani,Italy,1922-05-02,M
+15139,Giuliano Gemma,,1938-09-02,M
+15148,Jon Amiel,UK,1948-05-20,M
+15152,James Earl Jones,USA,1931-01-17,M
+15184,Marcel Bozzuffi,France,1928-10-28,M
+15185,Frédéric de Pasquale,,1931-03-28,M
+15196,David Hemmings,UK,1941-11-18,M
+15217,Zack Snyder,USA,1966-03-01,M
+15218,James Gunn,USA,1966-08-05,M
+15232,Ty Burrell,USA,1967-08-22,M
+15250,Hope Davis,USA,1964-03-23,F
+15253,Stanley Anderson,USA,1939-10-23,M
+15277,Jon Favreau,USA,1966-10-19,M
+15287,Niki Caro,New Zealand,1966-09-20,F
+15318,Keith Campbell,USA,1962-04-26,M
+15320,Marcel Iureș,Romania,1951-08-02,M
+15321,Ion Caramitru,Romania,1942-03-09,M
+15336,Dougray Scott,UK,1965-11-25,M
+15338,William Mapother,USA,1965-04-17,M
+15340,Nicholas Bell,UK,1958-08-17,M
+15344,J.J. Abrams,USA,1966-06-27,M
+15347,Michael Giacchino,USA,1967-10-10,M
+15376,Brad William Henke,USA,1966-04-10,M
+15389,Louis Malle,France,1932-10-30,M
+15397,Lino Ventura,Italy,1919-07-14,M
+15402,Gérard Darrieu,France,1925-09-11,M
+15412,David Clennon,United States,1943-05-10,M
+15415,Peter Maloney,USA,1944-11-23,M
+15455,Tate Donovan,USA,1963-09-25,M
+15481,Marianne Basler,Belgium,1964-03-09,F
+15482,Aurélien Recoing,France,1958-05-05,M
+15488,Ken Loach,UK,1936-06-17,M
+15498,Liam Cunningham,Republic of Ireland,1961-06-02,M
+15501,William Ruane,UK,1985-06-07,M
+15531,Ossie Davis,USA,1917-12-18,M
+15532,Ruby Dee,USA,1924-10-27,F
+15536,Steve White,,1961-01-01,M
+15537,Leonard L. Thomas,USA,1961-08-31,M
+15565,Jennifer Hudson,United States,1981-09-12,F
+15576,Matthew Macfadyen,UK,1974-10-17,M
+15661,Clint Howard,USA,1959-04-20,M
+15735,Helen Mirren,UK,1945-07-26,F
+15737,Helen McCrory,UK,1968-08-17,F
+15740,Tim McMullan,Regno Unito,1963-01-01,M
+15758,Queen Latifah,USA,1970-03-18,F
+15762,Tara Strong,Canada,1973-02-12,F
+15831,Frank Welker,USA,1946-03-12,M
+15854,Ted Levine,USA,1957-05-29,M
+15860,Miguel Ferrer,USA,1955-02-07,M
+15887,Julia Ormond,UK,1965-01-04,F
+15899,Jenifer Lewis,USA,1957-01-25,F
+15900,Paul Dooley,U.S.,1928-02-22,M
+15903,George Carlin,U.S.,1937-05-12,M
+16060,Brian Tochi,,1959-05-02,M
+16119,Charles Napier,USA,1936-04-12,M
+16178,Rick Baker,USA,1950-12-08,M
+16187,Jeannot Szwarc,France,1939-11-21,M
+16269,Louis Garrel,France,1983-06-14,M
+16273,Simon Chandler,Regno Unito,1953-01-01,M
+16294,Jonathan Demme,USA,1944-02-22,M
+16314,Margarita Lozano,,1931-02-14,F
+16327,Timothy Hutton,USA,1960-08-16,M
+16350,Jean-Pierre Kalfon,France,1938-10-30,M
+16356,Steve Bendelack,,,M
+16358,Simon McBurney,UK,1957-08-25,M
+16407,Roger Rees,UK,1944-05-05,M
+16441,Tristán Ulloa,,1970-05-06,M
+16459,John McConnell,Louisiana,1958-11-13,M
+16483,Sylvester Stallone,USA,1946-07-06,M
+16484,Joey Lauren Adams,USA,1968-01-09,F
+16504,Tony Burton,USA,1937-03-23,M
+16513,John G. Avildsen,USA,1935-12-21,M
+16525,Joe Spinell,New York,1936-10-28,M
+16554,Richard Crenna,USA,1926-11-30,M
+16563,Charles A. Tamburro,,,M
+16566,George P. Cosmatos,Italy,1941-01-04,M
+16607,Alon Aboutboul,Israel,1965-05-28,M
+16618,Freddie Hice,,,M
+16632,Gary McCormack,,,M
+16636,Martin McCardie,,,
+16644,Dolph Lundgren,Sweden,1957-11-03,M
+16666,Kevin Connolly,Stati Uniti,1974-03-05,M
+16692,Viv Weatherall,England,1971-04-24,M
+16743,Arnold Vosloo,South Africa,1962-06-16,M
+16752,David Harewood,UK,1965-12-08,M
+16757,Sophia Loren,Italy,1934-09-20,F
+16767,Aki Kaurismäki,Finland,1957-04-04,M
+16785,Peter Webber,United Kingdom,,M
+16790,Gaspard Ulliel,France,1984-11-25,M
+16792,Richard Leaf,U.K.,1967-01-01,M
+16828,Chris Evans,USA,1981-06-13,M
+16834,Allen Coulter,USA,1969-03-21,M
+16841,Brett Cullen,USA,1956-08-26,M
+16847,Eli Roth,USA,1972-04-18,M
+16848,Rob Zombie,United States,1965-01-12,M
+16850,Rose McGowan,Italy,1973-09-05,F
+16851,Josh Brolin,USA,1968-02-12,M
+16853,Jessie Nelson,USA,,F
+16861,John Hawkes,USA,1959-09-11,M
+16862,Claude Lelouch,France,1937-10-30,M
+16873,Serge Riaboukine,,1957-12-29,M
+16908,David McKay,UK,,M
+16909,Raymond Mearns,,,
+16919,Olivier Dahan,France,1967-06-26,M
+16921,Clotilde Courau,France,1969-04-03,F
+16922,Jean-Paul Rouve,France,1967-01-26,M
+16923,Pascal Greggory,France,1953-09-08,M
+16925,Caroline Sihol,,1949-08-10,F
+16926,Catherine Allégret,,1946-04-16,F
+16927,Gérard Depardieu,France,1948-12-27,M
+16936,Stan Shaw,Illinois,1952-07-14,M
+16940,Jeremy Irons,UK,1948-09-19,M
+16972,Sergi López,Spain,1965-12-22,M
+17005,Doug Jones,U.S.,1960-05-24,M
+17016,Neil Jordan,Ireland,1950-02-25,M
+17028,Charles Denner,Poland,1926-05-29,M
+17030,Geneviève Fontanel,France,1936-06-27,
+17046,Gary Winick,USA,1961-03-31,M
+17051,James Franco,USA,1978-04-19,M
+17052,Topher Grace,USA,1978-07-12,M
+17064,Ben Whishaw,UK,1980-10-14,M
+17072,Sam Douglas,UK,1957-06-17,M
+17074,Sara Forestier,Denmark,1986-10-04,F
+17078,Michael Smiley,Ireland,1963-01-01,M
+17093,Eduardo Noriega,Spain,1973-08-01,M
+17141,Greg Kinnear,USA,1963-06-17,M
+17142,Paul Dano,USA,1984-06-19,M
+17167,Andy Tennant,USA,1955-06-15,M
+17178,Patrick Wilson,USA,1973-07-03,M
+17181,Ty Simpkins,USA,2001-08-06,M
+17183,Jackie Earle Haley,USA,1961-07-14,M
+17194,Chance Kelly,,,M
+17199,Corey Johnson,,1961-05-17,M
+17200,Bill Smitrovich,USA,1947-05-16,M
+17257,Elina Löwensohn,Romania,1966-07-11,F
+17265,Hayden Panettiere,USA,1989-08-21,F
+17268,Ronny Yu,China,,M
+17273,Masi Oka,Japan,1974-12-27,M
+17276,Gerard Butler,UK,1969-11-13,M
+17286,Lena Headey,Bermuda,1973-10-03,F
+17287,Dominic West,UK,1969-10-15,M
+17288,Michael Fassbender,Germany,1977-04-02,M
+17291,Andrew Pleavin,,1968-04-13,M
+17305,Greg Grunberg,USA,1966-07-11,M
+17352,Marianne Jean-Baptiste,UK,1967-04-26,F
+17356,Garrick Hagon,England,1939-09-27,M
+17380,Jay Chou,Taiwan,1979-01-18,M
+17396,Timothy Carhart,USA,1953-12-24,M
+17401,Stephen Root,USA,1951-11-17,M
+17419,Bryan Cranston,USA,1956-03-07,M
+17442,Kelli Garner,U.S.,1984-04-11,F
+17449,Bob Stephenson,USA,1967-05-18,M
+17458,Abdellatif Kechiche,Tunisia,1960-12-07,M
+17463,Carole Franck,Francia,,F
+17475,Sabrina Ouazani,France,1988-12-06,F
+17477,Harriet Walter,UK,1950-09-24,F
+17479,Matyelok Gibbs,,,F
+17484,Dermot Crowley,Ireland,1947-03-19,M
+17485,Oliver Platt,Canada,1960-01-12,M
+17490,Isiah Whitlock Jr.,USA,1954-09-13,M
+17496,Jacques Audiard,France,1952-04-30,M
+17497,Romain Duris,France,1974-05-28,M
+17498,Niels Arestrup,France[now Denis],1949-02-08,M
+17499,Jonathan Zaccaï,Belgium,1970-07-22,M
+17510,Ol Parker,Regno Unito,1969-06-02,
+17520,Cédric Klapisch,France,1961-09-04,M
+17521,Kelly Reilly,UK,1977-07-18,F
+17522,Cécile de France,Belgium,1975-07-17,F
+17578,Sami Frey,France,1937-10-13,M
+17604,Jeremy Renner,USA,1971-01-07,M
+17605,Idris Elba,UK,1972-09-06,M
+17618,Frankie Pain,,,
+17623,Guillaume Nicloux,France,1966-08-03,M
+17624,Olivier Doran,,,
+17628,Mary Elizabeth Winstead,USA,1984-11-28,F
+17647,Michelle Rodriguez,USA,1978-07-12,F
+17688,Raoul Max Trujillo,USA,1955-05-08,M
+17773,Gabrielle Union,USA,1972-10-29,F
+17782,Colm Meaney,Ireland,1953-05-30,M
+17787,Phyllida Law,UK,1932-05-08,F
+17832,Carla Gugino,USA,1971-08-29,F
+17835,Ricky Gervais,UK,1961-06-25,M
+17859,Wendell Pierce,USA,1963-12-08,M
+17881,Jason Schwartzman,USA,1980-06-26,M
+17882,Isabelle Huppert,France,1953-03-16,F
+17883,David O. Russell,USA,1958-08-20,M
+17897,Gilles Gaston-Dreyfus,,,M
+17901,Chantal Neuwirth,,1948-12-11,F
+17921,Clem Caserta,,,
+17928,Joseph D'Onofrio,,,
+17941,Domenick Lombardozzi,USA,1976-03-25,M
+18023,Robert Carlyle,UK,1961-04-14,M
+18050,Elle Fanning,USA,1998-04-09,F
+18070,Nicky Katt,USA,1970-05-11,M
+18175,Dominik Moll,West Germany,1962-05-07,
+18176,Gilles Marchand,Francia,1963-06-18,M
+18177,André Dussollier,France,1946-02-17,M
+18178,Laurent Lucas,France,1965-07-20,M
+18182,Olga Kurylenko,Ukraine,1979-11-14,F
+18186,Pierre-Ange Le Pogam,France,1955-08-20,M
+18197,Anna Karina,Denmark,1940-09-22,F
+18199,André S. Labarthe,Francia,1931-12-18,M
+18209,Claude Miller,France,1942-02-20,M
+18218,Marie Dubois,France,1937-01-12,F
+18227,Anne Wiazemsky,West Germany,1947-05-14,F
+18228,Juliet Berto,France,1947-01-16,F
+18240,Charlotte Alexandra,,1955-01-01,
+18242,Rita Maiden,,,F
+18248,Mary-Louise Parker,USA,1964-08-02,F
+18249,Cicely Tyson,USA,1933-12-19,F
+18269,Brendan Fraser,USA,1968-12-03,M
+18287,Ken Garito,USA,1968-12-27,M
+18313,Michael Rispoli,USA,1960-11-27,M
+18352,Patrick Dempsey,USA,1966-01-13,M
+18354,Bridget Moynahan,United States,1971-04-28,F
+18364,George Segal,USA,1934-02-13,M
+18405,Peter Berling,,1934-03-20,M
+18471,Anthony Anderson,USA,1970-08-15,M
+18472,Kevin Corrigan,USA,1969-03-27,M
+18473,James Badge Dale,USA,1978-05-01,M
+18514,Asia Argento,Italy,1975-09-20,F
+18558,Jean-Louis Richard,France,1927-05-17,M
+18559,Jean Desailly,France,1920-08-24,M
+18560,Michel Beaune,France,1933-12-13,M
+18561,Cyrielle Clair,,1955-12-01,F
+18563,Georges Lautner,France,1926-01-24,M
+18566,Pierre Vernier,France,1931-05-25,M
+18658,Mia Kirshner,Canada,1975-01-25,F
+18686,Holly Hunter,USA,1958-03-20,F
+18688,Harry Connick Jr.,USA,1967-09-11,M
+18702,Mark Dacascos,USA,1964-02-26,M
+18765,Alexandra Stewart,Canada,1939-06-10,F
+18767,Jean Champion,,,M
+18770,Bernard Ménez,France,1944-08-08,M
+18778,Jean Poiret,France,1926-08-17,M
+18779,Maurice Risch,France,1943-01-25,M
+18792,Delroy Lindo,UK,1952-11-18,M
+18811,Laurence Badie,France,1934-06-15,F
+18814,Maurice Garrel,France,1923-02-24,M
+18863,Eric Darnell,,,M
+18864,Tom McGrath,USA,1964-08-07,M
+18865,Louis Leterrier,France,1973-06-17,M
+18878,Rob Cohen,USA,1949-03-12,M
+18892,Goldie Hawn,USA,1945-11-21,F
+18897,Jackie Chan,Hong Kong,1954-04-07,M
+18898,Rob Minkoff,U.S.,1962-08-11,M
+18899,Yuen Woo-ping,China,1945-01-01,M
+18905,Peter J. Lucas,Poland,1962-06-02,M
+18916,Kevin J. O'Connor,USA,1963-11-15,M
+18918,Dwayne Johnson,USA,1972-05-02,M
+18973,Mila Kunis,USSR [now Ukraine],1983-08-14,F
+18976,Ashton Kutcher,USA,1978-02-07,M
+18977,Ed O'Neill,USA,1946-04-12,M
+18979,Christina Applegate,USA,1971-11-25,F
+18999,J.K. Simmons,USA,1955-01-09,M
+19034,Evangeline Lilly,Canada,1979-08-03,F
+19062,Michel Duchaussoy,France,1938-11-29,M
+19075,Philippe Morier-Genoud,,1944-03-02,M
+19077,Xavier Legrand,Francia,1979-01-01,M
+19080,Arnaud Henriet,,,
+19116,Aure Atika,Portugal,1970-07-12,F
+19117,Emmanuelle Devos,France[now Seine],1964-05-10,F
+19118,Anton Yakovlev,USSR [now now Russia],1969-12-22,
+19119,Mélanie Laurent,France,1983-02-21,F
+19131,Marsha Mason,USA,1942-04-03,F
+19144,Shannen Doherty,USA,1971-04-12,F
+19152,Dylan Baker,USA,1959-10-07,M
+19161,Sandrine Bonnaire,France,1967-05-31,F
+19162,Jean-Pierre Cassel,France,1932-10-27,M
+19163,Virginie Ledoyen,France,1976-11-15,F
+19208,Matt Malloy,USA,1963-01-12,M
+19210,James Van Der Beek,USA,1977-03-08,M
+19270,Michèle Mercier,France,1939-01-01,F
+19271,Anthony Russo,USA,1970-02-03,M
+19274,Seth Rogen,Canada,1982-04-15,M
+19278,Bill Hader,USA,1978-06-07,M
+19300,Sammi Rotibi,,,M
+19301,Yevgeni Lazarev,,,M
+19302,Jason Mewes,USA,1974-06-12,M
+19303,Kevin Smith,USA,1970-08-02,M
+19311,Stephen Chbosky,United States,1970-01-25,M
+19359,Marina de Van,France,1971-08-02,F
+19360,Léa Drucker,France,1972-01-23,F
+19362,Marc Rioufol,,,
+19372,Danielle Durou,,,F
+19375,François Guillaume,,,
+19382,Anne Coesens,Belgique,1968-01-01,F
+19444,Jack Knight,,1938-02-26,
+19487,Jay Hernandez,USA,1978-02-20,M
+19492,Viola Davis,USA,1965-08-11,F
+19498,Jon Bernthal,USA,1977-09-20,M
+19545,Jack Angel,,1930-10-24,M
+19587,Rumi Hiiragi,Japan,1987-08-01,
+19592,Tatsuya Gashûin,Japan,1950-12-10,F
+19613,Mike Marshall,USA,1944-09-13,M
+19632,Georges Géret,France,1924-10-18,M
+19639,André Hunebelle,France,1896-09-01,M
+19644,Christian Toma,,,
+19645,Jacques Dynam,France,1923-12-30,M
+19646,Mylène Demongeot,France,1935-09-29,F
+19647,Robert Dalban,France,1903-07-19,M
+19648,Marie-Hélène Arnaud,,,
+19653,Olivier De Funès,France,1949-08-11,M
+19655,James D'Arcy,UK,1975-08-24,M
+19726,Ray Cooper,UK,1947-09-19,M
+19753,Debbie Lee Carrington,USA,1959-12-14,F
+19767,Snoop Dogg,USA,1971-10-20,M
+19769,David Ayer,USA,1968-01-18,M
+19776,Jean-Christophe Bouvet,France,1947-03-24,M
+19794,Eddie Constantine,USA,1917-10-29,M
+19839,David Paymer,USA,1954-08-30,M
+19840,Alejandro Amenábar,Chile,1972-03-31,M
+19861,Elizabeth Sung,Hong Kong,1954-10-14,F
+19866,Guillaume Canet,France,1973-04-10,M
+19868,Paterson Joseph,U.K.,1964-06-22,M
+19869,Peter Youngblood Hills,South Africa,1978-01-28,M
+19875,Daniel Caltagirone,Regno Unito,1972-06-18,M
+19888,Géraldine Pailhas,France,1971-01-08,F
+19901,Clive Russell,UK,1945-12-07,M
+19903,Richard Bremmer,UK,1953-01-27,M
+19923,Hugh Bonneville,England,1963-11-10,M
+19934,Catherine Jacob,France,1956-12-16,F
+19936,Michèle Moretti,France,1940-03-15,F
+19995,Marianne Faithfull,UK,1946-12-29,F
+20006,Christopher Reeve,USA,1952-09-25,M
+20030,Jacques Perrin,France,1941-07-13,M
+20054,Elaine Cassidy,Ireland,1979-12-31,F
+20057,Michelle Fairley,Northern Ireland,1964-01-01,F
+20070,Jim Carter,UK,1948-08-19,M
+20073,Alexandra Leclère,Francia,,F
+20080,Catherine Frot,France,1956-05-01,F
+20081,Brigitte Catillon,France,1951-07-20,F
+20082,Michel Vuillermoz,France,1962-12-18,M
+20083,Christiane Millet,,,F
+20086,Jean-Philippe Puymartin,EU,1959-12-18,M
+20089,Jena Malone,USA,1984-11-21,F
+20113,Claude Dauphin,France,1903-08-19,M
+20115,Amidou,Morocco,1935-08-02,M
+20191,Jose Pablo Cantillo,USA,1979-03-30,M
+20192,Brian Taylor,UK,,M
+20197,Mylène Jampanoï,Francia,1980-07-12,F
+20212,Dermot Mulroney,USA,1963-10-31,M
+20218,Eric Bress,,,M
+20220,Elden Henson,USA,1977-08-30,M
+20234,Fanny Ardant,France,1949-03-22,F
+20235,Firmine Richard,Guadalupa,1947-09-25,F
+20239,Vincent Pérez,Switzerland,1964-06-10,M
+20243,Roger Ashton-Griffiths,United Kingdom,1957-01-19,M
+20258,Thure Lindhardt,Denmark,1974-12-24,M
+20277,David Suchet,UK,1946-05-02,M
+20282,John Kavanagh,,,M
+20283,Dwight Ewell,U.S.,1968-01-01,M
+20285,Féodor Atkine,France,1948-02-27,M
+20287,Laird Macintosh,USA,1962-06-27,M
+20289,Neil Jackson,UK,1976-03-05,M
+20307,Joachim Rønning,Norway,1972-05-30,M
+20334,Tsunehiko Kamijô,Japan,1940-03-07,M
+20338,Akihiro Miwa,Japan,1935-05-15,M
+20425,Donald Sumpter,UK,1943-02-13,M
+20430,Radu Mihăileanu,Romania,1958-04-23,M
+20442,Roschdy Zem,France,1965-09-27,M
+20471,Demetri Goritsas,USA,1971-08-24,M
+20491,Vanessa Ferlito,USA,1980-12-28,F
+20492,Jordan Ladd,USA,1975-01-14,F
+20493,Sydney Tamiia Poitier,USA,1973-11-15,F
+20494,Zoë Bell,New Zealand,1978-11-17,F
+20495,Jeff Fahey,USA,1952-11-29,M
+20497,Fergie,USA,1975-03-27,F
+20503,Scott Mosier,USA,1971-03-05,M
+20530,Philippine Leroy-Beaulieu,,1963-04-25,F
+20532,Moussa Maaskri,Algérie,1962-11-15,M
+20556,Bertrand Tavernier,France,1941-04-25,M
+20577,Amira Casar,England,1971-05-01,F
+20580,Joe Manganiello,USA,1976-12-28,M
+20646,Gabriele Muccino,Italy,1967-05-20,M
+20667,Sami Bouajila,France,1966-05-12,M
+20672,Antoine Chappey,,1960-06-29,M
+20709,Vincent Paronnaud,Francia,1970-01-01,M
+20710,Chiara Mastroianni,France,1972-05-28,F
+20718,Claude Berri,France,1934-07-01,M
+20739,Adam Shankman,USA,1964-11-27,M
+20750,Judy Greer,USA,1975-07-20,F
+20752,Alex Rocco,U.S.,1936-02-29,M
+20753,Fred Willard,USA,1939-09-18,M
+20761,Sven-Ole Thorsen,Danimarca,1944-09-24,M
+20766,Richard E. Grant,Swaziland,1957-05-05,M
+20789,Claude Sautet,France,1924-02-23,M
+20795,Jean-Pierre Marielle,France,1932-04-12,M
+20796,Thérèse Liotard,,1949-05-06,F
+20799,Philippe Laudenbach,France,1936-01-31,M
+20800,Jean-Pierre Castaldi,,1944-10-01,
+20810,Joely Richardson,UK,1965-01-09,F
+20849,Étienne Chatiliez,France,1952-06-17,M
+20850,Éric Berger,France,1969-06-13,M
+20851,Sabine Azéma,France,1949-09-20,F
+20853,André Wilms,France,1947-04-29,M
+20879,Kate Burton,Switzerland,1957-09-10,F
+20907,Antoine Fuqua,USA,1966-01-19,M
+20973,Louis Guss,,1918-01-04,M
+20982,Marton Csokas,New Zealand,1966-06-30,M
+20999,Mark Williams,UK,1959-08-22,M
+21007,Jonah Hill,USA,1983-12-20,M
+21041,Shohreh Aghdashloo,Iran,1952-05-11,F
+21084,David Dwyer,,,M
+21085,Alex Proyas,Egypt,1963-09-23,M
+21088,Alan Tudyk,USA,1971-03-16,M
+21089,Bruce Greenwood,Canada,1956-08-12,M
+21125,Richard Kind,USA,1956-11-22,M
+21126,Frédéric Auburtin,,,M
+21134,John Slattery,USA,1962-08-13,M
+21170,Michel Aumont,France,1936-10-16,M
+21171,Gérard Jugnot,France,1951-05-04,M
+21175,Michel Blanc,France,1952-04-16,M
+21177,Thierry Lhermitte,France,1952-11-24,M
+21200,Will Arnett,Canada,1970-05-04,M
+21245,Greta Scacchi,Italy,1960-02-18,F
+21278,Alan Alda,USA,1936-01-28,M
+21290,Dave Foley,Canada,1963-01-04,M
+21301,Edna Purviance,USA,1895-10-21,F
+21302,James T. Kelley,,,M
+21303,Eric Campbell,,1879-04-26,M
+21305,Lloyd Bacon,USA,1889-12-04,M
+21306,Albert Austin,England,1882-12-13,M
+21310,John Rand,,1871-11-19,M
+21312,Frank J. Coleman,,,
+21314,Charlotte Mineau,USA,1886-03-24,F
+21315,Eric Roberts,USA,1956-04-18,M
+21316,Nestor Carbonell,USA,1967-12-01,M
+21317,Daeg Faerch,USA,1996-09-27,M
+21339,Jez Butterworth,UK,1969-01-01,M
+21343,Ben Chaplin,UK,1970-07-31,M
+21353,Isaiah Washington,USA,1963-08-03,M
+21354,Russell Wong,USA,1963-03-01,M
+21355,DMX,U.S,1970-12-18,M
+21370,Roger Donaldson,Australia,1945-11-15,M
+21380,Larry Joshua,New York USA,1952-02-12,M
+21385,Tony Sirico,USA,1942-07-29,M
+21416,William Devane,USA,1939-09-05,M
+21431,David Gant,,,M
+21485,Blake Clark,USA,1946-02-02,M
+21505,Robert Wisdom,USA,1953-09-14,M
+21523,Ed Lauter,USA,1940-10-30,M
+21550,Julie Bataille,France,,F
+21577,Julie-Anne Roth,,1973-03-31,F
+21593,Jason Biggs,USA,1978-05-12,M
+21596,Shannon Elizabeth,USA,1973-09-07,F
+21631,Michael Chow,,1939-02-06,
+21647,Gérard Krawczyk,France,1953-05-17,M
+21657,Vera Farmiga,USA,1973-08-06,F
+21664,Christian Sinniger,France,1947-10-28,M
+21665,Alexandre Brik,,,M
+21675,Jack Conley,,,M
+21678,Olivier Assayas,France,1955-01-25,M
+21680,Dominique Besnehard,France,1954-02-05,M
+21723,Robert Baker,USA,1979-10-15,M
+21769,Bruno Podalydès,France,1961-03-11,M
+21792,George Gallo,USA,,M
+21798,Johnny Messner,USA,1970-04-11,M
+21807,Billy Ray,Stati Uniti,1971-09-21,M
+21848,Regina Taylor,U.S.,1960-08-22,F
+21879,Simon Wells,England,1961-01-01,M
+21931,Chris Nahon,France,1968-12-05,M
+21942,Max Ryan,,1967-01-01,M
+21944,Burt Kwouk,UK,1930-07-18,M
+21945,Laurence Ashley,,,F
+21946,Cyril Raffaelli,France,1974-04-01,M
+21978,Louise Goodall,UK,1962-01-01,F
+21981,Harald Zwart,Netherlands,1965-07-01,M
+21986,Reba McEntire,USA,1955-03-28,F
+22007,Brad Mirman,,1953-06-28,M
+22109,Peter Firth,UK,1953-10-27,M
+22131,J.T. Walsh,USA,1943-09-28,M
+22163,Florence Muller,,,F
+22171,Bryan Pringle,,1935-01-19,M
+22226,Paul Rudd,USA,1969-04-06,M
+22227,Christopher Meloni,USA,1961-04-02,M
+22250,Rance Howard,,1928-11-17,M
+22290,Leelee Sobieski,USA,1982-06-10,F
+22306,Kad Merad,Algeria,1964-03-27,M
+22308,Albert Dray,,,
+22312,Venantino Venantini,Italy,1930-04-17,M
+22316,Nancy Tate,,,
+22462,Joaquim de Almeida,Portugal,1957-03-15,M
+22796,Hans Meyer,South Africa,1925-07-21,M
+22808,Laurence Malkin,,,M
+22970,Peter Dinklage,USA,1969-06-11,M
+23076,Robert Hardy,UK,1925-10-29,M
+23162,Raymond Devos,,,M
+23286,Omar Doom,,1976-06-29,
+23383,Leïla Bekhti,France,1984-03-06,F
+23387,Lionel Dray,,,M
+23388,Hippolyte Girardot,France,1955-10-10,M
+23390,Sara Martins,Portugal,1977-08-19,F
+23392,Joana Preiss,Francia,1972-05-22,F
+23393,Barbet Schroeder,Iran,1941-08-26,M
+23459,Sienna Miller,USA,1981-12-28,F
+23480,Henri Attal,France,1936-05-13,
+23505,Christophe Odent,,1955-12-02,M
+23532,Jason Bateman,USA,1969-01-14,M
+23608,Colin Stinton,,1947-03-10,M
+23626,Liev Schreiber,USA,1967-10-04,M
+23629,Brian O'Halloran,USA,1969-12-20,M
+23630,Jeff Anderson,USA,1970-04-21,M
+23633,Walt Flanagan,,1967-10-23,M
+23647,Renée Humphrey,,1975-01-27,F
+23658,Jennifer Schwalbach Smith,,1971-04-07,F
+23659,Will Ferrell,USA,1967-07-16,M
+23671,Émilie Dequenne,Belgique,1981-08-29,F
+23673,Martine Sarcey,France,1928-09-28,F
+23680,Dee Bradley Baker,USA,1962-08-31,M
+23724,Patrice Chéreau,France,1944-11-02,M
+23728,Ariel Zeitoun,Tunisia,1945-09-26,M
+23735,Roland Bertin,France,1930-11-16,M
+23789,Sebastian Roché,France,1964-08-04,M
+23967,Mary Ellen Trainor,USA,1950-07-08,
+23968,Phil Alden Robinson,USA,1950-03-01,M
+23975,Lee Garlington,Unis,1953-07-20,F
+23984,Bernard Farcy,France,1949-03-17,M
+24040,Jean-Luc Couchard,Belgium,1969-07-14,M
+24041,François Damiens,Belgium,1973-01-17,M
+24045,Joseph Gordon-Levitt,USA,1981-02-17,M
+24200,Leonardo Nam,Argentina,1979-01-01,M
+24299,Jean-Claude Brialy,French Algeria,1933-03-30,M
+24303,Paul Bisciglia,Algeria,1928-07-30,M
+24342,David Prowse,UK,1935-07-01,M
+24358,Lori Alan,USA,1966-07-18,F
+24360,Gregory Jbara,USA,1961-09-28,M
+24366,Philippe Noiret,France,1930-10-01,M
+24378,Bernard Alane,France,1948-12-25,M
+24379,Bernard Blier,Argentina,1916-01-11,M
+24380,Édouard Molinaro,France,1928-05-13,M
+24381,Jean Yanne,France,1933-07-18,M
+24387,Pierre Mondy,France,1925-02-10,M
+24388,Claude Piéplu,France,1923-05-10,M
+24389,Denys de La Patellière,France,1921-03-08,M
+24393,Marie-Christine Barrault,France,1944-03-21,F
+24395,Jean-Pierre Bisson,France,1944-02-15,
+24396,Maaike Jansen,,,F
+24397,Jean-Pierre Mocky,France,1933-07-06,M
+24421,Jean Rochefort,France,1930-04-29,M
+24422,Bernard Fresson,France,1931-05-27,M
+24425,Serge Korber,France,1936-02-01,M
+24436,André Lacombe,France,1923-11-30,M
+24454,Tom Novembre,,1959-11-08,M
+24464,Philippe Khorsand,France,1948-02-17,M
+24465,Eric Elmosnino,France,1964-05-02,M
+24467,Jean-Paul Roussillon,France,1931-03-05,M
+24475,Anny Duperey,France,1947-06-28,F
+24476,Pierre Brasseur,France,1905-12-22,M
+24477,Paul Le Person,France,1931-02-10,M
+24479,Jean Saudray,France,1928-07-17,M
+24485,Nicole Garcia,French Algeria,1946-04-22,F
+24487,Christophe Malavoy,Germany,1952-03-21,M
+24495,Michel Constantin,France,1924-07-13,M
+24496,Simón Andreu,Spain,1941-01-11,M
+24500,Paul Préboist,France,1927-07-21,M
+24501,Pierre Richard,France,1934-08-16,M
+24507,Jean-Daniel Verhaeghe,,1944-01-01,M
+24532,Bernard Dhéran,,,
+24537,Jean-Claude Bouillon,France,1941-12-27,M
+24540,Jean Carmet,,1920-04-25,M
+24544,Sacha Briquet,France,1930-04-16,M
+24563,Philippe Magnan,France,1948-08-21,M
+24590,Dominique Sanda,France,1948-03-11,F
+24591,Valéria Cavalli,Italy,1959-11-01,F
+24629,Michel Galabru,French Protectorate of Morocco [now now Morocco],1922-10-27,M
+24652,Patrick Préjean,France,1944-06-04,M
+24683,Jacques Weber,,1949-08-23,M
+24684,Paul Frankeur,France,1905-06-29,M
+24688,Cécile Vassort,,1941-06-02,
+24722,Cyril Shaps,UK,1923-10-13,M
+24759,Jacques Toja,France,1929-09-01,M
+24762,Catherine Mouchet,France,1959-08-21,F
+24763,Roland Blanche,France,1943-12-31,M
+24764,Jean Abeillé,,,M
+24779,Claude Vernier,Germany,1913-07-20,
+24783,Clément Michu,,,
+24796,Didier Kaminka,France,1943-04-22,
+24807,Darry Cowl,France,1925-08-27,M
+24814,Daniel Gélin,France,1921-05-19,M
+24816,Pierre Arditi,France,1944-12-01,M
+24817,Sophie Moyse,,,
+24818,Hervé Pauchon,,,
+24832,Daniel Prévost,France[now Seine],1939-10-20,M
+24877,Christian Bujeau,France,1944-10-14,
+24880,George Chakiris,USA,1934-09-16,M
+24883,Germaine Delbat,,,
+24885,Louis Seigner,,1903-06-23,M
+24886,Frédéric Forestier,France,1969-01-01,M
+24891,Clovis Cornillac,France,1967-08-16,M
+24893,Franck Dubosc,France,1963-11-07,M
+24895,José Garcia,France,1966-03-17,M
+24898,Nathan Jones,Australia,1969-08-21,M
+24903,Claude Rich,France,1929-02-08,M
+24907,Alain Mottet,,1938-12-30,M
+24932,Robert Castel,Algérie,1933-05-21,M
+24933,Jacques Monod,,1918-08-21,M
+24942,Tsilla Chelton,France,1918-06-21,F
+25002,Lee Byung-hun,South Korea,1970-07-12,M
+25038,Michel Creton,,1942-08-17,
+25048,Yves Afonso,,,
+25052,Thomas Chabrol,France,1963-04-24,M
+25062,Georges Claisse,France,1941-01-01,M
+25064,Jean Barney,,1947-01-01,M
+25069,Jacques Richard,France,1931-05-10,M
+25072,Oscar Isaac,Guatemala,1979-03-09,M
+25078,Eriq Ebouaney,France,1967-10-03,M
+25079,Stefan Kalipha,West Indies,1940-01-01,M
+25126,Jeanne Herviale,France,1908-12-24,
+25129,Don Johnson,United States,1949-12-15,M
+25133,Vincent Grass,,1949-01-09,M
+25134,Shane Rangi,,1969-02-03,M
+25147,Tony Hale,USA,1970-09-30,M
+25154,Arletty,France,1898-05-15,F
+25161,Marcel Carné,France,1906-08-18,M
+25166,Dora Doll,Germany,1922-05-19,F
+25178,Danièle Delorme,France,1926-10-09,F
+25179,Guy Bedos,,1934-06-15,M
+25180,Victor Lanoux,France,1936-06-18,M
+25181,Marthe Villalonga,département d'Alger,1932-03-20,F
+25182,Yves Robert,France,1920-06-21,M
+25192,Jean-Pierre Clami,,,
+25193,Georges Lucas,,,
+25235,Martine Kelly,,1948-02-15,
+25256,Victoria Abril,Spain,1959-07-04,F
+25258,Rossy de Palma,Spain,1964-09-16,F
+25340,Emmanuelle Bercot,France,1967-11-06,F
+25346,Éva Darlan,France,1948-09-03,F
+25347,Lorànt Deutsch,France,1975-10-27,M
+25451,Spencer Wilding,UK,1972-07-26,M
+25503,Mandy Patinkin,USA,1952-11-30,M
+25598,Paul Greengrass,UK,1955-08-13,M
+25616,Edgar Ramírez,Venezuela,1977-03-25,M
+25659,James Babson,,1974-10-24,M
+25677,Joel Kirby,,1964-01-01,M
+25679,Richard Katz,,,
+25702,Rhona Mitra,England,1976-08-09,F
+25730,Brian Caspe,USA,1975-05-11,M
+25753,Leo Stransky,,,
+25879,Geoff Pierson,USA,1949-06-16,M
+25958,Hubert Deschamps,France,1923-09-13,M
+25966,Jacques Gheusi,,,
+25976,Bernard Musson,France,1925-02-22,M
+26100,Melvil Poupaud,France,1973-01-26,M
+26101,Marie Rivière,France,1956-12-22,F
+26183,François Leterrier,France,1929-05-26,M
+26205,James Bobin,,,M
+26364,Pierre Moncorbier,France,1907-07-10,M
+26370,Romain Bouteille,,,
+26371,Jacques Sereys,France,1928-06-02,M
+26401,Michèle Garcia,,,F
+26404,Daphné Baiwir,,1992-07-18,F
+26469,Holly Marie Combs,USA,1973-12-03,F
+26473,Fisher Stevens,USA,1963-11-27,M
+26483,Valerie Perrine,USA,1943-09-03,F
+26657,David Bamber,UK,1954-09-19,M
+26760,Tsui Hark,Vietnam,1950-02-15,M
+26860,John Sessions,UK,1953-01-11,M
+26863,Richard Graham,United Kingdom,1960-05-10,M
+26886,Jean Le Poulain,,,
+26887,Francis Huster,France,1947-12-08,M
+26889,Francis Lemaire,Belgium,1936-06-09,M
+26890,Jacques Marin,France,1919-09-09,M
+27030,Tom Gallop,,,M
+27037,Levan Uchaneishvili,USSR [now Republic of Georgia],1958-12-15,M
+27110,Malcolm Stewart,Canada,1948-05-15,M
+27163,Ornella Muti,Italy,1955-03-09,F
+27221,Dominique Farrugia,France,1962-09-02,M
+27319,Christoph Waltz,Austria,1956-10-04,M
+27321,Philip Locke,UK,1928-03-29,M
+27425,Constantine Gregory,USA,1942-09-16,M
+27436,Costa-Gavras,Greece,1933-02-12,M
+27440,François Périer,France,1919-11-10,M
+27441,Pierre Dux,France,1908-10-21,M
+27443,Gérard Buhr,,1928-05-08,M
+27530,Don Lake,Canada,1956-11-26,M
+27570,Anna Katarina,,,F
+27627,Waldemar Kobus,Poland,1966-01-01,M
+27702,Jacques Disses,,,
+27740,Walton Goggins,USA,1971-11-10,M
+27755,Melissa George,Australia,1976-08-06,F
+27764,Steven Waddington,UK,1967-12-30,M
+27770,Dennis Christopher,USA,1955-12-02,M
+27807,Henri Marteau,,1933-01-16,M
+27822,David Ryall,UK,1935-01-05,M
+27880,Henri Garcin,Belgium,1929-04-11,M
+27888,Raúl Juliá,Puerto Rico,1940-03-09,M
+27972,Josh Hutcherson,USA,1992-10-12,M
+27978,Denis Lavant,France,1961-06-17,M
+27980,Edith Scob,France,1937-10-21,F
+28004,Brian Markinson,,,M
+28029,Ira Wheeler,,,
+28033,Arthur J. Nascarella,,1944-11-18,M
+28183,Michel Fortin,France,1937-07-09,
+28186,Agathe Natanson,France,1946-11-14,
+28187,Sylvia Saurel,,,
+28189,Mario David,France,1927-08-09,
+28190,Roger Van Hool,Belgium,1940-09-27,M
+28239,David Twohy,USA,1955-10-18,M
+28247,François Maistre,France,1925-05-14,M
+28254,Bernadette Lafont,France,1938-10-26,F
+28255,Fabrice Luchini,France,1951-11-01,M
+28278,Madeleine Barbulée,France,1910-09-02,
+28279,Agnès Jaoui,Francia,1964-10-19,F
+28281,Jean-Pierre Bacri,France,1951-05-24,M
+28432,Max Mauff,Germany,1987-07-03,M
+28462,Dominique Bettenfeld,,,
+28463,Jean-Pierre Darroussin,France,1953-12-04,M
+28477,Jonathan Aris,,1971-01-01,M
+28485,Steve Pemberton,,1967-09-01,M
+28615,Éric Rohmer,France,1920-03-20,M
+28633,Richard Jenkins,USA,1947-05-04,M
+28637,Andy Richter,USA,1966-10-28,M
+28638,David Koechner,USA,1962-08-24,M
+28640,Molly Shannon,USA,1964-09-16,F
+28657,Matthew Fox,USA,1966-07-14,M
+28675,Laurent Stocker,,1973-05-23,M
+28676,Françoise Bertin,France,1925-09-23,F
+28677,Danièle Lebrun,France,1937-07-24,F
+28679,Béatrice Michel,France,1959-02-21,F
+28681,Hélène Surgère,France,1928-10-20,F
+28682,Juliette Arnaud,,1973-03-06,F
+28781,Christian Clavier,France,1952-05-06,M
+28782,Monica Bellucci,Italy,1964-09-30,F
+28792,Alain Beigel,,1964-01-01,M
+28793,Marie Bunel,France,1964-05-27,F
+28847,Rafe Spall,UK,1983-03-10,M
+28853,Anton Rodgers,UK,1933-01-10,M
+28871,Eugene Lipinski,UK,1956-11-05,M
+29009,Ken Kwapis,USA,1957-08-17,M
+29082,Bruce Phillips,,1951-09-13,M
+29094,John Bach,,1946-06-05,M
+29214,Anne Fletcher,USA,1966-05-01,F
+29215,Jamal Sims,,,
+29221,Brittany Snow,USA,1986-03-09,F
+29237,Leo Bill,,1980-08-31,M
+29240,Tom Vaughan-Lawlor,Ireland,1977-01-01,M
+29274,Leo White,German Empire [now Poland],1873-11-10,M
+29304,Sydney Chaplin,,1926-03-30,M
+29305,Bill Nagy,,1900-02-21,M
+29307,Michael Medwin,UK,1923-07-18,M
+29308,Oliver Johnston,,1888-04-30,M
+29406,Joey Ansah,UK,1982-11-24,M
+29504,Basil Dearden,England,1911-01-01,M
+29528,Matthew Rhys,UK,1974-11-08,M
+29545,Claire Bloom,England,1931-02-15,F
+29605,Mikael Håfström,Sweden,1960-07-01,M
+29615,Noah Lee Margetts,,,M
+29616,William Armstrong,,,M
+29697,Nigel Whitmey,,,M
+29922,Marcus Nispel,Germany,1963-05-26,M
+29930,Ivana Miličević,Bosnia and Herzegovina,1974-04-26,F
+29934,Brett Rice,,,M
+30044,Bo Svenson,Sweden,1941-02-13,M
+30082,Benedict Wong,U.K,1971-06-03,M
+30085,Michael Wildman,,,
+30086,Julian Bleach,,,M
+30123,Lee Grant,USA,1925-10-31,F
+30194,Tiny Sandford,USA,1894-02-26,M
+30195,Chester Conklin,USA,1886-01-11,M
+30197,Richard Alexander,USA,1902-11-19,M
+30323,Tim Faraday,,,M
+30364,Tracey Ullman,UK,1959-12-30,F
+30446,Simon Lenagan,,,M
+30450,Peter Rnic,,,M
+30487,Peter Crombie,,,
+30488,Miguel Sandoval,USA,1951-11-16,M
+30636,Thierry Flamand,,1953-07-13,M
+30641,Eddy Mitchell,France,1942-07-03,M
+30644,Ged Marlon,,1954-04-10,
+30664,Rosalba Neri,Italy,1939-06-19,F
+30695,Mary Kay Bergman,USA,1961-06-05,F
+30715,Terrence Malick,USA,1943-11-30,M
+30719,Akim Tamiroff,Russian Empire [now Republic of Georgia],1899-10-29,M
+30720,Suzanne Flon,France,1918-01-28,F
+30898,Gordon Mitchell,USA,1923-07-29,M
+30934,Ernst Schröder,Germany,1915-01-27,M
+31006,Troy Evans,,1948-02-16,M
+31007,John Capodice,USA,1941-12-25,M
+31028,Richard Schiff,USA,1955-05-27,M
+31132,Columbus Short,USA,1982-09-19,M
+31164,Adewale Akinnuoye-Agbaje,UK,1967-08-22,M
+31171,Julie Bowen,USA,1970-03-03,F
+31362,Ian Bohen,USA,1976-09-24,M
+31384,Jordi Mollà,Spain,1968-07-01,M
+31471,Patrick Richwood,USA,1962-11-06,M
+31511,Grant Heslov,USA,1963-05-15,M
+31531,John DiMaggio,U.S.,1968-09-04,
+31549,Phil LaMarr,USA,1967-01-24,M
+31649,Brooke Smith,USA,1967-05-22,F
+31663,Alexander Fehling,,1981-03-29,M
+31820,Gérard Boucaron,,,
+31925,Hugh Quarshie,Ghana,1954-12-22,M
+31991,Gabriele Tinti,Italy,1932-08-22,M
+32030,Guinevere Turner,USA,1968-05-23,F
+32043,François Perrot,,1924-02-26,
+32046,Jean Cherlian,,,M
+32077,Philippe Brizard,France,1933-08-28,M
+32089,Jacques Dutronc,France,1943-04-28,M
+32092,Michel Robin,France,1930-11-13,
+32093,Guy Mairesse,France,1924-06-14,M
+32100,Maurice Biraud,France,1922-03-03,M
+32102,Roger Ibanez,,,
+32105,Régine,Belgium,1929-12-25,F
+32205,Brendan Fletcher,Canada,1981-12-15,M
+32324,Betty Beckers,France,1925-05-03,F
+32357,Nicholas Farrell,UK,1955-01-01,M
+32364,Bruno Cremer,Francie,1929-10-06,M
+32368,Pierre Semmler,Germany,1943-04-19,M
+32372,Carlo Nell,Switzerland,1926-06-09,M
+32374,Maurice Auzel,,1932-10-26,M
+32393,Paul McCrane,USA,1961-01-19,M
+32458,Gabriel Mann,Vermont,1972-05-14,M
+32501,Pascale Ferran,Paris,1960-04-17,F
+32511,Marina Hands,France,1975-01-10,F
+32514,Bernard Verley,France,1939-10-04,M
+32556,Ronald Pickup,UK,1940-06-07,M
+32597,Dylan McDermott,USA,1961-10-26,M
+32657,Julien Boisselier,France,1970-05-26,M
+32897,Nicholas Turturro,USA,1962-01-29,M
+32946,Catherine Wilkening,,1963-07-16,F
+32948,Bernard Bloch,France,1949-12-11,M
+32949,Jean-Pol Dubois,,,
+32987,Sam Riley,UK,1980-01-08,M
+33161,François Cluzet,France,1955-09-21,M
+33165,Tatjana Patitz,Germany,1966-05-25,F
+33183,David Bowers,UK,,M
+33185,Jeremy Bulloch,UK,1945-02-16,
+33192,Joel Edgerton,Australia,1974-06-23,M
+33235,Logan Lerman,USA,1992-01-19,M
+33241,Michael Gaston,USA,1962-11-05,M
+33405,Gillies MacKinnon,UK,1948-01-08,M
+33500,Takayo Fischer,USA,1932-11-25,F
+33501,Mark Christopher Lawrence,USA,1964-05-22,M
+33527,Adam Beach,Canada,1972-11-11,M
+33533,David Rasche,Missouri,1944-08-07,M
+33658,Skipp Sudduth,USA,1956-08-23,M
+33723,Jess Hahn,USA,1921-10-29,M
+33781,Gilles Grangier,France,1911-05-05,M
+33836,Sean O'Bryan,USA,1963-09-10,M
+34200,Sakina Jaffrey,USA,1962-02-14,F
+34257,Anthony Stewart Head,UK,1954-02-20,M
+34259,Jean-Yves Berteloot,France,1958-08-27,M
+34262,Bertrand Blier,France,1939-03-14,M
+34521,Maurice LaMarche,Canada,1958-03-30,M
+34540,Peter Bucossi,,,M
+34544,Joshua Harto,,1979-01-09,M
+34546,Mark Gatiss,UK,1966-10-17,M
+34551,Reece Shearsmith,England,1969-08-27,M
+34580,Henri Verneuil,Ottoman Empire [now Turkey],1920-10-15,M
+34581,Patrick Dewaere,France,1947-01-26,M
+34583,Fernand Ledoux,Belgium,1897-01-24,M
+34584,Jacques François,France,1920-05-16,M
+34588,Jacques Maury,Belgium,1937-06-25,M
+34595,Micheline Presle,France,1922-08-22,F
+34605,Michel Peyrelon,,,
+34613,Philippe de Broca,France,1933-03-15,M
+34616,Roger Dumas,France,1932-05-09,M
+34619,Lucien Raimbourg,France,1903-09-14,M
+34627,Nadia Farès,Morocco,1968-12-20,F
+34630,Pierre Tchernia,France,1928-01-29,M
+34676,Roger Carel,France,1927-08-14,M
+34677,Annie Cordy,Belgium,1928-06-16,F
+34691,John Spencer,USA,1946-12-20,M
+34737,Pat Fraley,,1949-02-18,M
+34900,Paul Whitehouse,UK,1958-05-17,M
+34901,Joanna Lumley,British India,1946-05-01,F
+34982,Jeff Bennett,U.S.,1962-10-02,M
+35000,Marlène Jobert,France,1940-11-04,F
+35001,Jacques Debary,France,1914-11-25,M
+35003,Paul Crauchet,France,1920-07-14,M
+35013,David Oyelowo,UK,1976-04-01,M
+35024,Doug Spinuzza,USA,1967-01-21,M
+35029,David Harbour,USA,1974-04-10,M
+35044,Bernard Woringer,France,1931-10-04,M
+35049,Robert Berri,France,1912-12-17,M
+35066,Pascale Roberts,France,1933-10-21,F
+35076,Karim Belkhadra,France,1963-12-04,
+35077,Didier Flamand,France,1947-03-12,M
+35081,Camille Natta,,1977-11-19,F
+35084,Johnny Hallyday,France,1943-06-15,M
+35085,André Penvern,France,1947-11-26,
+35093,Francesca Smith,,1985-03-26,F
+35137,Josiane Balasko,France,1950-04-15,F
+35159,Laraine Newman,USA,1952-03-02,F
+35172,Robert Clotworthy,USA,1955-10-24,M
+35202,Grace de Capitani,Belgique,1957-07-17,F
+35208,Coline Serreau,France,1947-10-29,F
+35210,Roland Giraud,Morocco,1942-02-14,M
+35211,Michel Boujenah,Tunisie,1952-11-03,M
+35214,Gabriel Jabbour,Egypt,1922-11-07,
+35215,Valentine Monnier,,,
+35219,Corey Burton,USA,1955-08-03,M
+35249,Jacques Robiolles,France,1935-03-06,M
+35253,Marc Dudicourt,,,
+35257,Timothy West,UK,1934-10-20,M
+35319,Sylvia Kristel,Netherlands,1952-09-28,F
+35323,Jacques Villeret,,1951-02-06,M
+35324,Anne Alvaro,Algérie,1951-10-29,F
+35341,Geneviève Bujold,Canada,1942-07-01,F
+35434,Numan Acar,Turkey,1974-10-07,M
+35452,Corey Yuen,China,1951-12-16,M
+35515,June Squibb,USA,1929-11-06,F
+35523,Patrick Laurent,,,M
+35527,Jean-François Balmer,Switzerland,1946-04-18,M
+35530,Christopher Thompson,UK,2018-05-01,M
+35585,José Giovanni,,,
+35586,Irina Demick,France,1936-10-16,F
+35589,Karen Blanguernon,France,1935-10-24,
+35590,Philippe Baronnet,,,
+35608,Alain Doutey,France,1944-10-12,M
+35610,Jean-Marc Thibault,Vineux (Yonne),1923-08-24,M
+35670,Charles Regnier,Germany,1914-07-22,M
+35881,Jean Rougerie,,1929-03-09,
+35883,Sylvie Joly,France,1934-10-28,F
+35885,Bernard Lavalette,France,1926-01-20,M
+35887,Catherine Lachens,France,1945-09-02,F
+35893,Camille Japy,,1968-11-30,F
+35896,Richard Berry,France,1950-07-31,M
+35899,Jean Benguigui,Algérie,1944-04-08,M
+35900,Jean-Claude Leguay,,,
+35911,Patrick Bouchitey,France,1946-08-11,M
+35917,Catherine Samie,France,1933-02-03,F
+35919,Luis Rego,,1943-05-30,M
+35958,Billy Kearns,USA,1923-02-17,M
+35959,James Huth,,,M
+35962,Michèle Laroque,France,1960-06-15,F
+35965,Antoine Basler,Switzerland,,M
+35966,Didier Bénureau,France,1956-10-28,M
+35968,Pierre-François Martin-Laval,France,1968-06-25,M
+35969,Philippe Vieux,,1967-01-01,M
+36013,Thomas Schmauser,Germany,1972-11-30,M
+36018,Claude Mann,,,
+36210,Jean Gaven,,1922-01-16,M
+36218,Andrew Divoff,Venezuela,1955-07-02,M
+36221,Sam Anderson,USA,1945-05-13,M
+36315,Monique Chaumette,France,1927-04-04,F
+36316,Christian Marin,France,1929-02-08,M
+36513,Liliane Rovère,France,1933-01-30,F
+36592,Saoirse Ronan,USA,1994-04-12,F
+36594,Juno Temple,UK,1989-07-21,F
+36602,Peter Berg,USA,1964-03-11,M
+36628,Kate del Castillo,Mexico,1972-10-23,F
+36634,Julio Cedillo,,1970-01-01,M
+36662,Carey Mulligan,England,1985-05-28,F
+36664,Sylvester Morand,,,M
+36666,Pip Torrens,,,M
+36669,Rupert Friend,UK,1981-10-01,M
+36797,Robert Luketic,Australia,1973-11-01,M
+36900,John Sharian,,,M
+36901,Martin McDougall,,,M
+36915,Pierre Maguelon,France,1933-09-03,M
+36917,Jean-Roger Caussimon,France,1918-07-24,M
+37027,Lew Temple,USA,1967-10-02,M
+37046,Dania Ramirez,Dominican Republic,1979-11-08,F
+37114,Gabriel Gobin,Belgique,1903-05-12,M
+37131,Bourvil,France[now Maritime],1917-07-27,M
+37137,Jean Ozenne,France,1898-02-13,
+37140,Marc Eyraud,France,1924-03-01,M
+37145,Henri Guégan,France,1926-03-22,M
+37147,Gabrielle Fontan,France,1873-04-16,F
+37157,Lenny Venito,,1969-05-10,M
+37158,Carmen Ejogo,UK,1974-01-01,F
+37186,Josée Dayan,France,1943-10-06,M
+37204,David Warshofsky,USA,1961-02-23,M
+37221,Penn Jillette,United States,1955-03-05,M
+37260,Abbie Cornish,Australia,1982-08-07,F
+37296,Barbora Lukešová,Czechoslovakia,1969-01-21,F
+37309,Pierre Collet,France,1914-03-10,M
+37457,Jean Lefebvre,France,1920-03-10,M
+37460,François Chaumette,,1923-09-08,
+37464,Muni,Madagascar,1929-06-23,F
+37606,Christian Charmetant,,,
+37609,Christian Bouillette,,,
+37626,Patrice Leconte,France,1947-11-12,M
+37627,Dany Boon,France,1966-06-26,M
+37628,Julie Gayet,France,1972-06-03,F
+37632,Eddie Redmayne,UK,1982-01-06,M
+37633,Jean Becker,France,1933-05-10,M
+37634,Louis Becker,,,M
+37638,Jacques Monnet,Luxembourg,1934-01-18,M
+37642,Bernard Bolzinger,,,
+37644,Fanny Cottençon,Gabon,1957-05-11,F
+37650,Jean-Claude Bolle-Reddat,France,1949-06-24,M
+37710,Peter Hyams,U.S.,1943-07-26,M
+37727,Philippe Lemaire,France,1927-03-14,M
+37763,Élisabeth Bourgine,France,1957-03-20,F
+37764,Jacques Spiesser,France,1947-06-07,M
+37765,Audrey Marnay,France,1980-10-14,F
+37769,Tanit Phoenix,South Africa,1980-09-24,F
+37770,Claude Autant-Lara,France,1901-08-05,M
+37794,Sabine Sun,France,1940-04-15,F
+37822,Peter Dobson,USA,1964-07-16,M
+37825,Afemo Omilami,USA,1950-12-13,M
+37891,Simon Jones,UK,1950-07-27,M
+37917,Kristen Stewart,USA,1990-04-09,F
+37918,Inés Sastre,Spain,1973-11-21,F
+37919,Stanislas Merhar,France,1971-01-23,M
+37920,Julie Depardieu,France,1973-06-18,F
+37932,F. Gary Gray,USA,1969-07-17,M
+37935,Steven Tyler,USA,1948-03-26,M
+37937,Gregory Alan Williams,USA,1956-06-12,M
+37966,Henri Cogan,France,1914-09-13,M
+38007,Just Jaeckin,France,1940-08-08,M
+38010,Gabriel Briand,,,
+38116,Olivier Hussenot,,1913-09-10,M
+38172,Raoul Delfosse,France,1924-05-12,M
+38225,Cher,USA,1946-05-20,F
+38341,Bulle Ogier,France[now Seine],1939-08-09,F
+38351,Elisabeth Depardieu,,1941-08-05,
+38389,Didier Pain,France,1947-12-08,M
+38404,Véronique Barrault,,,
+38425,Amber Valletta,Unis,1974-02-09,F
+38450,Stéphan Guérin-Tillié,Reims,,M
+38459,Karl Markovics,Austria,1963-08-23,M
+38499,Maurice Barrier,France,1932-06-08,M
+38500,Bernard-Pierre Donnadieu,France,1949-07-02,M
+38501,Isabelle Sadoyan,France,1928-05-12,F
+38507,Francis Veber,France,1937-07-28,M
+38516,Denys Arcand,Canada,1941-06-25,M
+38529,Yves Jacques,Canada,1956-05-10,M
+38559,Christopher Lambert,USA,1957-03-29,M
+38570,Ken Jenkins,Ohio,1940-08-28,M
+38572,Gavin Grazer,California,1961-11-16,M
+38647,Philippe Caroit,France,1959-09-29,M
+38649,Madeleine Damien,,,
+38651,David Baxt,,,
+38673,Channing Tatum,USA,1980-04-26,M
+38863,Alice Taglioni,France,1976-07-26,F
+38864,Arthur Jugnot,France,1980-12-02,M
+38877,Marianne Denicourt,France,1966-05-14,F
+38883,Arnaud Desplechin,France,1960-10-31,M
+38890,Malka Ribowska,,1928-05-20,F
+38899,László Szabó,Hongrie,1936-03-24,M
+38901,Guy Marchand,France,1937-05-22,M
+38914,Christian Marquand,,1927-03-15,M
+38915,Serge Marquand,France,1930-03-12,M
+38941,Jim Sturgess,UK,1978-05-16,M
+39009,Joseph Losey,USA,1909-01-14,M
+39058,Julien Duvivier,France,1896-10-03,M
+39061,Maria Machado,Germany,1937-10-16,F
+39092,Geneviève Grad,France,1944-07-05,F
+39093,Daniel Cauchy,,1930-03-13,M
+39095,André Badin,,,
+39097,Hubert de Lapparent,,,
+39098,Henri Virlojeux,France,1924-03-22,M
+39138,Jean Girault,France,1924-05-09,M
+39142,Michel Modo,France,1937-03-30,M
+39143,Guy Grosso,,1933-08-19,
+39144,Patrice Laffont,,1940-08-21,M
+39145,France Rumilly,,1939-05-01,F
+39146,Jean-Pierre Bertrand,,,
+39148,Maria Pacôme,France,1923-07-18,F
+39149,Nicole Vervil,,1920-10-31,F
+39152,Yves Vincent,,1921-08-05,M
+39177,Maurice Teynac,France,1915-08-08,
+39179,Raoul Billerey,France,1920-10-12,M
+39180,Jean Tissier,,1896-04-01,M
+39184,Albert Michel,France,1909-10-03,M
+39187,Olivia Colman,UK,1974-01-30,F
+39195,Elsa Zylberstein,France,1968-10-16,F
+39199,Valérie Lagrange,France,1942-02-25,F
+39214,Nick Jameson,U.S.,1950-07-10,M
+39243,Michel Deville,,1931-04-13,
+39331,Alice Sapritch,,1916-07-29,F
+39334,Yves Barsacq,France,1931-06-17,M
+39341,Maurice Vallier,,,
+39344,Michel Francini,,,
+39345,Antoine Mayor,,,
+39347,Rosine Young,,,
+39350,Anémone,France,1950-08-09,F
+39388,Amy Ryan,USA,1969-11-30,F
+39389,Titus Welliver,USA,1961-03-12,M
+39443,Jacques Rispal,France,1923-08-01,M
+39459,Hayley Atwell,England,1982-04-05,F
+39491,Olga Georges-Picot,China,1940-01-06,F
+39645,Francis Blanche,France,1919-07-21,M
+39646,Mireille Darc,France,1938-05-15,F
+39659,Burn Gorman,U.S.A.,1974-09-01,M
+39660,Tamer Hassan,UK,1968-03-18,M
+39661,Francis Magee,Ireland,1959-06-26,M
+39678,Rab Affleck,UK,1953-01-30,M
+39681,Stephen Walters,,,M
+39683,Ivan Kaye,,,M
+39685,Neil Finnighan,England,,M
+39721,Ellen Bahl,,,F
+39780,Frank Stallone,New York,1950-07-30,M
+39882,Andrée Tainsy,,,F
+39884,Jacques Frantz,France,1947-04-04,M
+39887,Dany Saval,France,1942-01-05,F
+39889,Jacqueline Maillan,,1923-01-11,F
+39953,Jean Martin,France,1922-03-06,M
+39958,Nicole Desailly,,,
+40036,Taraji P. Henson,USA,1970-09-11,F
+40039,Josh Stewart,USA,1977-02-06,M
+40043,Niall Buggy,Ireland,1948-10-03,M
+40224,Thomas Morris,Austria,1966-05-21,M
+40256,D.J. Caruso,USA,1965-01-17,M
+40304,Jacques Nolot,France,1943-08-31,M
+40305,Stéphane Freiss,France,1960-11-27,M
+40307,John Maybury,UK,1958-03-25,M
+40311,Adrian Scarborough,UK,1968-05-10,M
+40377,Roger Guenveur Smith,USA,1959-07-27,M
+40450,Yo Oizumi,,1973-04-03,M
+40451,Akio Otsuka,Japan,1959-11-24,M
+40462,Kristen Bell,USA,1980-07-18,F
+40477,Chris O'Dowd,Ireland,1979-10-09,M
+40481,Luis Guzmán,Puerto Rico,1956-08-28,M
+40539,Denise Péronne,Switzerland,1920-09-22,F
+40543,John Ortiz,USA,1968-05-23,M
+40638,Guy Henry,UK,1960-10-17,M
+40644,Chad Stahelski,USA,1968-09-20,M
+40684,David Leitch,USA,1969-12-31,M
+40687,Richard Laing,,,M
+40740,Rocky Taylor,UK,1945-02-28,M
+40969,René Génin,France,1890-01-25,M
+40976,Claude Cerval,France,1921-02-21,
+41014,Valérie Karsenti,France,1968-08-26,
+41019,Wilbur Fitzgerald,,,M
+41020,E. Roger Mitchell,USA,1971-02-18,M
+41029,Bernard Campan,France,1958-04-04,M
+41031,François Rollin,France,1953-05-31,M
+41035,Edouard Baer,France,1966-12-01,M
+41039,Judd Apatow,U.S.,1967-12-06,M
+41091,Kristen Wiig,USA,1973-08-22,F
+41206,Jean-Pierre Gos,,,M
+41316,Igal Naor,Israel,1958-06-25,M
+41379,Omid Djalili,UK,1965-09-30,M
+41381,Sadie Frost,UK,1965-06-19,F
+41419,Hugh Laurie,UK,1959-06-11,M
+41517,Christian Clemenson,USA,1958-03-17,M
+41518,Véra Belmont,,,
+41526,Patrick Timsit,Algeria,1959-07-15,M
+41527,Remo Girone,Asmara,1948-12-01,M
+41528,Franck de la Personne,,1963-10-29,M
+41547,Georgina Chapman,,,F
+41561,Kenneth Choi,USA,1971-10-20,M
+41662,Lindsay Sloane,USA,1977-08-08,F
+41671,Nimród Antal,USA,1973-11-30,M
+41686,Neil Patrick Harris,USA,1973-06-15,M
+41742,Ravil Isyanov,USSR [now now Russia],1962-08-20,M
+41746,Serge Houde,Canada,1953-02-16,M
+41877,Muriel Robin,France,1955-08-02,F
+41881,Aymen Saïdi,,,M
+42200,Lennie Loftin,,,M
+42216,Charlotte Salt,England as Charlotte Leah Salt.,1985-08-12,F
+42284,Sonje Fortag,,,
+42286,Julene Renee,,,F
+42287,Leslie Zemeckis,USA,1969-02-05,F
+42290,Shay Duffin,,1931-02-26,M
+42291,Jacquie Barnbrook,UK,,F
+42296,Gwen McGee,,,F
+42362,Eddie Deezen,Maryland,1958-03-06,M
+42547,Jay Acovone,USA,1955-08-20,M
+42694,Tamara Tunie,USA,1959-03-14,F
+42715,Amber Smith,USA,1971-03-02,F
+42994,David Dobkin,USA,1969-06-23,M
+43010,"Thomas Rosales, Jr.",USA,1948-02-03,M
+43034,Tom Goodman-Hill,UK,1968-05-21,M
+43131,Gerard McSorley,Northern Ireland,1950-09-14,M
+43141,Pete Travis,England,,M
+43366,Ann Dowd,USA,1956-01-30,F
+43373,Aaron Himelstein,USA,1985-10-10,M
+43431,Barclay Hope,Canada,1958-02-25,M
+43436,Mehdi Nebbou,France,1974-01-10,M
+43461,Endre Hules,Hungary,,M
+43547,Nonso Anozie,UK,1979-05-28,M
+43554,Josef Altin,England,,M
+43555,Mina E. Mina,,,M
+43643,Frank Lammers,Netherlands,1972-04-10,M
+43775,Jane Lynch,USA,1960-07-14,F
+43780,François Jerosme,,,
+43814,Nathalie Delon,Morocco.,1941-08-01,F
+43858,Ryan Hurst,U.S.,1976-06-19,M
+43978,John Mahon,USA,1938-02-02,M
+43993,Christophe Barratier,France,1963-06-17,M
+44029,Fabienne Rawley,,,
+44050,Mario Machado,China,1935-04-22,M
+44079,Charlotte Rampling,UK,1946-02-05,F
+44104,Milena Vukotić,Italy,1938-04-23,F
+44233,Mathilda May,France,1965-02-08,F
+44234,Jean-Marie Winling,France,1947-01-01,M
+44407,Bernard Charlan,France,1915-11-06,M
+44408,André Thorent,France,1922-05-28,M
+44419,Peter Cellier,,,
+44554,Alain Berbérian,Liban,1953-07-02,M
+44556,Richard Anconina,France,1953-01-28,M
+44560,Hubert Saint-Macary,,1949-05-18,M
+44654,Scali Delpeyrat,France,1971-09-14,
+44700,Anthony Sharp,UK,1915-06-16,M
+44735,Jesse Eisenberg,USA,1983-10-05,M
+44736,Goran Kostić,Bosnia and Herzegovina),1971-11-18,M
+45152,Olivier Gourmet,Belgium,1963-07-22,M
+45386,Mary Stein,USA,,F
+45396,Ross Partridge,USA,1968-02-26,M
+45447,Jean-Paul Muel,France,1944-06-06,M
+45523,Lila Kedrova,Russia),1918-10-09,F
+45799,Benny Andersson,Sweden,1946-12-16,M
+45849,Christian Erickson,,,M
+46274,James Thiérrée,Switzerland,1974-05-02,M
+46593,Emile Hirsch,USA,1985-03-13,M
+46788,Jacques Legras,France,1923-10-25,M
+46919,Thomas F. Duffy,USA,1955-11-09,M
+46921,Michael Jace,USA,1965-07-13,M
+47005,Alan Taylor,,1965-01-01,M
+47085,Ronald Guttman,Belgium,1952-08-12,M
+47296,Jeffrey Dean Morgan,USA,1966-04-22,M
+47336,Marc Lavoine,France,1962-08-06,M
+47337,Gérard Darmon,France,1948-02-29,M
+47468,Frances de la Tour,UK,1944-07-30,F
+47525,Andrew Bicknell,,1956-06-17,M
+47547,John Bennett,UK,1928-05-08,M
+47627,Janet McTeer,England,1961-05-08,F
+47774,Vincent Pastore,USA,1946-07-14,M
+47793,George Babluani,,,M
+47797,Fred Ulysse,,,
+47808,Christopher Malcolm,UK,1946-08-19,M
+47820,Benoît Poelvoorde,Belgique,1964-09-22,M
+47822,Bouli Lanners,Belgium,1965-05-20,M
+47825,Jérôme Le Banner,France,1972-12-26,M
+47826,Alexandre Astier,Francia,1974-06-16,M
+47829,Elie Semoun,,1963-10-16,M
+47859,Lee Horsley,,1955-05-15,M
+47879,John Savage,USA,1949-08-25,M
+47886,Jorge Luke,Mexico,1942-01-01,M
+47974,Bob Spiers,UK,1945-09-27,M
+47990,Elvis Costello,England,1954-08-25,M
+47991,Bob Geldof,Ireland,1951-10-05,M
+48393,Victor Schefé,Germany,1968-08-04,M
+48406,Olivia Bonamy,France,1972-09-21,F
+48408,Serge Boutleroff,,,
+48409,David Saracino,,,M
+48417,Roger Lumont,France,1934-02-21,M
+48514,Eric Judor,France,1969-07-25,M
+48576,Charles Berling,France[now Marne],1958-04-30,M
+48577,Mathilde Seigner,France,1968-01-17,F
+48583,Anne Fontaine,Luxembourg,1959-07-15,F
+48587,Brian Brophy,,,M
+49000,Robert Le Vigan,France,1900-01-05,M
+49025,Samuel Le Bihan,Francia,1965-11-02,M
+49056,Martin Wuttke,,1962-02-08,M
+49148,Calista Flockhart,USA,1964-11-11,F
+49168,Noémie Lvovsky,France,1964-12-14,F
+49275,Spencer Garrett,USA,1963-09-19,M
+49278,Olivier Rabourdin,France,1959-03-03,M
+49458,Salvatore Borgese,Italy,1937-03-05,M
+49486,John Keogh,,1963-01-01,M
+49487,Richard Sammel,Germany,1960-01-01,M
+49748,Eric Prat,,1956-03-14,M
+49749,Laurence Février,,,F
+49756,Evelyne Didi,,1950-01-01,F
+49832,R.D. Call,USA,,M
+49918,Charlie Tahan,USA,1997-01-01,M
+49920,Willow Smith,USA,2000-10-31,F
+49921,Darrell Foster,,,M
+49946,Jean-Philippe Écoffey,Switzerland,1959-07-08,M
+49947,Gérard Watkins,UK,1965-07-04,M
+49965,Tim Dutton,,,M
+49971,Jennifer Ehle,USA,1969-12-29,F
+50217,Michael Kelly,USA,1969-05-22,M
+50347,Rachel Nichols,USA,1980-01-08,F
+51100,Gad Elmaleh,Morocco,1971-04-19,M
+51101,Marie-Christine Adam,Francia,1950-09-24,F
+51102,Annelise Hesme,,1976-05-11,F
+51105,Laurent Claret,,,M
+51116,Pierre Salvadori,Tunisia,1964-11-08,M
+51120,Elliot Cowan,UK,1976-10-21,M
+51300,Derek Mears,USA,1972-04-29,M
+51325,Jérémie Renier,Belgium,1981-01-06,M
+51329,Bradley Cooper,USA,1975-01-05,M
+51382,Chris Parnell,USA,1967-02-05,M
+51464,Roy McCrerey,,,
+51508,Joey Starr,France,1967-10-27,M
+51533,Fran Kranz,USA,1983-07-13,M
+51582,Ned Vaughn,USA,1964-11-20,M
+51636,Jacky Ido,Burkina Faso,1977-05-14,M
+51651,Joachim Paul Assböck,Germany,1965-10-26,M
+51656,James Quattrochi,USA,1961-06-19,M
+51663,Sean Gunn,USA,1974-05-22,M
+51666,Patrick Coppola,,,
+51797,Nathan Fillion,Canada,1971-03-27,M
+51805,Kevin Anderson,USA,1960-01-13,M
+51865,Michael Genet,,,
+51875,Andrew V. McLaglen,UK,1920-07-28,M
+51971,Nathalie Cerda,,,
+51984,Mimi Leder,USA,1952-01-26,F
+51990,T. J. Miller,United States,1981-06-04,M
+52021,Frank Wood,,,M
+52057,Obba Babatundé,USA,1951-12-01,M
+52117,Horatio Sanz,Chile,1969-06-04,M
+52139,Seth MacFarlane,USA,1973-10-26,M
+52342,Olivier Marchal,France,1958-11-14,M
+52344,Julien Rappeneau,,,
+52346,Francis Renaud,France,1967-09-27,M
+52347,Catherine Marchal,,1967-05-03,F
+52348,Guy Lecluyse,France,1962-06-02,M
+52358,Boaz Yakin,New York City,1966-06-20,M
+52366,Andrew Bryniarski,USA,1969-02-13,M
+52404,Mae Whitman,USA,1988-06-09,F
+52405,Michael Hoffman,USA,1956-11-30,M
+52419,Josh Hamilton,USA,1969-06-09,M
+52476,Dylan Bruno,USA,1972-09-06,M
+52576,José Padilha,Brazil,1967-08-01,M
+52603,Alfonso Freeman,,1959-09-13,M
+52609,Breck Eisner,USA,1970-12-24,M
+52699,Danny Mann,,1951-07-28,M
+52760,Alan Dale,New Zealand,1947-05-06,M
+52779,Ryan Murphy,USA,1965-11-30,M
+52801,Patrick Fischler,USA,1969-12-29,M
+52848,Isla Fisher,Oman,1976-02-03,F
+52851,Paula Patton,USA,1975-12-05,F
+52852,Kat Dennings,U.S.,1986-06-13,F
+52860,Judah Friedlander,U.S.,1969-03-16,M
+52865,Garry Shandling,USA,1949-11-29,M
+52870,Tim Johnson,,,M
+52885,Ritchie Montgomery,,,M
+52886,Jeffrey Donovan,USA,1968-05-11,M
+52888,Paul Ritter,,1966-03-05,M
+52889,Johnny Vegas,UK,1971-09-11,M
+52903,Anthony De Longis,USA,1950-03-23,M
+52908,Collin Chou,China,1967-08-11,M
+52925,Donna W. Scott,,,F
+52968,Russell Mulcahy,Australia,1953-06-23,M
+52995,Edward Herrmann,U.S.,1943-07-21,M
+52997,Rob Corddry,USA,1971-02-04,M
+53201,Edgar Givry,,,
+53203,Laurent Gamelon,,1960-06-19,M
+53204,Vincent Moscato,France,1965-07-28,M
+53252,Noel Gugliemi,USA,1970-01-01,M
+53256,Terry Crews,USA,1968-07-30,M
+53257,Emilio Rivera,USA,1961-02-24,M
+53334,Jim Sheridan,Ireland,1949-02-06,M
+53425,Alexandra Vandernoot,Belgium,1965-09-19,F
+53492,Sam Huntington,USA,1982-04-01,M
+53515,Beatie Edney,UK,1962-10-23,F
+53573,Olek Krupa,Poland,1955-08-31,M
+53584,Alan North,USA,1920-12-23,M
+53587,Peter Diamond,UK,1929-08-10,M
+53593,Pete Antico,,,M
+53594,Peter Bromilow,,,
+53650,Anthony Mackie,USA,1979-09-23,M
+53651,Monique Gabriela Curnen,USA,1977-09-07,F
+53657,Pasquale Festa Campanile,Italy,1927-07-28,M
+53688,Lily Cole,UK,1988-05-19,F
+53807,Armie Hammer,USA,1986-08-28,M
+53820,Michael C. Hall,USA,1971-02-01,M
+53904,Johan Leysen,,1950-02-19,M
+53906,Bruno Abraham-Kremer,,,M
+53931,Sandy Martin,USA,1950-01-01,F
+53963,Robert Stanton,USA,1963-03-08,M
+54014,David Hayman,UK,1948-02-09,M
+54165,Zoé Félix,France,1976-05-07,F
+54167,Line Renaud,France,1928-07-02,F
+54168,Anne Marivin,France,1974-01-23,F
+54170,Jérôme Commandeur,France,1976-04-12,M
+54222,Jean-Paul Salomé,France,1960-09-14,M
+54227,Marie Gillain,Belgium,1975-06-18,F
+54228,Déborah François,Belgium,1987-05-24,F
+54230,Maya Sansa,,1975-09-25,F
+54233,Vincent Rottiers,France,1986-06-17,M
+54273,Philippe Claudel,France,1962-02-02,
+54274,Serge Hazanavicius,France,1963-09-11,M
+54280,Catherine Hosmalin,,,F
+54291,Gilles Lellouche,France,1972-07-05,M
+54292,Julie Ferrier,France,1971-12-05,F
+54293,Xavier Robic,,,
+54294,Farida Khelfa,,,F
+54324,Valérie Bonneton,France,1970-04-05,F
+54325,Alice de Lencquesaing,France,1991-01-01,F
+54376,Henri Génès,France,1919-07-02,M
+54379,Rudy Lenoir,,1913-04-20,M
+54381,Jean Droze,,1925-06-26,M
+54382,Paul Mercey,Belgrade,1923-01-10,
+54383,Jean Minisini,France,1923-03-09,M
+54387,Rémy Julienne,,,
+54389,Pierre Roussel,,,
+54392,Claude Salez,,,
+54394,Raymond Pierson,,,
+54395,Guy Bonnafoux,,,M
+54396,Tony Rödel,,,
+54403,Jean-Pierre Posier,,,M
+54415,Josh Gad,USA,1981-02-23,M
+54441,James Ivory,USA,1928-06-07,M
+54472,Martin McDonagh,UK,1970-03-26,M
+54507,Jon M. Chu,USA,1979-11-02,M
+54675,Zabou Breitman,France,1959-10-30,F
+54694,Clement Blake,USA,1948-12-02,M
+54696,Joe Nunez,,,M
+54697,Dave Franco,USA,1985-06-12,M
+54738,Jack Huston,UK,1982-12-07,M
+54800,Anna Maria Horsford,USA,1948-03-06,F
+54807,Affif Ben Badra,,1960-01-01,M
+54864,Geno Silva,,1948-01-20,M
+54882,Morena Baccarin,Brazil,1979-06-02,F
+54918,Vincent Elbaz,France,1971-02-03,M
+54920,Dominic Gould,,1964-09-19,
+54922,Nicolas Briançon,France,1962-07-29,
+55085,Amber Heard,USA,1986-04-22,F
+55089,Evan Peters,USA,1987-01-20,M
+55205,Stephen Bishop,,1971-09-14,M
+55258,Robinne Lee,,1974-07-16,F
+55314,Kimberly Elise,United States,1967-04-17,F
+55327,Julien Courbey,France,1976-03-12,M
+55364,Steven Robertson,,1980-01-01,M
+55379,Yann Samuell,France,1965-06-07,M
+55383,Emmanuelle Grönvold,,,F
+55411,David Gyasi,UK,1980-01-02,M
+55466,James Corden,UK,1978-06-17,M
+55470,Dominic Cooper,UK,1978-06-02,M
+55585,Sam Spruell,UK,1977-01-01,M
+55620,Jacques Hilling,Australia,1926-05-22,M
+55636,Donald Sutherland,Canada,1935-07-17,M
+55664,Chika Sakamoto,,,
+55710,Adam McKay,USA,1968-04-17,M
+55788,Keith Dallas,USA,1978-05-10,M
+55803,Christine Citti,France,1962-10-26,F
+55805,André Marcon,France,1948-06-07,M
+55911,Billy J. Mitchell,,1942-01-01,M
+55920,Charles Gérard,Turkey,1922-12-01,M
+55934,Taika Waititi,New Zealand,1975-08-16,M
+55936,Jemaine Clement,New Zealand,1974-01-10,M
+55968,Rodolphe Marconi,,,
+56024,Jean Dujardin,France,1972-06-19,M
+56100,Alistair Petrie,UK,1970-09-30,M
+56103,Hattie Morahan,UK,1978-01-01,F
+56120,Yuji Okumoto,USA,1959-04-20,M
+56225,Olivier Van Hoofstadt,,,
+56226,Florence Foresti,France,1973-11-08,F
+56241,Rachida Brakni,France,1977-02-15,
+56285,Bruno Todeschini,,1962-09-19,M
+56286,Thibault Vinçon,,1976-07-15,M
+56288,Alysson Paradis,France,1984-05-29,F
+56323,Tina Fey,USA,1970-05-18,F
+56365,Charlie Hunnam,UK,1980-04-10,M
+56382,Pierre Schöller,,,M
+56402,Vahina Giocante,France,1981-06-30,F
+56404,Patrick Mille,,1970-04-08,M
+56405,Frédéric Beigbeder,France,1965-09-21,M
+56411,Glenn Ficarra,Stati Uniti d'America,1971-05-27,M
+56512,Tarsem Singh,India,1961-05-06,M
+56614,Ray Stevenson,UK,1964-05-24,M
+56650,Ray Fearon,UK,1967-06-01,M
+56654,Laura Morante,Italy,1956-08-21,F
+56691,Saverio Guerra,,1964-08-24,M
+56717,Tom Vaughan,UK,1969-09-05,M
+56731,Jessica Alba,USA,1981-04-28,F
+56734,Chloë Grace Moretz,USA,1997-02-10,F
+56735,David Moreau,France,1976-07-14,M
+56755,Patricia Birch,USA,,F
+56778,Stuart Townsend,Ireland,1972-12-15,M
+56890,Malcolm McDowell,UK,1943-06-13,M
+57012,Fares Fares,Lebanon,1973-04-29,M
+57113,Dan Gilroy,USA,1959-06-24,M
+57130,Todd Phillips,USA,1970-12-20,M
+57134,James Wong,China,1959-04-20,M
+57155,Boots Southerland,,,M
+57199,Mark Mylod,,,M
+57207,Tony Jaa,Surin Thailand,1976-02-05,M
+57298,Anne Parillaud,France,1960-05-06,F
+57299,Patrick Fontana,,,M
+57434,Amy Heckerling,USA,1954-05-07,F
+57451,Leslie Bibb,USA,1974-11-17,F
+57641,Dino Risi,Milano (Italy),1916-12-23,
+57738,Samuel Labarthe,Switzerland,1952-05-16,M
+57739,Marianne Borgo,,,F
+57741,Mark Osborne,USA,1970-09-17,M
+57755,Woody Harrelson,USA,1961-07-23,M
+57832,Daniel Lee,,,M
+57851,Bernard Rose,UK,1960-08-04,M
+57962,Mort Nathan,,,M
+58016,Anna Friel,UK,1976-07-12,F
+58189,Justin Lin,Taiwan,1971-10-01,M
+58220,Hugh Hudson,UK,1936-08-25,M
+58224,Jason Sudeikis,USA,1975-09-18,M
+58225,Zach Galifianakis,USA,1969-10-01,M
+58324,Jean-François Richet,France,1966-07-02,M
+58333,Tom Kemp,,,M
+58384,Anthony Waller,Lebanon,1959-10-24,M
+58475,Angus MacInnes,Canada,1947-10-27,M
+58477,Jonathan Loughran,,,
+58510,John Burke,USA,,M
+58533,Jessie Keosian,,1905-10-15,F
+58535,Paul Herman,USA,1946-03-29,M
+58544,Neal Huff,USA,,M
+58549,Bill Irwin,USA,1950-04-11,M
+58579,Rita Davies,UK,1933-02-24,F
+58616,Sakichi Satô,,,M
+58648,Victor Rivers,Cuba,1955-10-01,M
+58650,Raymond Cruz,USA,1961-07-09,M
+58737,Jack McBrayer,USA,1973-05-27,M
+58744,Michael Bacall,,1973-04-19,M
+58754,Haley Bennett,USA,1988-01-07,F
+58778,Nina Young,,1966-01-01,F
+58787,Giannina Facio,Costa Rica,1955-09-10,F
+58950,Greg Collins,USA,1952-12-08,M
+58966,Deirdre Lovejoy,USA,1962-06-30,F
+59026,Peyton Reed,USA,1964-07-03,M
+59031,Didier Bourdon,Algérie,1959-01-23,M
+59032,Isabelle Candelier,,1963-06-12,F
+59085,Ian Porter,,,
+59162,Ed Wheeler,,,M
+59185,Kendall Cross,,,F
+59233,Scoot McNairy,USA,1977-11-11,M
+59238,Chris Marquette,USA,1984-10-03,M
+59242,Desiree Zurowski,Canada,,F
+59270,Riccardo Scamarcio,Italy,1979-11-13,M
+59281,Steven Randazzo,,,M
+59285,Ezra Buzzington,Indiana,,M
+59291,Alexandre Aja,France,1978-08-07,M
+59357,Teddy Newton,USA,,M
+59373,Mélanie Thierry,France,1981-07-17,F
+59620,Gemma Arterton,England,1986-02-02,F
+59784,Carlos Alazraqui,USA,1962-07-20,M
+59807,Élodie Bouchez,France,1973-04-05,F
+59817,Jaimie Alexander,USA,1984-03-12,F
+59998,Greg McLean,,,M
+60073,Brie Larson,USA,1989-10-01,F
+60074,Jeff Garlin,USA,1962-06-05,M
+60118,John Bedford Lloyd,USA,1956-01-02,M
+60121,John Di Benedetto,,,M
+60232,David Cowgill,USA,1960-12-08,M
+60237,John A. Davis,USA,1963-07-04,M
+60279,Fred Tatasciore,USA,,M
+60286,Ralph Garman,USA,1964-11-17,M
+60287,Charles Carroll,USA,1952-05-12,M
+60348,Dave Legeno,UK,1963-10-12,M
+60416,Alex Ferns,Scotland,1968-10-13,M
+60634,Marty Belafsky,,1975-09-19,M
+60650,Michael Paré,US,1958-10-09,M
+60677,Brad Leland,USA,1954-09-15,M
+60846,Pat Healy,USA,1971-09-14,M
+60874,Dane Rhodes,,,M
+60898,Sebastian Stan,Romania,1982-08-13,M
+60916,Buck Holland,USA,1934-05-24,
+61011,Clarke Peters,USA,1952-04-07,M
+61016,Joe Forbrich,,,M
+61079,Annie O'Donnell,,,F
+61110,Fred Armisen,U.S.,1966-12-04,M
+61164,Craig March,Canada,,M
+61241,Tony Lip,,1930-07-30,M
+61259,Dominic Scott Kay,USA,1996-05-06,M
+61510,Christopher Denham,,,
+61568,Edgar Arreola,,,M
+61604,Penny Balfour,,,F
+61605,Ron Crawford,,1945-10-11,M
+61606,Jean Bejote Njamba,,,M
+61607,Adam LeFevre,USA,1950-08-11,M
+61610,Lee Delong,,,F
+61611,Eric Balliet,,,
+61614,Jerry Di Giacomo,,,M
+61623,Tonio Descanvelle,,,
+61697,Sung Kang,USA,1972-04-08,M
+61704,Al Leong,U.S.,1952-09-30,M
+61705,Woon Young Park,Korea,1971-06-12,M
+61854,Shane Edelman,,,M
+61964,Estelle Harris,USA,1932-04-04,F
+61969,Phil Proctor,USA,1940-07-28,M
+61981,Michael Clarke Duncan,USA,1957-12-10,M
+61985,Olivier Baroux,France,1964-01-05,M
+62003,James Morrison,USA,1954-04-21,M
+62064,Chris Pine,USA,1980-08-26,M
+62081,Michael Damian,USA,1962-04-26,M
+62105,Kerry Condon,Ireland,1983-01-04,F
+62108,Mike Lambert,,1971-05-01,M
+62127,Lonette McKee,Michigan,1954-07-22,F
+62133,Sarah Francis,,,
+62389,Danny Jacobs,U.S.,1968-07-07,M
+62439,David Belle,France,1973-04-29,M
+62444,François Chattot,,,
+62447,Samir Guesmi,France,1967-10-07,M
+62451,Warren Zavatta,,1968-03-26,M
+62452,Ludovic Berthillot,France,1969-04-24,M
+62531,Valérie Lemercier,France,1964-03-09,F
+62535,Christian Hecq,Belgique,1964-05-24,
+62536,Julia Molkhou,,,
+62561,Tessa Thompson,USA,1983-10-03,F
+62567,Karina Logue,,,F
+62595,Mary Pat Gleason,USA,1950-02-23,F
+62711,Darryl Quon,,,M
+62752,Damon Herriman,Australia,1970-03-31,M
+62784,Billy Slaughter,USA,1980-06-03,M
+62787,Rio Hackford,,,M
+62842,Eddie Griffin,USA,1968-07-15,M
+62892,Anatole Taubman,Switzerland,1970-12-23,M
+62937,Sai-Kit Yung,,,M
+62976,Eleanor Matsuura,Japan,1983-01-01,F
+63111,Ben Livingston,USA,,M
+63174,Rémy Belvaux,Belgium,1966-11-10,M
+63208,Tommy Chong,Canada,1938-05-24,M
+63242,Jacqueline Poelvoorde-Pappaert,,,
+63296,J. C. MacKenzie,Canada,1970-10-17,M
+63306,James Watkins,UK,1973-05-20,M
+63360,Denis Conway,,,M
+63362,Ned Dennehy,Ireland,1965-12-08,M
+63364,Brian Gleeson,Ireland,1987-11-14,M
+63408,Joël Demarty,,,M
+63608,Jason Watkins,UK,1966-10-28,M
+63973,Matteo Garrone,Italy,1968-10-15,M
+63978,Jodi Benson,USA,1961-10-10,F
+64012,Julie Fournier,,1982-01-01,F
+64189,Ara Celi,U.S.,1974-05-31,F
+64205,Alexandre Arcady,Algeria,1947-03-17,M
+64210,Maïwenn,France,1976-04-17,F
+64342,Craig Robinson,USA,1971-10-25,M
+64445,Elisa Gabrielli,,,
+64541,Wladimir Yordanoff,France,1954-03-28,M
+64550,Renée Le Calm,France,1918-09-18,F
+64575,Laurent Tirard,,,
+64584,Valérie Moreau,,,F
+64590,Judith El Zein,France,1976-11-01,F
+64645,Philippe Duclos,,,M
+64901,Gordon Chan,China,1959-11-30,M
+64908,LisaGay Hamilton,United States,1964-03-25,F
+64909,Jean-Marie Poiré,France,1945-07-10,M
+64913,Marie-Anne Chazel,France,1951-09-19,F
+65007,Vanessa Paradis,France,1972-12-22,F
+65054,Rainer Bock,Germany,1954-01-01,M
+65190,Philip G. Atwell,,,M
+65196,Nadine Velázquez,USA,1978-11-20,F
+65516,Jean-Pierre Rambal,France,1931-09-13,
+65524,Ioan Gruffudd,UK,1973-10-06,M
+65568,James Sikking,United States,1934-03-05,M
+65569,Emmanuel Mouret,France,1970-06-30,M
+65572,Frédérique Bel,France,1975-03-24,F
+65717,Jon Hamm,USA,1971-03-10,M
+65729,Sebastian Tillinger,,,M
+65731,Sam Worthington,UK,1976-08-02,M
+65808,Fulvio Cecere,Canada,1960-03-11,M
+65827,Keith David,USA,1956-06-04,M
+65924,Christopher Wynkoop,,,
+65975,Yuen Cheung-Yan,China,,M
+65987,Rosamund Kwan,Hong Kong,1962-09-24,F
+66032,Philippe Duquesne,France,1960-01-01,M
+66147,Arly Jover,,1971-02-02,F
+66441,Talulah Riley,UK,1985-09-26,F
+66717,Anthony Wong,China,1961-09-02,M
+66791,Anastasia Hille,England,1965-11-28,F
+66838,Florence Thomassin,France,1966-06-24,F
+66839,Philippe Lefebvre,,1968-12-17,M
+66842,Christophe Offenstein,France,1962-03-24,M
+67145,Abdelhafid Metalsi,,,
+67212,Tom Wu,,,M
+67367,Rian Johnson,USA,1973-12-17,M
+67513,Shirley Stoler,U.S.,1929-03-30,F
+67519,Ashlyn Gere,USA,1959-09-14,F
+67532,Mélanie Doutey,France,1978-11-22,F
+67714,Ramzy Bedia,France,,M
+67716,Philippe Haïm,Francia,1967-09-02,M
+67717,Michel Hazanavicius,France,1967-03-29,M
+67767,Hal Needham,USA,1931-03-06,M
+67773,Steve Martin,USA,1945-08-14,M
+67813,Baltasar Kormákur,Iceland,1966-02-27,M
+67978,Ona Grauer,Mexico,1975-11-16,F
+68180,Gary Grubbs,USA,1949-11-14,M
+68722,Maurice Chevit,France,1923-10-31,M
+68816,Adèle Haenel,France,1989-01-01,F
+68842,John Cho,South Korea,1972-06-16,M
+69122,Heather Graham,USA,1970-01-29,F
+69471,Olegar Fedoro,USSR,1958-03-06,M
+69476,Ashley McGuire,,,F
+69488,Nanni Moretti,Italy,1953-08-19,M
+69537,Hervé Palud,France,1953-04-14,M
+69542,Philippe Bruneau,France,1938-10-12,M
+69597,Drew Barrymore,USA,1975-02-22,F
+69678,Michael G. Wilson,USA,1943-01-21,M
+69681,Philippe Labro,,,
+69865,Jesús Ochoa,Mexico,1959-12-24,M
+69899,Zachary Levi,USA,1980-09-29,M
+69987,Jérôme Salle,France,1967-05-11,M
+70159,Janine Magnan,France,1938-04-05,F
+70165,Gérard Lanvin,France,1950-06-21,M
+70171,Francis Leroi,France,1942-09-05,M
+70173,Jean-Pierre Darras,France,1927-11-26,M
+70179,Pierre Barouh,,1934-02-19,M
+70221,Christian Carion,France,1963-01-04,M
+70225,John Nolan,UK,1938-04-22,M
+70233,Ricki Lake,USA,1968-09-21,F
+70320,Stéphane Bissot,,,F
+70417,Michael Sheard,UK,1938-06-18,M
+70427,Farid Chopel,France,1952-12-04,M
+70500,Tom Hooper,UK,1972-10-05,M
+70615,Rodger Bumpass,USA,1951-11-20,M
+70851,Jack Black,USA,1969-08-28,M
+70854,Jean Delannoy,Francia,1908-01-12,M
+70874,Lazar Ristovski,Yugoslavia,1952-10-26,M
+71010,Tom Conti,UK,1941-11-22,
+71038,Dimitri Storoge,,1977-07-26,
+71068,Phyllida Lloyd,UK,1957-06-17,F
+71070,Amanda Seyfried,USA,1985-12-03,F
+71075,Björn Ulvaeus,Sweden,1945-04-25,M
+71174,Tsai Ming-liang,Kuching,1957-10-27,M
+71189,Cobie Smulders,Canada,1982-04-03,F
+71280,Michael Dowse,Canada,1973-04-19,M
+71305,Bertie Cortez,,,M
+71363,Marc Berman,,,
+71377,Bruno Lochet,France,1959-10-18,M
+71378,Olivier Loustau,,,M
+71506,Rémi Bezançon,France,,M
+71536,Matthew Wood,USA,1972-08-15,M
+71570,Justin Chadwick,UK,1968-12-06,M
+71580,Benedict Cumberbatch,UK,1976-07-19,M
+71600,Seth Gordon,Illinois,1974-07-20,M
+71913,Bokeem Woodbine,USA,1973-04-13,M
+71930,Gustave Kervern,Île Maurice,1962-08-27,M
+72005,Christian Vincent,Francia,1955-11-05,M
+72028,Arye Gross,USA,1960-03-17,M
+72090,Jacques Boudet,France,1939-12-29,M
+72095,Lee Pace,USA,1979-03-25,M
+72129,Jennifer Lawrence,USA,1990-08-15,F
+72202,Shidou Nakamura,Japan,1972-09-14,M
+72230,Marcel Pérès,France,1898-01-24,M
+72254,Éric Caravaca,France,1966-11-21,M
+72255,Céline Sallette,France,1980-04-25,F
+72266,Éric Besnard,,1964-03-15,M
+72270,Souleymane Dicko,France,1966-08-26,M
+72309,Kathryn Hunter,,1957-04-09,F
+72313,Robert Wilfort,,,M
+72320,Xavier Beauvois,France,1967-03-20,M
+72327,Jalil Lespert,France,1976-09-18,M
+72466,Colin Farrell,Ireland,1976-05-31,M
+72467,Thaddeus O'Sullivan,,,M
+72590,Ariane Ascaride,France,1954-10-10,F
+72592,Yann Trégouët,France,1975-01-25,
+72611,Fabrice Du Welz,Belgium,1972-10-21,M
+72638,Tracy Letts,USA,1965-07-04,M
+72667,Gilles Mimouni,,,
+72742,Barry Dennen,U.S.,1938-02-22,M
+72864,Tim Kelleher,USA,,M
+72873,Michael Stuhlbarg,USA,1968-07-05,M
+72946,Judith Chemla,,1985-01-01,F
+73016,Debi Derryberry,USA,1967-09-27,F
+73132,Marco Rodríguez,USA,1953-07-10,M
+73235,Frédéric Schoendoerffer,,,M
+73264,Claire Nadeau,France,1945-06-01,F
+73269,Elsa Pataky,España,1976-07-18,F
+73288,Michael McElhatton,Ireland,1963-01-01,M
+73381,Matthias Schoenaerts,Belgium,1977-12-08,M
+73394,Arthur Dupont,France,1985-01-01,M
+73421,Joaquin Phoenix,Puerto Rico,1974-10-28,M
+73457,Chris Pratt,USA,1979-06-21,M
+73460,Saul Dibb,UK,,M
+73475,Adriano Giannini,Italy,1971-05-10,M
+73508,Philippe Muyl,,1953-05-30,M
+73710,Raad Rawi,,,
+73726,Nozha Khouadra,,,
+73827,Patrick Bruel,Algeria,1959-05-14,M
+73828,Marilyne Canto,Algeria,1961-10-18,F
+73931,Bette Midler,USA,1945-12-01,F
+73937,Judith Godrèche,France,1972-03-23,F
+73968,Henry Cavill,UK,1983-05-05,M
+74056,Brendan Coyle,England,1963-12-02,M
+74073,Rosalind Chao,USA,1957-09-23,F
+74110,Antoine Duléry,France,1959-11-14,M
+74112,Fabien Onteniente,France,1958-04-27,M
+74113,Emanuel Booz,,,
+74114,Philippe Guillard,,,
+74118,Philippe Le Guay,,1956-10-22,M
+74242,Shea Whigham,USA,1969-01-05,M
+74303,Dreama Walker,USA,1986-06-20,F
+74312,Ahney Her,USA,1992-01-01,F
+74502,Kristof Konrad,Poland,1975-04-26,M
+74538,Nate Mooney,,1971-01-01,M
+74568,Chris Hemsworth,Australia,1983-08-11,M
+74595,Gordon Michaels,,,M
+74619,Sean Anders,USA,1969-01-01,M
+74647,Keith Fulton,Massachusetts,1965-10-17,M
+74677,Hayley Sales,United States of America,,F
+74748,Randy Couture,USA,1963-06-22,M
+74752,Nikolaj Arcel,Denmark,1972-08-25,M
+74922,Jean-François Wolff,,,M
+74931,Jamal Duff,,1972-03-11,M
+74961,Jeremy Bobb,Irlanda,1980-05-13,M
+75071,Daniel Cerqueira,,,M
+75076,Bronson Webb,England,1983-02-20,M
+75256,Ian Hughes,Canada,1969-04-08,M
+75344,Barry Livingston,USA,1953-12-17,M
+75604,Yul Vazquez,,,M
+75923,Christopher Darga,,,
+76021,Griff Furst,USA,1981-09-17,M
+76070,Mia Wasikowska,Australia,1989-10-25,F
+76126,T.I.,United States,1980-09-25,M
+76285,Sam Louwyck,Belgio,1966-01-01,M
+76325,Daniel Alfredson,Sweden,1959-05-23,M
+76340,Giselda Volodi,Morocco,1959-09-28,F
+76415,Stephen Hogan,,,M
+76422,Ric Roman Waugh,Stati Uniti,1968-02-20,M
+76512,Jason Clarke,Australia,1969-07-17,M
+76540,Keith Hudson,,,M
+76543,Chris Browning,,,M
+76595,Byron Howard,Japan,1968-12-26,M
+76818,Nicolas Charlet,,,
+76820,Marina Foïs,France,1970-01-21,F
+76826,Sam Karmann,Égypte,1953-09-23,M
+76827,Hélène de Fougerolles,France,1973-02-25,F
+76851,John Leigh,,1965-01-01,M
+76858,François-Xavier Demaison,France,1973-09-22,M
+76910,Christophe Honoré,France,1970-04-10,M
+77003,Gavin O'Connor,USA,1964-01-01,M
+77008,Fred Cavayé,France,1967-12-14,M
+77100,Audrie Neenan,USA,1950-10-28,F
+77131,Pascal Elbé,France,1967-03-13,M
+77147,John Erick Dowdle,United States,,
+77155,James Saito,USA,1955-03-06,M
+77264,Ashlie Atkinson,USA,1977-08-06,F
+77284,Gérald Laroche,,,M
+77309,Daniel Cohen,Tunisia,,M
+77335,Ben Mendelsohn,Australia,1969-04-03,M
+77458,David Von Ancken,,,M
+77496,Vince Colosimo,Australia,1966-11-06,M
+77498,Lubna Azabal,Belgium,1973-01-01,F
+77585,Anthony Mangano,,,M
+77734,Bruno Solo,France,1964-09-23,
+77736,Armelle,France,1969-07-23,F
+77880,Josh Dallas,USA,1981-12-18,M
+77906,Yann Collette,France,1956-04-14,M
+77928,Bruno Salomone,France,1970-07-13,M
+77929,François Morel,,1959-06-10,M
+77955,Yuki Matsuzaki,Japan,1981-09-24,M
+77965,Morten Tyldum,Norvegia,1967-05-19,M
+77996,Asa Butterfield,UK,1997-04-01,M
+78018,Allan Corduner,Sweden,1950-04-02,M
+78021,Lloyd Kaufman,USA,1945-12-30,M
+78029,Martin Lawrence,Germany,1965-04-16,M
+78080,Krysten Ritter,USA,1981-12-16,F
+78110,Scott Adkins,UK,1976-06-17,M
+78124,François Civil,France,1989-01-29,M
+78160,Luca Guadagnino,Italy,1971-08-10,M
+78191,Nicole Stéphane,,,
+78216,Louise Bourgoin,France,1981-11-28,F
+78221,Romain Lévy,,,
+78223,Benjamin Guedj,,,
+78317,Bob Bergen,USA,1964-03-08,M
+78329,Lorraine Ashbourne,UK,1961-01-01,F
+78336,Nick Vallelonga,U.S.A.,1959-09-13,M
+78421,Nicolas Marié,,,
+78423,Omar Sy,France,1978-01-20,M
+78425,Louise Monot,France,1981-12-30,F
+78479,Laurent Bateau,,,M
+78489,Laurent Tuel,,,
+78493,Isaac Sharry,Morocco,1968-02-08,
+78681,Isabella Ferrari,Italy,1964-03-31,F
+78729,Nathan Lane,U.S.,1956-02-03,M
+78789,Jay Patterson,USA,1954-08-22,M
+78798,Tom Kenny,U.S.,1962-07-13,M
+79025,Don McManus,USA,1959-11-08,M
+79035,Patrick Bonnel,,,M
+79052,John Hostetter,,,
+79072,Kevin Durand,Canada,1974-01-14,M
+79079,Jamie McShane,USA,,M
+79082,Randall Park,USA,1974-03-23,M
+79502,Richard Strange,UK,1951-01-01,M
+79541,Blutch,France,1967-12-27,M
+79610,Sarah-Jeanne Labrosse,Canada,1991-08-16,F
+79654,Robert Katims,USA,1933-04-22,M
+79885,Steven O'Donnell,UK,1963-03-19,M
+79991,Stephen Kunken,,,M
+80149,Douglas Hodge,,1960-02-25,M
+80348,Lorena Gale,Canada,1958-05-09,F
+80367,Estelle Skornik,France,1971-07-04,
+80416,Richard McGonagle,,,M
+80507,Stefan Kapičić,Germany,1978-12-01,M
+80602,Tyler Perry,USA,1969-09-13,M
+80619,Steve Coulter,,1960-01-01,M
+80698,Rob LaDuca,,,M
+81054,Nicolas Duvauchelle,France,1980-03-27,M
+81125,Denis Ménochet,France,1976-09-18,M
+81295,Shane West,USA,1978-06-10,M
+81681,Denis O'Hare,USA,1962-01-17,M
+81685,Frank Grillo,USA,1965-06-08,M
+81692,Stephen Bridgewater,USA,1953-08-24,M
+81812,Jean-Marie Bigard,France,1954-05-17,M
+81821,Sandrine Kiberlain,France,1968-02-25,F
+81838,Hassam Ghancy,,,
+81840,Adeel Akhtar,UK,1980-09-18,M
+81843,Jennifer Darling,USA,1946-06-19,F
+81850,Duncan Jones,United Kingdom,1971-05-30,M
+81876,Stuart Devenie,,,M
+81877,Mark Hadlow,,1957-01-01,M
+81878,Brian Sergent,,,
+82092,Will.i.am,USA,1975-03-15,M
+82104,Danai Gurira,USA,1978-02-14,F
+82119,Chantal Lauby,France,1948-03-23,F
+82187,Mathias Mlekuz,,1966-11-01,M
+82188,Jean-Pierre Martins,,1971-10-29,M
+82194,Neill Blomkamp,South Africa,1979-09-17,M
+82288,Jackie Berroyer,France,1946-05-24,M
+82289,Jean-Paul Lilienfeld,France,1962-07-17,M
+82312,Maja Ostaszewska,Poland,1972-09-03,F
+82410,Terry O'Neill,England,1948-02-27,M
+82418,Erik Van Looy,Belgium,1962-04-26,M
+82423,Veerle Baetens,Belgium,1978-01-24,F
+82639,Ophelia Lovibond,UK,1986-02-19,F
+82647,Bruce McFee,,,M
+82702,Michael Jackson,USA,1958-08-29,M
+82792,Bruno Moynot,France,1950-12-20,M
+82793,Martin Lamotte,France,1947-06-02,M
+82809,Annabelle Wallis,UK,1984-09-05,F
+82923,Bérénice Bejo,Argentina.,1976-07-07,F
+82926,Arsène Mosca,France,1967-08-04,M
+82927,Abdellah Moundy,,,
+83002,Jessica Chastain,USA,1977-03-24,F
+83156,Stomy Bugsy,EU,1972-05-21,
+83271,Glen Powell,USA,1988-10-21,M
+83356,Jamie Campbell Bower,UK,1988-11-22,M
+83423,Heather Doerksen,Canada,1980-02-12,F
+83782,Bruce Wright,,,M
+83793,Riad Sattouf,,,
+83797,Vincent Lacoste,France,1993-07-03,M
+83798,Anthony Sonigo,,,M
+83813,Thierry Neuvic,France,1970-08-03,M
+83842,Jean-Michel Ribes,France,1946-12-15,M
+83847,Annie Grégorio,France,1957-04-04,F
+83854,David Dastmalchian,U.S.,1977-07-21,M
+83932,Osamu Saka,Japan,1930-11-07,M
+83966,Pascale Arbillot,France,1970-04-17,F
+83967,Manu Payet,Réunion,1975-12-22,M
+83970,Gladys Cohen,,,
+84100,Fred Testot,France,1977-02-20,M
+84213,Bill Farmer,USA,1952-11-14,M
+84217,Alex Meraz,,1985-01-10,M
+84227,Justine Wachsberger,USA,1988-08-09,F
+84407,Jim Gaffigan,USA,1966-07-07,M
+84425,Eric Toledano,France,1967-07-03,M
+84426,Olivier Nakache,France,1973-04-15,M
+84429,Audrey Dana,Francia,1979-09-21,F
+84430,Joséphine de Meaux,France,1977-01-23,F
+84432,Lizzie Brocheré,France,1985-03-22,F
+84433,Lannick Gautry,,1946-03-03,M
+84434,Wahid Bouzidi,,,
+84439,Julien Leclercq,,,M
+84440,Marie Guillard,France,1972-06-20,F
+84493,Mickie McGowan,,,F
+84495,Jess Harnell,USA,1963-12-23,M
+84496,Josh Cooley,USA,1980-05-23,M
+84818,Jacques Besnard,,,
+85096,Stephen Blackehart,New York,1967-12-01,M
+85163,Benoît Brière,Canada,1965-06-20,M
+85340,Eric Lartigau,Francia,1964-06-20,M
+85419,Dylan Kenin,,,M
+86006,Paul Eiding,USA,1957-03-28,M
+86007,Jim Ward,,,
+86169,Camden Munson,,2018-05-01,M
+86237,Joe Pingue,,1976-01-01,M
+86270,Joseph Kosinski,USA,1974-05-03,M
+86310,Connie Britton,USA,1967-03-06,F
+86812,Ted Manson,USA,1926-10-23,M
+87192,Mike O'Malley,USA,1966-10-31,M
+87194,Christine Adams,UK,,F
+87312,James Parks,USA,1968-11-16,M
+87360,Michael Taliferro,USA,1961-08-23,M
+87478,Kevin Geer,USA,1952-11-06,M
+87662,Issey Takahashi,Japan,1980-12-09,M
+87722,Noomi Rapace,Sweden,1979-12-28,F
+87957,Keith Szarabajka,USA,1952-12-02,M
+88060,Jeff Pollack,USA,1959-11-15,M
+88124,Jesse Plemons,United States,1988-04-02,M
+88474,Neri Marcorè,Fermo,1966-07-31,M
+89387,Elarica Johnson,UK,1989-08-21,F
+89624,Adel Bencherif,,1975-05-30,M
+89626,Reda Kateb,France,1977-07-27,M
+89822,Tuppence Middleton,UK,1987-02-21,F
+90060,Pilou Asbæk,Denmark,1982-03-02,M
+90113,Katarzyna Wolejnio,Poland,1973-05-19,F
+90607,Massy Tadjedin,California,,
+90633,Gal Gadot,Israel,1985-04-30,F
+90634,Don Omar,,,
+90725,Alain Chanoine,Canada,1981-07-08,
+91269,Paul Wernick,Canada,,M
+91355,Christa Théret,France,1991-06-25,F
+91378,Ngô Thanh Vân,Vietnam,1979-02-26,F
+91453,Edward James Hyland,,,M
+91485,Patricia Karim,Belgium,1935-02-03,F
+91494,Enzo Cilenti,England,1974-08-08,M
+91606,Tom Hiddleston,UK,1981-02-09,M
+92023,Hélène Roussel,,,
+92058,Phil Austin,United States,1941-04-06,
+92100,Jean-Claude Jay,,,
+92119,Larry Brandenburg,USA,1948-05-03,M
+92404,Joel Kinnaman,Sweden,1979-11-25,M
+92614,Dawn Olivieri,USA,1981-02-08,F
+92777,Tucker Smallwood,USA,1944-02-22,M
+92811,David Wohl,USA,1953-09-22,M
+93210,Domhnall Gleeson,Ireland,1983-05-12,M
+93211,David Murray,Ireland,1970-02-07,M
+93236,David Dencik,Sweden,1974-10-31,M
+93297,Elsa Kikoïne,France,1977-03-02,F
+93345,Ryan Cutrona,USA,1949-07-29,M
+93434,Lionel Vitrant,,,M
+93531,Jean-Noël Brouté,,,M
+93532,Laurent Lafitte,France,1973-08-22,M
+93620,Welker White,,1964-09-01,F
+93752,John Farrer,,,M
+93846,Googy Gress,USA,1958-08-11,M
+93903,Cédric Kahn,Francia,1966-06-17,M
+93927,Kathy Lamkin,,,F
+93948,Alan Gifford,,1911-03-11,
+93958,J. Patrick McCormack,,,M
+94180,Charles Reisner,USA,1887-03-14,M
+94427,Stephanie Honoré,,1984-05-12,F
+94432,Adrian Martinez,USA,1972-04-10,M
+94561,Phil Hawn,,1957-04-20,
+94864,Max Martini,USA,1969-12-11,M
+94904,Wendy Worthington,USA,1954-09-17,F
+94943,René Bergeron,France,1890-10-07,M
+94945,Roger Legris,France,1898-07-03,M
+94958,Iddo Goldberg,Israel,1975-02-05,M
+95099,Valerie Leon,London,1943-11-12,F
+95101,Charlie Day,USA,1976-02-09,M
+95638,John Pyper-Ferguson,Australia,1964-02-27,M
+95716,Ian Pirie,,,M
+95741,George Plimpton,New York,1927-03-18,M
+95901,Bruno Dumont,France,1958-03-14,M
+96044,Samy Seghir,France,1994-07-29,M
+96045,Jérémy Denisty,Belgium,,M
+96061,Tom Wilson,USA,1880-08-27,M
+96228,Gary Basaraba,Canada,1959-03-16,M
+96321,Tego Calderón,,,M
+96376,Thierry Hancisse,,1962-11-20,M
+96413,Thierry Frémont,,1962-07-24,M
+96416,Xavier Maly,,,
+96538,Ginny Yang,,,
+96627,André Téchiné,Francia,1943-03-13,M
+96841,Matthew Lewis,UK,1989-06-27,M
+96851,James Phelps,,1986-02-25,M
+96869,Samuel Boidin,,,M
+96993,Michael Mellinger,Germany,1929-05-30,M
+96997,Bradford Simonsen,,,
+97084,Robinson Stévenin,France,1981-03-01,M
+97085,Stéphane De Groodt,Belgium,1966-03-03,M
+97257,Marjorie Bennett,Australia,1896-01-15,F
+97436,Derek Lea,UK,,M
+97446,James DuMont,USA,1965-08-12,M
+97751,Denise Cheshire,,,
+97844,Robert Pralgo,USA,1966-06-04,M
+97943,Raphael Sbarge,USA,1964-02-12,M
+98215,Matt Gerald,USA,1970-05-02,M
+98492,Federico Boido,,1940-01-08,M
+98887,Peewee Love,,,
+99303,Michel Crémadès,France,1955-03-23,M
+99366,Manning Redwood,New York,1929-02-16,M
+99905,Kathleen Byron,U.K.,1921-01-11,F
+100062,Del Zamora,,,M
+100127,Tarako,,1960-12-17,F
+100260,Mike Moroff,,,M
+100721,Doris Thomas,,,F
+100743,Nader Boussandel,,,M
+100745,Amelle Chahbi,,,
+101014,Beatrice Rosen,USA,1984-11-29,F
+101015,Chin Han,Singapore,1969-11-27,M
+101315,Georges Guéret,,,M
+101320,Jean Luisi,France,1926-09-08,M
+101615,Frank Pesce,,,M
+101658,Tom Nolan,Canada,1948-01-12,M
+102429,Roger Corman,USA,1926-04-05,M
+102567,Randy Oglesby,,,M
+102744,Monique Ganderton,Canada,1980-08-06,F
+102852,Andreas Apergis,,,M
+102853,Paul Hopkins,,,M
+102864,Ginette Leclerc,France,1912-02-09,F
+103393,Jacques Becker,France,1906-09-15,M
+103779,Gaby Basset,,1902-03-29,F
+103781,Simone Simon,France,1910-04-23,F
+103833,John Aylward,USA,1946-11-07,M
+104083,Gérard Croce,,1947-05-19,M
+104101,Michel Charrel,France,1936-09-13,
+104191,Wiley M. Pickett,,,M
+104940,Eva Rueber-Staier,Austria,1951-01-01,F
+105303,Fred Melamed,USA,1956-05-13,M
+105584,Bret McKenzie,New Zealand,1976-06-29,M
+105649,Bill Bolender,Illinois,1940-11-14,M
+105687,Nadia Konakchieva,,,F
+105727,Jake Abel,USA,1987-11-18,M
+106243,Mary Ann Schmidt,,,F
+106247,Tom Villard,United States,1953-11-19,M
+106490,Stefanie Scott,USA,1996-12-06,F
+106572,Martha Raye,USA,1916-08-27,F
+106628,Marianne Stone,UK,1922-08-23,F
+107490,Jaco Van Dormael,Belgium,1957-02-09,M
+108060,Djamel Bensalah,,,
+108253,Katie Lowes,USA,1982-09-22,F
+108277,Ed Bishop,USA,1932-06-11,M
+109253,Costa Botes,New Zealand,1960-12-27,M
+109402,Rob Epstein,United States,1955-04-06,M
+109410,Joanne Woodward,USA,1930-02-27,F
+109474,Damien Jouillerot,France,1985-09-23,M
+109516,Clémentine Célarié,Senegal,1957-10-12,F
+109519,Manon Chevallier,,,
+109667,Ilia Volok,USSR [now now Ukraine],1965-01-01,M
+109713,Rita Blanco,Portugal,1963-01-11,F
+109744,Ryan Polito,,,M
+109869,Kristen Schaal,U.S.,1978-01-24,F
+110018,David Lipper,Canada,,M
+110319,George Roubicek,,,M
+110503,Catherine Alric,,1954-03-23,
+110872,Gerard Monaco,,,M
+110928,Nancy Linehan Charles,USA,1942-12-11,F
+111304,Colette Fleury,,,
+111305,Simone Paris,,,
+111514,David Pressman,USA,1965-11-06,M
+111683,Jason Mantzoukas,USA,1972-12-18,M
+111707,Muriel Dubrule,,,
+112197,Yann Moix,France,,M
+112692,Robert Maillet,Canada,1969-10-26,M
+112754,René Lefèvre,France,1898-03-06,M
+112756,Monique Hennessy,,,
+112757,Carl Studer,,1918-01-08,M
+112760,Jacques Léonard,,,M
+112762,Charles Bayard,,,
+113231,Gunner Wright,Florida,1973-08-26,M
+113387,Jaime Gomez,USA,1965-08-31,M
+113505,Kodi Smit-McPhee,Australia,1996-06-13,M
+113506,Bob Jennings,,,
+113603,Philippe Uchan,,1962-01-01,M
+113606,Valérie Guignabodet,,,
+113610,Thomas Gilou,France,1955-02-01,M
+113617,Alexandra Lamy,France,1971-10-14,F
+113814,Linda Kim,,,F
+113916,Scott Menville,,1971-02-12,M
+114019,Luke Evans,UK,1979-04-15,M
+114512,Lloyd Nelson,,1927-06-10,
+114711,Tien Shue,,,
+114953,Géraldine Nakache,,1980-02-16,M
+115068,John McLaren,Canada,1911-10-10,M
+115107,Roland Armontel,,1901-12-21,M
+115472,Antoine Marin,,,
+115596,Arthur Holden,Canada,1963-09-21,
+115659,Yoji Tanaka,Japan,1963-08-08,M
+115686,Laurent Spielvogel,,1955-05-10,M
+115742,Johan Heldenbergh,,,M
+115876,Mikhail Gorevoy,USSR (Russia),1965-05-19,M
+116123,Norman Chancer,,,M
+116315,Kari Wahlgren,U.S.,1977-07-13,F
+116341,Bill Clinton,USA,1946-08-19,M
+117081,Teresa Ganzel,Ohio,1957-03-23,F
+117528,Homayoun Ershadi,Iran,1947-01-01,M
+117564,Jack Moore,,,
+117642,Jason Momoa,USA,1979-08-01,M
+117654,David Sterne,,,M
+117668,Lucienne Bogaert,Nord,1892-01-06,
+118020,Jacques Doillon,France,1944-03-15,M
+118142,Davina Whitehouse,UK,1912-12-16,F
+118178,Virginie Efira,Belgium,1977-05-05,F
+118512,Michaël Vander-Meiren,,,
+118595,Ric Reitz,USA,1955-09-08,M
+118617,Nicholas Woodeson,UK,1949-11-30,M
+118639,Tom Six,Netherlands,1973-08-29,
+119199,Claude Perron,France,1966-01-23,F
+119356,Antonello Grimaldi,Italy,1955-08-14,M
+119414,Jonathan Ryland,,,M
+119498,Joann Sfar,,,M
+119499,Laetitia Casta,France,1978-05-11,F
+119501,Philippe Katerine,,1968-12-08,M
+119685,Elizabeth Croft,,,
+119831,Marie-Sophie L.,,1963-02-14,
+119869,John Salley,USA,1964-05-16,M
+120006,Anthony Brophy,UK,,M
+120445,Colin Kenny,Ireland,1888-12-04,M
+120560,Jim Piddock,UK,1956-04-08,M
+120571,Myriam Boyer,France,1948-05-23,F
+120833,Richard Durden,UK,1944-02-08,M
+121529,Léa Seydoux,France,1985-07-01,F
+121530,Grégoire Leprince-Ringuet,France,1987-12-04,M
+121588,Eric Lavaine,France,,M
+121718,Bill Camp,USA,1961-10-13,M
+121751,Sô Yamanaka,,,
+122416,Tina Rodriguez,USA,1982-09-24,F
+122441,Harry Sinclair,New Zealand,1959-01-01,M
+122455,Paul A. Partain,USA,1946-11-22,M
+122491,Christopher Murray,USA,1957-03-19,M
+122546,Al Palagonia,USA,1967-12-13,
+122556,Ian Bonar,,,
+122572,Brigitte Chamarande,,,
+122596,V.J. Foster,,,
+122750,Leslie Uggams,,1943-05-25,F
+122805,Mark Fite,,,M
+122847,Serge Élissalde,France,1962-07-30,M
+122889,Dane DeHaan,USA,1987-02-06,M
+123037,Jonathan Harris,,1914-11-06,
+123517,Michael J. Anderson,USA,1953-10-31,M
+123979,Philippe Harel,,,
+123989,Anaïs Demoustier,France,1987-09-29,F
+124236,Jean-Marie Robain,France,1913-12-08,M
+124342,Vanessa Cobham,,,
+124644,Analeigh Tipton,USA,1988-11-09,F
+124645,Chad L. Coleman,USA,1974-09-06,M
+125037,Tonie Marshall,,1951-11-29,F
+125324,William Eubank,USA,1982-11-15,M
+125412,Michaël Cohen,,1970-12-13,
+125660,Andrew Scott,Ireland,1976-10-21,M
+125738,Daniel Espinosa,Svezia,1977-03-23,M
+125842,Pat Flaherty,USA,1897-03-08,M
+125908,Paul Stassino,,1930-01-01,M
+126232,Claude Bertrand,France,1919-03-24,M
+126316,Roger Monk,,,
+126363,Martin Jarvis,UK,1941-08-04,M
+126502,Charisma Carpenter,USA,1970-07-23,F
+126590,Daniel Derval,,,
+126597,Stéphane Aubier,Belgium,1964-10-08,M
+126619,Alexandre von Sivers,,,
+126725,Dominique Thomas,,,M
+126726,Lola Créton,Francia,1993-12-16,F
+127000,Rachel McDowall,,,F
+127005,Chris Wilson,UK,,M
+127069,Charles Techman,,,
+127536,Alfred Dennis,USA,1922-12-26,M
+128386,Colin McFarlane,London,1961-09-15,M
+128404,George Gerdes,USA,1948-02-23,M
+128597,Rick Aiello,,,
+128638,Vincent Deniard,,,
+128645,Archie Panjabi,UK,1972-05-31,F
+128748,Alba Rohrwacher,Italy,1979-02-27,F
+129101,Lance Reddick,USA,1969-12-31,M
+129168,Alice Pol,France,1982-12-03,F
+129394,Robert Pollock,,1951-09-16,M
+129766,Hélène Babu,,,F
+129896,Rithy Panh,Cambogia,1964-04-18,M
+130081,Robin Atkin Downes,UK,,M
+130313,Walerian Borowczyk,Poland,1923-09-02,M
+130448,Nanou Garcia,,,F
+130452,Anthony Decadi,,,
+130559,Alban Casterman,France,1975-10-28,
+130630,Henri Decoin,France,1890-03-18,M
+130663,Hervé Mimran,France,,M
+130664,Audrey Lamy,France,1981-01-19,F
+130712,Lio,Portugal,1962-06-17,F
+130935,Shane Meier,,1977-06-11,M
+131119,Bo Dietl,,1950-12-04,M
+131380,Gérard Hernandez,Spain,1933-01-20,M
+131684,Christine Murillo,France,1951-08-01,F
+131732,Xiong Xin-Xin,China,1962-02-25,M
+131827,Laure de Clermont-Tonnerre,,1983-07-26,F
+131849,Christy Scott Cashman,,,F
+132157,Ezra Miller,USA,1992-09-30,M
+132235,Christophe Bourseiller,France,1957-09-27,M
+132429,Aïssa Maïga,Sénégal,1975-05-25,F
+132431,Mélanie Bernier,France,1985-01-05,F
+132541,Gaëlle Cohen,,,
+132542,Maurice Barthélemy,Bolivia,1969-05-23,M
+132876,Brad Peyton,Canada,1978-05-27,M
+132890,Andy Townsley,,,
+132988,John Albasiny,UK,1968-01-01,M
+133068,Owen Burke,,,M
+133153,Marcio Rosario,Brazil,1971-12-24,M
+133257,Virgile Bramly,,,M
+133259,Arthur Hiller,Canada,1923-11-22,M
+133271,Bernard Borderie,France,1924-10-06,M
+133398,Quentin Dupieux,France,1974-04-14,M
+133735,Olivier Hémon,France,1950-09-03,M
+134156,Sam Miller,England,1962-09-28,M
+134216,Carlo Brandt,Switzerland,1947-01-01,M
+134235,Jake Hoffman,USA,1981-03-20,M
+134514,Geoffrey Carey,,,M
+134744,Pierre Vial,,,
+135467,Matt Vogel,USA,1970-10-06,
+135624,Gérard-Antoine Huart,,,
+135665,Marc Barbé,,1961-05-06,M
+136418,Hugues Wanner,,,M
+136438,Eric Savin,,,M
+136489,Valérie Benguigui,France,1965-11-06,F
+136745,Lucien Jean-Baptiste,,1964-05-06,M
+136761,Nathalie Baye,France,1948-07-06,F
+137427,Denis Villeneuve,Canada,1967-10-03,M
+137905,Bill Skarsgård,Sweden,1990-08-09,M
+138158,Norma Atallah,,,
+138401,Frank Senger,,,M
+138814,Valérie Mairesse,,1955-06-08,F
+138986,Tony Bennett,USA,1926-08-03,M
+139172,Judith Davis,France,1982-01-01,F
+139173,Chloé Coulloud,,1987-01-01,F
+139188,Fileena Bahris,,,
+139235,Chris Warner,,1970-08-07,M
+139549,Rory Kinnear,England,1978-02-17,M
+139654,Genevieve O'Reilly,Ireland,1977-01-01,F
+139818,Nicolas Vanier,Dakar,1969-05-05,
+139820,Pom Klementieff,Canada,1986-05-03,F
+139855,Joël Dupuch,,,
+139857,Maxim Nucci,,,
+139900,Florence Kasumba,Uganda,1976-10-26,F
+139965,Shaun Lucas,,,
+139992,Mack Miles,,,
+140056,Jeffrey Kime,,,
+140178,Frances Foster,,1924-06-11,F
+140250,Tom Everett,USA,1948-10-21,M
+140363,Charles Bouillaud,France[now Maritime],1904-05-11,M
+140367,Evanna Lynch,Ireland,1991-08-16,F
+140368,Oliver Phelps,,1986-02-25,M
+140409,Shaun O'Hagan,,1969-07-24,
+140518,Vincent Garenq,,,
+140538,Juan Minujín,Argentina,1975-05-20,M
+140575,Sebastien Torkia,,,
+141014,Jay Benedict,USA,1951-04-11,M
+141034,Billy Magnussen,USA,1985-04-20,M
+141055,William Leymergie,,,
+141417,Mike Bacarella,,,M
+141448,Gary Galone,USA,1954-06-25,
+141458,Joseph McKenna,,,M
+141687,Dianna Agron,USA,1986-04-30,F
+141748,Sharon Washington,,,F
+141762,Joe Chrest,USA,,M
+142019,Yayan Ruhian,Indonesia,1968-10-19,M
+142204,Andy Umberger,,,M
+142294,Jason Butler Harner,USA,1970-10-09,M
+142443,Élodie Navarre,France,1979-01-21,F
+142689,Suzanne Clément,Canada,1969-05-12,F
+142747,Granville Saxton,,,
+143059,Patrick Hughes,,,M
+143261,Michael Beasley,,,M
+143389,Nicolas Giraud,France,1978-11-12,M
+143564,Bill Brandon,,,
+143593,Xavier Dolan,Canada,1989-03-20,M
+143596,Niels Schneider,France,1987-06-18,M
+143892,Steffan Rhodri,Wales,1967-03-01,M
+143963,Carmen Llywelyn,,,
+144221,Brad Furman,,,M
+144257,Marc Esposito,,,M
+144258,Léonie Simaga,,,
+144260,Lucie Phan,,,F
+144261,Françoise Michaud,,,F
+144291,Joanna Bobin,UK,,F
+144760,Fanny Valette,France,1986-07-04,F
+144782,Arnaud Larrieu,,,
+144812,Pascale Pouzadoux,,,
+144990,Fernand Sardou,,1910-09-18,M
+145074,Joëlle Bernard,France,1928-08-14,F
+145076,Léonce Corne,France,1894-03-18,M
+145103,Marco Perrin,France,1927-05-16,M
+145117,Jean-Pierre Améris,France,1961-07-26,M
+145119,Lise Lamétrie,,1955-02-20,
+145120,Swann Arlaud,France,1981-01-01,M
+145121,Pierre Niney,Francia,1989-03-13,M
+145123,Grégoire Ludig,France,,M
+145125,Philippe Fretun,,,
+145129,Claude Aufaure,,,
+145162,Lyes Salem,Algérie,1973-07-07,M
+145197,Philippe Brigaud,,1933-09-30,M
+145230,Abbes Zahmani,,1961-06-18,M
+145297,Julie Bernard,,1980-01-01,F
+145299,Eric Godon,Belgium,1959-02-07,
+145302,Bernie Bonvoisin,,1956-07-09,M
+145310,Philip Arditti,Switzerland,,M
+145333,Xavier Pottier,,,M
+145531,Christopher John Fields,,1956-09-23,M
+145738,Christian Pereira,,,
+145997,Sanjeev Bhaskar,UK,1963-10-31,M
+146000,Arnaud Lemort,,,
+146020,Brian F. Durkin,USA,1976-05-17,M
+146025,Sharon Blackwood,,,F
+146140,David Bedella,USA,1962-09-25,M
+146195,Francine Bergé,,1938-07-21,
+146213,Olga Grumberg,,,
+146230,André Chaumeau,Frankreich,1924-10-22,M
+146232,Jean-Claude Martin,France,1927-03-28,M
+146287,Pio Marmaï,France,1984-07-13,M
+146288,Jonathan Lambert,France,1973-06-24,M
+146294,Vincent Gale,UK,1968-03-06,M
+146342,Vimala Pons,India,1986-03-15,F
+146376,Jean-Paul Farré,,,
+146438,Bertrand Bonello,France,1968-09-11,M
+146487,Éric Naggar,France,1957-12-03,M
+146488,Jean-Yves Chatelais,,1955-01-01,
+146490,Karine Belly,,,F
+146500,Miglen Mirtchev,,,M
+146507,Pierre Kiwitt,Germany,1977-02-03,M
+146628,Souad Amidou,,,
+146635,Thierry René,,,M
+146640,Michel Caccia,,,M
+146720,Hervé Pierre,,,M
+147041,Raphaël Personnaz,Francia,1981-07-23,M
+147056,Caitriona Balfe,Ireland,1979-10-04,F
+147290,Mary Stavin,Sweden,1957-08-20,F
+147429,Jean Richard,France,1921-04-18,M
+147882,Maud Wyler,,,F
+147960,Jason Manuel Olazabal,USA,1973-10-14,M
+147964,Steve Murphy,USA,1876-12-25,M
+147991,Phyllis Allen,USA,1861-11-25,F
+148065,Syd Chaplin,,1885-03-16,
+148071,Loyal Underwood,,,
+148122,Geoffrey Blake,USA,1962-08-20,M
+148307,Yves Arcanel,,,
+148308,Albert Dagnant,,,
+149008,Éric Chartier,,,
+149223,Laura Smet,Francia,1983-11-15,F
+149471,Ingo Neuhaus,Germany,1969-02-19,M
+149829,Brandon Keener,USA,1974-10-01,M
+149876,Laure Marsac,,1970-02-18,F
+149989,Eye Haïdara,France,1983-03-07,
+150015,Jean-Claude Sussfeld,,,
+150016,Guy Montagné,,,
+150172,Ramón Franco,Puerto Rico,1963-09-12,
+150792,Etienne Chicot,France,1949-05-05,M
+150932,Robert C. Kirk,,,
+151246,Nicole Scherzinger,USA,1978-06-29,F
+151438,Rolf Saxon,,1955-01-01,M
+152638,Gene Borkan,,1947-02-18,M
+152864,Steve Witting,,,
+152993,Gene Wolande,,,M
+153208,Anthony Green,,,
+154224,Esther Scott,USA,1957-04-25,F
+154551,Jamison Yang,,1976-10-31,M
+154625,Pamela Dunlap,,1943-02-20,F
+154727,Tom McCleister,,,M
+154785,Mark Povinelli,USA,1971-08-09,M
+154815,Joanna Sanchez,,,F
+154837,Chris Gann,USA,1972-04-13,M
+154883,Bodhi Elfman,,1969-07-19,M
+154917,Al Sapienza,USA,1962-07-31,M
+155018,Colby French,,,M
+155530,Rebecca Front,UK,1964-05-16,F
+155535,Douglas Crosby,,,M
+155864,Kelsey Mulrooney,Kelsey Mulrooney,1987-08-21,F
+155931,Katy Boyer,,,
+155978,Joel Stoffer,,,M
+156131,Sharon Tay,Singapore,1966-10-15,F
+156294,Paolo Seganti,Italy,1965-05-20,M
+156963,Toshi Toda,,,M
+157029,Derek Webster,,,
+157549,Diane Robin,USA,1956-07-23,F
+157626,Jan Rabson,USA,1954-06-14,M
+158459,Chris Owens,Canada,1961-09-07,M
+158484,Trevor White,Canada,1970-10-26,M
+159057,Roy Evans,UK,,M
+159264,Denney Pierce,,,M
+159394,Jim Ortlieb,USA,1956-06-19,M
+159454,Peter Breitmayer,USA,1965-05-29,M
+159879,Joseph Lyle Taylor,,1964-09-20,M
+159887,Tommy Hollis,USA,1954-03-22,M
+160888,Bill Edwards,,,
+162828,Cooper Thornton,USA,,M
+163742,Stephen Rowe,,,M
+163775,John C. Vennema,USA,1948-08-24,M
+163873,Philip Goodwin,,,M
+164021,William H. Burns,New York USA,1960-11-25,M
+164093,Katherine Wallach,,1958-07-13,F
+164094,Marin Ireland,USA,1979-08-30,F
+164382,Albert Jones,,,M
+165424,Danny Sapani,,1970-11-15,M
+165787,Rich Moore,USA,1963-05-10,M
+166258,Malcolm Tierney,,1938-02-25,M
+166406,Ryan O'Donohue,USA,1984-04-26,M
+166658,Katie Couric,Virginia,1957-01-07,F
+166890,Anthony Alessandro,,,M
+166893,Brendan Kelly,Ireland,1964-09-28,M
+167295,John Cygan,,,
+167755,Judi Beecher,,,
+168769,Michael Maurer,,,
+168875,Gary Weeks,Germany,1972-06-04,M
+168981,Howard Mungo,,,M
+170977,Stephen Mailer,USA,1966-03-10,M
+171167,Phyllis Yvonne Stickney,,,
+171168,Leland Gantt,,,
+171252,George T. Odom,,1950-08-21,M
+171297,Sondra James,,,
+171301,John Ottavino,,,M
+171584,Stan Carp,,,
+171701,Victor Verhaeghe,,,M
+172069,Chadwick Boseman,USA,1976-11-29,M
+172994,Peter Shinkoda,Canada,1971-03-25,M
+173428,Bridget Hoffman,USA,1957-03-05,F
+173451,Jed Brophy,,1963-01-01,
+173601,Glen Drake,,,M
+173810,Sayed Badreya,Egypt,1957-05-01,M
+174398,Georgina Leonidas,,1990-02-28,F
+174700,Angela Curran,England,1959-01-01,F
+175120,Evan Mirand,,,M
+175154,Michael Nardone,,1967-03-03,M
+175511,Matt Levin,,,M
+176191,Andrew Havill,UK,1965-01-01,M
+176227,Richard Dillane,UK,1964-01-01,M
+176777,Hamilton Clancy,,,
+177532,Marielle Heller,USA,1979-10-01,F
+177588,André Sogliuzzo,USA,1966-08-10,M
+177623,Matthew Kimbrough,,1952-01-01,M
+177898,Nellie Sciutto,,,F
+178630,Kate Fleetwood,England,1972-09-24,
+179028,John Young,,,
+179188,Neil Summers,UK,1944-04-28,M
+179771,Richard Ashton,UK,1965-10-02,M
+179887,Gilbert Rosales,,,M
+179969,Eric Paskel,,,
+180959,Dominique Hulin,,,M
+180970,Sarah Pratt,,,F
+182280,Daniel Eric Gold,USA,1975-09-19,
+183180,John Warnaby,,,M
+183519,Craig Stark,,,
+183930,William Marsh,,,
+184980,Burnell Tucker,,,
+185033,Gordon Sterne,,1923-01-16,M
+185044,Paul Tamarin,,,
+185257,Daniel Breton,,,M
+185270,Bruno Raffaelli,,,M
+185296,Charles Maquignon,Sweden,1965-12-29,M
+185348,Guy Amram,,,M
+185354,Jesse Joe Walsh,,,M
+185391,Geoffrey Bateman,,,M
+186212,Hal Galili,,,
+186469,Alistair Browning,New Zealand,1954-02-08,M
+186605,Terri Douglas,,,F
+187919,Tobias Segal,,,
+188433,Mal Whyte,,,
+190895,Sarah Gadon,Canada,1987-04-04,F
+192922,Paul Thornley,,,
+193048,Abdul Salaam El Razzac,,1944-05-08,M
+196899,Marion Guyot,,,F
+198150,Ike Barinholtz,USA,1977-02-18,M
+198662,Harry Standjofski,Quebec Canada,1959-01-01,M
+199077,Andy Bradford,UK,1944-09-07,M
+202032,Ralph Ineson,UK,1969-12-15,M
+202080,"Sydney \""Big Dawg\"" Colston",USA,1970-01-01,M
+202402,Harry Fielder,,,M
+202691,Emil Beheshti,USA,1971-07-15,
+202759,Sean Buckley,,,M
+202939,Hari Dhillon,USA,1968-01-01,M
+203207,David Goldman,,,
+203950,Brian J. Williams,,,M
+204034,Anne Girouard,,1976-01-01,F
+204191,Aramis Knight,CA,1999-10-03,M
+204675,Michel Winogradoff,,,M
+204997,Hanna Hall,USA,1984-07-09,F
+205128,Mike Houston,USA,1976-02-23,M
+205179,Danny Pudi,USA,1979-03-10,M
+205222,Mark Wakeling,,1971-10-11,
+205659,Naoko Mori,Japan,1971-11-19,F
+206273,Bill Buckhurst,,,
+206393,Miles Richardson,,1963-07-15,M
+206398,John Cenatiempo,USA,1963-03-05,M
+206626,Zach Poole,,,
+206726,Nick Holder,,,M
+207297,Tony Devon,,,M
+207310,Eiji Kusuhara,Japan,1947-01-02,M
+208296,Callan Mulvey,Dominion of New Zealand,1975-02-23,M
+208659,Madison McKinley,USA,1986-03-13,F
+209196,Annie Ilonzeh,USA,1983-08-23,F
+209578,Laura Haddock,UK,1985-08-21,F
+209799,Ted Arcidi,USA,1958-06-16,M
+209884,Emil Hoștină,Romania,1976-05-31,M
+210344,Jen Lilley,USA,1984-08-04,F
+211413,Mark Donovan,,,
+211586,Chike Chan,UK,1974-01-27,M
+212080,Ruben Alves,France,,M
+212100,Jean-Louis Barcelona,,1975-01-01,M
+212103,Catherine Davenier,,,
+212208,Taylor Swift,USA,1989-12-13,F
+213596,Clemens Schick,Germany,1972-02-15,M
+214701,Sherry Lynn,,1940-05-20,F
+215099,Neil Mullarkey,,,
+216299,Michael Schumacher,Germany,1969-01-03,M
+216785,Eric Davis,,,M
+218678,André Pousse,France,1919-10-20,M
+219708,Audrey Fleurot,France,1977-07-06,F
+219737,Matt Cross,,,
+219763,Charlotte Spencer,,,
+220573,Sheila Vand,United States,,F
+221581,Rebel Wilson,Australia,1980-03-02,F
+221636,Patrick Vo,,,
+221857,Miles Jupp,UK,1979-09-08,M
+222255,Stéphane Bouy,,,
+222257,René Bouloc,France,1944-07-17,M
+222487,Nelson Vasquez,,,M
+222667,Denis Sadier,,,
+222906,John Brotherton,USA,1980-08-21,M
+222942,Josse De Pauw,Belgium,1952-01-01,
+223229,Paula Dehelly,,,
+223532,Grégory Gadebois,,1976-07-24,M
+224150,Michaël Abiteboul,,,
+224181,Jai Courtney,Australia,1986-03-15,M
+224235,DJ Khaled,USA,1975-11-26,M
+225004,Joseph Malerba,France,1962-10-05,M
+225407,Yann Gozlan,,,
+225479,François Vincentelli,,,M
+225610,Joseph Gilgun,UK,1984-03-09,M
+225648,Jacques Marbeuf,,1926-01-29,
+225652,Etienne Draber,France,,M
+225653,Michel Such,,,
+225730,Ryunosuke Kamiki,Japan,1993-05-19,M
+225890,Alexandre Castagnetti,,,M
+225892,Patrick Schulmann,,,
+226021,Frédéric Chau,Vietnam,1977-06-06,M
+227454,Alicia Vikander,Sweden,1988-10-03,F
+228714,Ana Girardot,France,1988-08-01,F
+228718,Arthur Mazet,,1989-09-23,M
+228719,Laurent Capelluto,Democratic Republic of the Congo,1971-03-16,M
+228930,Smaïn,,,
+228968,Emun Elliott,,1983-11-28,M
+229136,Nadia Barentin,France,1936-10-17,F
+229236,Jean-Loup Hubert,France,1949-10-04,M
+229263,Benoît Jacquot,France,1947-02-05,M
+229568,Lisa Azuelos,France,1965-11-06,F
+229634,Sebastian Armesto,UK,1982-06-03,M
+229932,Golshifteh Farahani,Iran,1983-07-10,F
+230064,Emma Luchini,,,
+230078,Vincent Nemeth,,,M
+230154,Michel Jonasz,France,1947-01-21,M
+230178,Tereza Srbová,Czechoslovakia [now now Czech Republic],1984-06-23,F
+230401,Louis-Do de Lencquesaing,France,1963-12-25,M
+230660,Shiori Kutsuna,Australia,1992-12-22,F
+231426,Nathalie Krebs,,,
+231674,Hadley Fraser,UK,1980-04-21,M
+231857,Jon Eyez,,,M
+233298,Robert Curtis Brown,USA,1957-01-01,M
+234022,Atmen Kelif,,1968-04-01,M
+234320,Jack Lang,France,1939-09-02,M
+234352,Margot Robbie,Australia,1990-07-02,F
+234479,Dakota Goyo,Canada,1999-08-22,M
+234492,Christelle Cornil,Belgique,1977-08-28,F
+234621,Alexander Bracq,,,M
+234685,Mia Frye,New York,1965-02-02,
+234919,Rod Hunt,,,M
+234921,Arben Bajraktaraj,,1983-01-29,M
+234922,Devon Murray,,1988-10-28,M
+234923,Alfred Enoch,England,1988-12-02,M
+234924,Jessie Cave,UK,1987-05-05,F
+234925,Shefali Chowdhury,Wales,1988-06-20,F
+234926,Afshan Azad,England,1988-02-12,F
+234927,Louis Cordice,,1989-10-01,
+234928,Scarlett Byrne,UK,1990-10-06,F
+234929,Anna Shaffer,,1992-03-15,F
+234930,Isabella Laughland,,,
+234933,Katie Leung,UK,1987-08-08,F
+234934,Freddie Stroma,UK,1987-01-08,M
+234983,Gulliver McGrath,Australia,1998-08-15,M
+235496,Francis Palluau,,,
+236016,Danielle Darrieux,France,1917-05-01,F
+236119,Léo Legrand,France,1995-11-05,M
+236327,Ken Hudson Campbell,USA,1962-06-05,M
+236625,Elisa Servier,,,
+236696,Terry Notary,USA,1968-08-14,M
+236859,Michaël R. Roskam,Belgium,1972-10-09,M
+236903,Jeanne Dandoy,,1974-11-01,F
+236906,Madeleine Renaud,,1900-02-21,F
+236974,Micheline Bourday,France,1921-10-06,F
+237066,Didier Le Pêcheur,Francia,1959-07-05,M
+237763,Robert Arnoux,,1999-01-01,M
+237881,Sara Giraudeau,,,F
+237882,Laurent Natrella,France,1964-12-08,M
+238393,Alain Figlarz,,,M
+238400,Ivan Calbérac,,,
+238460,Nicolas Vaude,France,1962-07-24,M
+238765,Roland Dubillard,,1923-12-02,M
+238953,Virgil Leclaire,,,M
+239091,Yen Shi-Kwan,,,M
+239107,Amari Cheatom,,,M
+239118,Guillaume Gouix,,1983-11-30,M
+239239,Lita Grey,USA,1908-04-15,F
+239335,Gérard Loussine,France,1951-12-14,
+239366,Hans Verner,,,M
+239398,Maurice Baquet,,1911-04-26,
+239421,Arielle Sémenoff,France,1947-03-03,F
+239423,Frédéric Baptiste,,,
+239590,Lisa Livane,,,F
+239639,Marc Citti,,1966-09-09,M
+239672,Felix van Groeningen,EU,1977-11-01,M
+240171,Gordon Liu Chia-Hui,,1955-11-30,M
+240724,Naomi Scott,UK,1993-05-06,F
+246297,Michel Montanary,,,M
+247622,Elizabeth Ercy,,,
+251203,Yvan Chiffre,,,M
+252263,Nicolas Koretzky,,,
+252527,Rusty Goffe,,,
+255923,Marc de Jonge,France,1949-02-16,M
+258942,Charlotte de Turckheim,France,1955-04-05,F
+264812,Régis Royer,,,M
+267962,Emmanuelle Riva,France,1927-02-24,F
+268470,Christophe Rouzaud,,,
+269210,Chantal Ladesou,,,
+269502,Robert Hoffmann,,1939-08-30,
+271623,Denis Braccini,,,M
+277526,Robert Favart,Egypt,1911-02-09,M
+278332,Yane Barry,,,
+278819,Max Pécas,France,1925-04-25,M
+280195,Thierry Desroses,France,1960-08-12,M
+280872,Dieudonné Kabongo,Katanga  Belgian Congo,1950-01-01,M
+286453,Annie Mercier,,,F
+288152,Robert Plagnol,,,
+294813,Ali Afshar,,,M
+298410,Keegan-Michael Key,USA,1971-03-22,M
+305036,Antoine Blanquefort,,,M
+310646,Christian Gazio,France,1954-04-21,M
+358432,Édith Le Merdy,,,
+369256,Omar Mostafa,,,M
+370383,Nicky Naudé,,,M
+378552,Cristiana Réali,Brazil,1965-03-16,F
+380003,Bernadette Robert,,1946-01-01,F
+383624,Adrian Schiller,UK,1964-02-21,M
+384316,Ibrahim Seck,,,
+390184,Richard Syms,UK,1943-01-01,M
+392417,Gérard Touratier,,,M
+400612,Xavier de Guillebon,,1963-01-01,M
+411483,Philippe Chany,,,
+431148,Alexis Michalik,France,1992-12-13,M
+432189,Mélèze Bouzid,,,
+437381,Frédéric Maranber,,,
+448563,Laurent Boutonnat,France,1961-06-14,M
+453272,Nora Arnezeder,France,1989-05-08,F
+458904,Youssef Hajdi,,1979-06-08,M
+458905,Morgan Perez,,,M
+469759,Astrid Bergès-Frisbey,Spain,1986-05-26,F
+490786,Virginie Hocq,Belgium,1975-02-26,F
+507238,Pierre Lescure,,,
+509467,Laurence Arné,France,1982-02-04,F
+512079,Joséphine de la Baume,France,1984-10-08,F
+513677,Henry Lloyd-Hughes,UK,1985-08-10,M
+515313,Dominic Applewhite,,,
+523463,Baya Kasmi,,,
+534031,Pascal Duquenne,Belgium,1970-08-08,M
+534831,Eric Defosse,,,
+536137,Albert Augier,France,1924-02-29,M
+536915,Paul Hickey,,,M
+538321,Francois Giroday,UK,1952-03-18,M
+538398,Daniel Martin,,,M
+543136,Robert le Béal,,,
+543138,Mason Lee,USA,1990-05-30,M
+543261,Karen Gillan,UK,1987-11-28,F
+543364,Pascal Aubier,France,1943-01-07,M
+543366,Dinara Drukarova,Russia),1976-01-03,F
+543530,Dave Bautista,USA,1969-01-18,M
+543621,Fred Personne,,1932-08-20,M
+544397,Tolsty,Russia,1937-04-20,M
+544476,Roger Riffard,,,M
+544655,Fabrice Eboué,France,1977-06-07,M
+544658,Moon Dailly Monira,France,1981-04-23,F
+544665,Joséphine Japy,France,1994-07-12,F
+544669,François Bureloup,,,
+544682,William Lebghil,Francia,1990-07-09,M
+544683,Théo Fernandez,France,1998-09-18,M
+544684,Sarah Stern,France,1984-11-19,F
+544685,Pierre Lottin,,,
+544954,Nicole Mirel,,,
+548090,Joe Bellan,,,M
+548347,Micheline Luccioni,,1930-01-16,F
+548353,Jean Panisse,,,
+549017,Hélène Angel,,1967-05-03,
+549323,Sissi Duparc,,,
+549333,Alexandre Steiger,,1976-08-17,
+549342,Jer O'Leary,,,
+550107,Alexandra Mercouroff,,,
+550110,Philippe du Janerand,EU,1959-05-06,M
+550111,Christophe Le Masne,,,
+550481,Jérémy Clapin,Francia,1974-02-13,M
+550554,Sebastian Hülk,Germany,1975-01-10,M
+550843,Elizabeth Olsen,USA,1989-02-16,F
+551014,Robert Porte,France,1923-03-09,M
+551476,Derek Gilroy,,,M
+552680,Eken Mine,,,
+552683,Hochu Otsuka,Japan,1954-05-19,
+552975,François Hanss,,,
+553215,Jean-Pol Brissart,,,M
+554284,Cecil Cheng,,,
+554595,Frédérique Tirmont,,,
+554596,Marc Faure,,,
+555249,Ross Marquand,USA,1981-08-22,M
+556172,J.C. Chandor,,1973-11-24,M
+557921,Leo Howard,USA,1997-07-13,M
+559369,Nikolay Stanoev,,,M
+563375,Jérôme Pouly,,,M
+563586,Eric Barbier,Francia,1960-06-29,
+565498,Laura Cayouette,USA,1964-07-11,F
+565504,Frank Brennan,,,M
+566331,Oona Chaplin,Spain,1986-06-04,F
+567287,David Dewaele,Francia,1976-03-19,M
+567562,Phil Johnston,,,M
+568367,Lisa Talerico,,,F
+568374,William Melling,,1994-11-30,M
+568378,Suzanne Toase,,1979-01-01,F
+568385,Penelope McGhie,,,
+568393,Peter G. Reed,,,
+568394,Judith Sharp,,,
+568395,Bob Yves Van Hellenberg Hubar,,,
+568396,Tony Kirwood,,,
+570010,George Georgiou,,,
+570328,Zep,,,
+571265,Edie Mirman,,,F
+572306,Hélène Zidi,,1960-03-30,F
+572541,Caleb Landry Jones,USA,1989-12-07,M
+572635,Alain Sachs,,1951-01-01,
+574130,Philippe Lellouche,Israel,1966-03-30,M
+574370,Laurent Olmedo,,,
+576173,Harley Quinn Smith,USA,1999-06-26,F
+577431,Michel Gondoin,,,M
+577645,Sergei Polunin,,,M
+578093,Franck-Olivier Bonnet,,,
+578327,Gérard Sire,,,
+578690,Lee Nicholas Harris,,,M
+578705,Emmanuel LeMire,,,M
+578936,Isabelle De Hertogh,,,F
+578939,Charlie Anson,,,
+579211,Damien Bonnard,,,M
+579306,Louis-Marie Audubert,,,M
+579326,Vincent Skimenti,,,
+580227,Colette Castel,France,1937-06-29,F
+580230,Hervé Sand,France,1937-02-12,M
+580583,Alain Guillo,,,M
+580705,André Rouyer,France,1929-06-20,
+582044,Booder,,1978-08-13,M
+583309,Jean-François Dérec,,1957-05-11,M
+583312,Jean-Pierre Becker,,1958-04-05,M
+583356,Adrien Jolivet,France,1981-12-20,M
+583379,Éric Fraticelli,,,M
+583554,René Berthier,,,
+583687,Reem Kherici,France,1983-02-13,F
+583851,Éléonore Pourriat,,,F
+583897,Norbert Ferrer,,,M
+584380,Charles Némès,,,
+585078,Carine Tardieu,Francia,1973-01-01,F
+585161,David Oelhoffen,Francia,1968-01-01,
+585604,Tilly Mandelbrot,France,1994-06-01,F
+585663,Max Montavon,France,1926-07-24,M
+585664,Perrette Souplex,France,1930-04-22,F
+585700,Marc Andréoni,,1961-02-08,M
+585902,Noel Appleby,Nuova Zelanda,,
+586191,Philippe Rebbot,Morocco,1964-11-30,M
+586276,Serge Larivière,Belgium,1957-12-12,M
+586624,Stéphanie Murat,France,1966-08-24,F
+586742,Michel Jourdan,,,
+586757,Adèle Exarchopoulos,France,1993-11-22,F
+587115,Riann Steele,,,
+587137,Hervé Sogne,,,M
+587150,Clémence Thioly,France,1987-07-25,F
+587181,Pierre Forest,,,
+587699,Troy Quane,,,M
+588159,Blanche Gardin,France,1977-04-03,F
+588757,Pierre Desproges,,,
+589127,Gaëlle Legrand,,,
+589521,Pierre Tornade,France,1930-01-21,
+589610,Stevan Riley,,,
+590091,Mike Joy,USA,1949-11-25,M
+590541,Patrick Volson,,,M
+592618,Marc Cass,,,
+612216,Eddy Ko,,,M
+639817,Inder Kumar,India,1980-12-19,M
+730454,Ted Maynard,,,M
+851784,Mackenzie Foy,USA,2000-11-10,F
+853194,Patrick Leahy,USA,1940-03-31,M
+871100,Luke Youngblood,UK,1986-06-12,M
+910944,Bastien Bouillon,,,
+928572,Scott Eastwood,USA,1986-04-21,M
+928577,Steven Wiig,,,
+928638,John Franchi,,,M
+929142,Christophe Duthuron,France,1973-03-03,M
+930288,Félix Moati,France,1990-05-24,M
+930699,Sally El Hosaini,,,
+930708,Malik Bendjelloul,Svezia,1977-09-14,M
+930809,Steve Gadler,,,M
+932523,Gaspard Proust,,1975-10-01,M
+932524,Nicolas Bedos,France,1980-04-21,M
+932721,Dale Earnhardt Jr.,USA,1974-10-10,M
+933226,Stéphane Robelin,,,
+933271,Eve Hewson,Ireland,1991-07-07,F
+935235,Marwan Kenzari,Netherlands,1983-01-16,M
+936219,Olivier Brocheriou,,,
+937218,Kelvin Wise,,,
+937641,Marie-Philomène Nga,Camerun,,F
+938390,William Morgan Sheppard,UK,1932-08-24,M
+939098,Frédéric Louf,,,
+939100,Ali Marhyar,,,
+939589,Jarod Joseph,Canada,,M
+942993,Darrell Waltrip,USA,1947-02-05,M
+943199,Ashley Wanninger,,,
+944478,Chic Daniel,,,
+944614,Rebecca Klingler,USA,,F
+945062,Ming Lo,,,M
+946696,Ian Whyte,,1971-09-17,M
+948173,Glenn Beck,Canada,1935-06-01,M
+950197,Adam Fergus,Ireland,,M
+950773,Jackie Gonneau,,,
+956224,Jamie Waylett,UK,1989-07-21,M
+956702,Eric de Staercke,,,
+956719,Tim DeZarn,USA,1952-07-11,M
+963962,Fred Keating,USA,1949-01-01,M
+964421,Aaron Lazar,USA,,M
+965278,Sarah McLeod,New Zealand,1971-07-18,F
+967376,Taylor Geare,,2001-09-19,F
+967600,Nicolas Bary,Francia,1980-11-28,
+967699,Jeremy Milton,,,M
+968379,Marc Robert,Marne/ France,1973-01-25,M
+968863,James Frecheville,Australia,1999-04-14,M
+970534,Ryan Ahern,,,M
+971262,Ophélia Kolb,,,F
+973135,Claire Geare,,,F
+973667,Rosa Salazar,Canada,1985-07-16,F
+974912,Julieta Rosen,México,1962-11-08,F
+975597,Franklyn Farnum,USA,1878-06-05,M
+978698,Chloe Sonnenfeld,,,F
+982065,Vincent Leclerc,,,M
+982098,Nick Loren,USA,1970-12-14,M
+983929,Laure Calamy,Francia,1975-01-01,F
+986101,Dick Ward,,,M
+992623,Vincent Macaigne,,1978-10-19,M
+997303,Autumn Dial,,1990-05-15,F
+997569,Kenneth Collard,,,
+997887,Ronda Rousey,USA,1987-02-01,F
+999760,Eran Creevy,,,
+1000883,John Rue,,,M
+1006144,Vic Browder,,,M
+1006368,Karen Kahn,,,
+1008395,Heike Hanold-Lynch,Germany,1962-07-11,F
+1009999,Doutzen Kroes,Netherlands,1985-01-23,F
+1010873,Massi Furlan,,,
+1010912,Tim Downie,UK,1977-07-14,M
+1011158,Florent-Emilio Siri,France,1965-03-02,
+1011904,Gwendoline Christie,England,1978-01-01,F
+1014557,Frédéric Tellier,,,M
+1014931,Freddie Fox,UK,1989-04-05,M
+1015568,Tristan D. Lalla,Canada,1984-02-03,M
+1016168,Lily James,UK,1989-04-05,F
+1018784,Gérard Meylan,France,1952-12-14,M
+1018947,Maximiliano Hernández,USA,1973-01-01,M
+1020713,Loïc Risser,,,
+1021684,Charlotte Le Bon,Canada,1986-09-04,F
+1023139,Adam Driver,USA,1983-11-19,M
+1028366,Linzi Hateley,,,F
+1029033,Kenneth Fok,,,
+1031791,Carlos Linares,El Salvador,1954-07-26,
+1032011,Afonso Poyart,,,
+1032074,Mikaela Fisher,,,F
+1033622,Pascal Demolon,,,M
+1033671,Corinne Masiero,France,1964-02-03,F
+1033739,Tom Audenaert,,,M
+1033745,Camille Rutherford,,,
+1034681,Tye Sheridan,USA,1996-11-11,M
+1036563,Tim Blaney,USA,1959-04-23,M
+1037815,Gloria France,,,F
+1038501,Jean Michaud,French Protectorate of Tunisia,1921-07-13,M
+1040850,Grégory Fitoussi,France,1976-08-13,M
+1041524,Wheeler Dryden,,,
+1043304,Andy Milder,USA,1969-08-16,M
+1044954,Sam Medina,,,M
+1045532,Patrice Thibaud,France,1964-05-28,
+1045763,Harry Wilson,UK,1897-11-22,M
+1046127,Jason Stone,,1981-11-25,M
+1047649,Ed Skrein,England,1983-03-29,M
+1048648,Erich Redman,,1964-01-01,M
+1048753,Joakim Latzko,,,M
+1048793,Nicky Marbot,,1965-11-11,M
+1048963,Bill Blair,USA,,M
+1049006,Frédéric Petitjean,,,M
+1050988,Alex Bisping,,,M
+1051672,Côme Levin,France,1989-09-11,
+1052209,Andrew Byron,UK,1971-08-10,M
+1052284,Volker Michalowski,Germany,1971-01-01,M
+1052339,Helen Kim,,,
+1054325,Martin Hub,Czech Republic,1964-03-13,M
+1060475,Bonnie Bentley,,,F
+1062688,Maciej Kowalewski,,,
+1063356,Jean-Henri Compère,Belgium,1960-01-01,
+1063405,John McCarthy,,,
+1066138,Michael Power,,,
+1067187,David Steen,,,M
+1068811,Matthew Cornwell,,,M
+1070855,Peter Brooke,,,
+1072798,Robert B. Kennedy,,,
+1074615,Branwell Donaghey,,,M
+1075112,Diana Stewart,,,
+1075113,Ernst Umhauer,France,1989-12-02,M
+1075115,Bastien Ughetto,France,1989-02-14,
+1075355,Jemima West,France,1987-08-11,F
+1075845,Rick Bolander,,,
+1076406,Roberto,,,M
+1076707,Laetitia de Fombelle,,,F
+1077537,Franck Gastambide,France,1978-10-31,M
+1077782,Gary A. Hecker,USA,1960-08-25,M
+1077833,Christian Bergner,,,
+1077844,David P. Smith,,,M
+1078993,Francesco Acquaroli,Roma,1962-03-27,M
+1081122,Abraham Aronofsky,,,
+1082706,Kelly Richardson,,,F
+1083010,Letitia Wright,Guyana,1993-10-31,F
+1083451,Johnny Cicco,USA,1972-08-19,M
+1083807,Joe Starr,,,M
+1083979,Gilles Quéant,,,
+1086615,Fabien Béhar,,,M
+1089421,Michael Halton,,,M
+1090782,Louis Doyle,,,
+1090783,Charlotte Skeoch,UK,1989-02-22,
+1091324,Rob Delaney,USA,1977-01-19,M
+1092236,Yann Loubatière,,,
+1093974,Brigitte Millar,,,
+1095101,Humberto Elizondo,Mexico,1947-07-19,M
+1098457,Claire Pérot,,1982-01-30,F
+1099309,Nicholas Brandt,,,
+1100818,Gaston Meunier,,,M
+1102409,Greg De Cuir,,,M
+1105079,Lucas Hedges,USA,1996-12-12,M
+1105278,Renaud Rutten,Belgium,1963-08-04,M
+1105706,Tait Fletcher,USA,,
+1106232,Michel Duplaix,France,1932-12-01,M
+1106266,Tatom Pender,,,F
+1109702,Karan Soni,India,1989-01-08,M
+1110405,Mackenzie Davis,Canada,1987-04-01,F
+1114080,Tony Gaultier,,,M
+1114419,Jean-Noël Martin,,,M
+1114427,Ray Mangion,,,
+1114614,Yan Brian,,,M
+1114996,Garance Mazureck,,,F
+1115077,Baptiste Lecaplain,France,1985-05-23,M
+1115997,Nancy Stelle,USA,,
+1116442,John Morris,,1984-10-02,M
+1116827,Steve Giannelli,,,M
+1116907,Craig Castaldo,,,M
+1117806,Roger Fradet,,,M
+1119418,Hugo Gélin,Francia,1980-05-08,M
+1120883,Sam Hargrave,,,
+1121169,Izïa Higelin,France,1990-09-24,F
+1121975,Ilan Goodman,,,M
+1122227,Craig Good,,,M
+1123657,Lino DiSalvo,,,
+1125195,José Artur,,,
+1125601,Guillaume Delaunay,France,1975-07-02,M
+1128442,Deniz Gamze Ergüven,Turchia,1978-06-04,F
+1128854,Philip Bulcock,,,M
+1128902,Camille Rowe,France,1990-01-07,F
+1129738,George Maguire,,,
+1130451,Kenner G. Kemp,USA,1908-01-03,M
+1130613,Eva Simonet,,,
+1132048,Louba Guertchikoff,France,1919-10-07,F
+1132153,Ronan Summers,,,M
+1132641,Kevin Azais,,,
+1132749,Thomas Arnold,,2018-05-01,M
+1133063,Dana Gourrier,USA,,F
+1133349,Elizabeth Debicki,France,1990-08-24,F
+1134661,Jean-Charles Fitoussi,France,1970-06-01,M
+1136406,Tom Holland,UK,1996-06-01,M
+1138005,Laure Moutoussamy,EU,,F
+1138699,John Krokidas,Stati Uniti,1973-10-01,M
+1138743,Marc Simenon,,,
+1139100,Jean-Luc Vincent,,,
+1139349,Julian Dennison,New Zealand,2002-10-26,M
+1142152,Alix Mahieux,France,1923-08-11,
+1143786,Cyril Hanouna,France,1974-09-23,
+1145402,Hal Sherman,,,
+1146860,Alex Lutz,France,1978-08-24,M
+1147918,Pamela Betsy Cooper,,,F
+1147921,Pete Meads,England,,M
+1148198,Carole Brenner,,,
+1148455,Wyatt Oleff,U.S.,2003-07-13,M
+1150505,Marcel Philippot,,1953-04-15,M
+1150910,Sandor Funtek,,1990-04-25,M
+1151957,Sophie Kennedy Clark,UK,1990-01-01,F
+1152008,Dan Bittner,,,
+1152669,Guillaume Briat,,1966-12-17,
+1155937,Josette Ménard,,,
+1158068,Carrie Lazar,,,
+1159954,Benjamin Lavernhe,France,1984-08-14,M
+1161711,Jon Lee Brody,,,
+1161752,Ed Sanders,England,1993-02-04,M
+1162833,Riz Meedin,,,
+1163066,Stanley B. Herman,,,
+1165008,Kev Adams,France,1991-07-01,M
+1165294,Steve Tran,,,
+1165770,Salem Kali,,,
+1166385,William Johnson,New Zealand,,M
+1166534,Alexandre Tacchino,,,M
+1167481,Guillaume Faure,,,
+1167748,Astrid Whettnall,,1971-03-17,
+1167895,Franco Pistoni,Italy,1956-03-06,M
+1168075,Peter Basham,,,
+1168097,Manuel Garcia-Rulfo,Mexico,1981-02-25,M
+1170657,Amanda Warren,USA,1982-07-17,F
+1170659,James Landry Hébert,USA,1984-10-04,M
+1170752,Frédéric Merlo,,,
+1171437,Paul Hamy,,1982-01-07,M
+1171510,Camélia Jordana,France,1992-09-15,F
+1171518,Rebecca Azan,,,
+1171527,Alexander Mercury,USSR (Russia),1983-09-05,M
+1171603,Dale Kasman,,,
+1172388,Michael Cooke,,,M
+1172430,John Storey,,,M
+1173099,Christopher Berry,,,M
+1173999,Robert Ruth,,,
+1174338,Patrick d'Assumçao,,1959-06-01,M
+1175146,Claude Brécourt,,,M
+1175149,Vincent Schmitt,,,
+1175258,Valérie Boisgel,France [now now Algeria],1946-10-28,F
+1175263,Philippe Ruggieri,,,
+1175620,Justine Triet,France,1978-07-17,F
+1175822,Marie-Armelle Deguy,,,
+1175836,Eric Franquelin,,,
+1175838,Liliane Cebrian,,,
+1176105,Philippe Beautier,,,
+1177114,Alexis Moncorgé,,,
+1177117,Pierre Ménès,France,1963-06-26,M
+1177120,Victoria Olloqui,,,
+1177472,Ilona Bachelier,,1997-09-12,F
+1177475,Talina Boyaci,,1998-10-14,
+1177654,Tony Parker,Belgium,1982-05-17,
+1177758,Nicolas Pariser,,,
+1177760,Benoît Forgeard,,,
+1179157,Pascal Ternisien,,,
+1179581,Philippe Galland,France,1947-01-31,
+1180422,Fatsah Bouyahmed,Algeria,1971-04-02,M
+1181566,Matthew Brady,,,M
+1182596,Wahab Sheikh,,,
+1182724,Larry Mitchell,USA,1973-05-17,M
+1184209,Armen Garo,,,M
+1184813,José Fumanal,,,M
+1184928,Christian Simpson,UK,1973-01-31,M
+1185267,Vianney Lebasque,,,
+1185769,Freya Mavor,UK,1993-08-13,F
+1186095,Pierre Godeau,France,,M
+1186226,Sid Ahmed Agoumi,,,
+1186597,Neve Gachev,,,F
+1186851,Stéphane Berla,,,
+1186858,Grand Corps Malade,,,M
+1187262,Dee Jay Jackson,,,M
+1187909,Joe Quesada,New York,1962-12-01,M
+1187954,Gaëtan Bloom,France,1953-01-01,M
+1188493,Tara Wood,,,F
+1190069,Joseph Millson,UK,1974-04-27,M
+1192468,Claudia Tagbo,,,
+1193013,Francis Van Litsenborgh,,,
+1193021,Sabine Crossen,,,
+1194742,Frazer Hines,UK,1944-09-22,M
+1194944,Gene Jones,,,
+1195758,Winston G. Ellis,,,M
+1196986,Maggie Steed,UK,1946-12-01,F
+1198202,Keith Jefferson,,,
+1198454,Jim Ford,USA,1981-09-15,M
+1198539,Gilles Treton,,,M
+1200864,Lakeith Stanfield,USA,1991-08-12,M
+1201337,Victoria Beynon-Cole,,,
+1201351,Billy Jackson,New Zealand,1995-01-01,
+1201399,Joseph Mika-Hunt,,,
+1202533,Seth Howard,,,
+1202683,Max Wrottesley,,,
+1202689,Jessica Henwick,England,1992-08-30,F
+1202734,Noëlle Noblecourt,France,1942-12-12,F
+1205479,Fred Bryant,,,
+1205900,Courtney Munch,,,
+1206006,Malcolm Ellul,,,
+1206190,Jake Garber,,,
+1206337,Hugh Skinner,UK,1986-01-16,M
+1208039,Arthur Tovey,USA,1904-11-14,M
+1208202,Harold Goodwin,England,1917-10-22,
+1208891,Bryan Fogel,USA,,M
+1209051,Robert Stone,,,
+1209055,John Warman,,,
+1211876,Anthony Chinn,Guyana,1930-01-01,
+1211946,P. J. Byrne,USA,1974-01-01,M
+1212147,Tony Aitken,,1946-06-20,
+1212471,Jeff Austin,USA,1954-08-29,M
+1212688,Hattie Winston,USA,1945-03-03,
+1212758,Victor Raider-Wexler,,1943-12-31,M
+1212864,Colleen O'Shaughnessey,USA,1971-09-15,F
+1213786,Brent Spiner,USA,1949-02-02,M
+1214060,Tonye Patano,,1961-10-16,
+1214164,Merrin Dungey,USA,1971-08-06,F
+1214345,Bruce Hopkins,,1955-11-25,
+1214513,Jimmy Vee,,1959-11-05,M
+1214974,Mark Rhino Smith,England,1969-09-30,M
+1215395,Scott Klace,USA,1961-01-09,M
+1215398,Dan Warner,USA,1965-07-16,M
+1215892,Gorden Kaye,,,
+1216523,Ford Kiernan,,,
+1216701,Meghan Markle,USA,1981-08-04,F
+1216752,Frank Medrano,,1954-04-09,M
+1218180,Billy Smith,,,M
+1218217,John Henry Cox,,1951-12-18,M
+1218228,Ruby Jerins,,1998-11-11,
+1219365,Edward Wiley,,1955-07-11,M
+1219415,Max Grodénchik,USA,1952-11-12,M
+1219546,David Hornsby,USA,1975-12-01,
+1219824,Matthew Posey,TX,,M
+1220057,Jonathan Cullen,,,
+1221067,Dorian Lough,,,
+1221663,Eric Bruno Borgman,,,
+1222025,Richard Dixon,,,M
+1222992,Eiza González,Mexico,1990-01-30,F
+1223658,Raymond S. Persi,USA,1975-02-17,M
+1223718,Rizwan Manji,Canada,1974-10-17,M
+1223916,Bruce Holman,,,
+1224773,Graham Duff,,,
+1224877,Nancy Sivak,Canada,,F
+1224996,Lauren Sánchez,USA,1969-12-19,F
+1225724,Carole Ashby,UK,1955-03-23,F
+1226344,Steven M. Porter,,,
+1226696,Will Zahrn,,,
+1226707,John Judd,,,M
+1226806,Milton Barnes,,,M
+1229334,Adam Shaw,,,
+1229859,Brenda Cowling,UK,1925-04-23,F
+1230008,Monica Staggs,USA,1970-02-24,F
+1230442,Larry Mannell,,,
+1230490,Sonny Caldinez,West Indies,1932-07-01,M
+1231495,Michael O'Hara,,,
+1231961,Bruce Johnson,,,M
+1232170,Sage Allen,,,
+1232325,Dan O'Connor,,,
+1232496,William Hill,,,
+1232531,Steve Routman,USA,1962-08-28,M
+1233647,Ivan G'Vera,Czechoslovakia,1959-04-01,M
+1234009,Bradford English,,,M
+1235937,Ron Gilbert,USA,,
+1236017,Calvin Remsberg,,,
+1236020,Jordan Marder,USA,1973-04-11,M
+1237646,David Gasman,USA,1960-09-27,M
+1239394,Frank Nakashima,,,M
+1240487,Kate McKinnon,USA,1984-01-06,F
+1240490,Kevin Wiggins,,,M
+1243825,Josh Meyer,,,
+1247020,Nadia Cameron-Blakey,Canada,,F
+1249957,Mike Quinn,,,
+1250223,Heinie Conklin,USA,1886-07-16,M
+1251069,Nathalie Emmanuel,UK,1989-04-02,F
+1251820,Michael Garvey,,,
+1253199,Alexandra Shipp,USA,1991-07-16,F
+1253360,Pedro Pascal,Chile,1975-04-02,M
+1253648,Jeff Ward,,,
+1254583,Jamie Dornan,UK,1982-05-01,M
+1255496,Gabe Polsky,,,
+1257821,Vincent Wong,Jamaica,1928-02-04,M
+1260146,David Brown,,,
+1260782,Kevin Hanchard,Canada,1974-07-04,M
+1261131,Simon Fisher-Becker,UK,,M
+1264233,Isaac Andrews,,,
+1264686,Alex Kruz,USA,1978-11-30,
+1265647,Orelsan,,,
+1265796,Brian Schaeffer,,,M
+1265823,Paul Grace,,,M
+1267329,Lupita Nyong'o,Mexico,1983-03-01,F
+1271092,Derek Lyons,UK,1958-09-25,M
+1271131,Fred Wood,UK,1922-10-26,M
+1272709,Xavier Alcan,,,M
+1272862,Emma Tremblay,,,F
+1272968,Samantha Jo,Canada,1991-03-29,F
+1273540,Aaron Michael Lacey,USA,1969-05-26,M
+1274297,Glendon Rich,,,M
+1274514,Silvia Kal,,,
+1275524,Michael Saglimbeni,,,
+1275815,Carole Jacquinot,,,
+1276866,Melissa Drigeard,,,
+1278132,Mike Sarne,,,
+1278365,Zachary Culbertson,,,
+1278494,Nicola Sloane,,,F
+1278499,Keith Dunphy,,,M
+1278504,Lottie Steer,,,
+1278517,Mark Roper,,,M
+1278542,Robert 'Bobby Z' Zajonc,USA,1947-02-07,M
+1278557,Sonya Cullingford,,,
+1280476,Doria Tillier,France,1986-03-27,F
+1288047,Alice Isaaz,France,1991-07-26,F
+1289968,Cara Delevingne,UK,1992-08-12,F
+1289993,Guy Laporte,France,1948-03-11,M
+1291694,Nemo Schiffman,,,
+1291797,Clay Donahue Fontenot,,,M
+1292258,Jack Kesy,U.S,1986-08-27,M
+1293458,Jean-François Cayrey,,,M
+1293892,Chris Sullivan,USA,1980-07-19,M
+1295990,Glenn Webster,,,
+1295992,Stuart Matthews,,,
+1297483,Ben Cookson,,,
+1298410,Tom Detrik,,,M
+1306824,Joni Flynn,India,1949-12-18,F
+1308445,Carrie Coon,USA,1981-01-24,F
+1309014,Rainer Reiners,Germany,1960-01-01,M
+1310711,Lisa Loven Kongsli,Norway,1979-09-23,F
+1313093,Keith Kupferer,,,M
+1313559,Ray Fisher,USA,1991-09-08,M
+1313976,Jacques Rouland,,,
+1314989,Sachiko Fujii,,,
+1315036,Daisy Ridley,UK,1992-04-10,F
+1315418,Aleksandar Mikic,Bosnia,,M
+1315534,Adeline D'Hermy,,,
+1317730,Daniel Scheinert,Stati Uniti,,M
+1318260,Yvonne Gradelet,,,
+1318900,Joey Perillo,USA,1952-04-09,M
+1319345,David Stanford,,,M
+1322309,Akie Kotabe,USA,1980-07-18,M
+1322312,Jorge Leon Martinez,,,
+1326444,Michaël Munzer,,,M
+1326445,Claire Athana,,,F
+1326459,Patrick Lemaître,,,
+1326473,Carole Lebesque,,,F
+1326499,Maurice Travail,,,
+1326530,François Viaur,France,1930-05-15,
+1326566,Jean Degrave,,,M
+1326575,Jean Gold,,,M
+1327993,Tom Hudson,France,1994-01-30,M
+1330788,David Charkham,,,
+1332481,Ahmed Sylla,Francia,1990-03-10,M
+1332515,Klemens Becker,,,M
+1332532,Laurence Herder,,,
+1333452,Orion Lee,,,
+1333582,Martin Murphy,,,
+1333583,Liam Carney,Ireland,,M
+1334309,Miranda Nolan,,,F
+1335250,Gabriel Julien-Laferrière,France,1962-02-09,M
+1337034,Olivier Afonso,France,,M
+1337623,Sergio Kato,Brazil,1960-07-15,M
+1338472,Stéphanie Cléau,France,1975-10-10,F
+1338708,Charles Force,,,
+1338974,Jean-Luc Caron,,,
+1340665,Stephen Apostolina,,,
+1340677,John Lavelle,,,M
+1341865,Ana Maria Quintana,,,F
+1345133,Kevin Vance,,,
+1348474,Camille Cottin,France,1978-12-01,F
+1349942,Sahlima,,,
+1350238,Isabelle de Botton,,1952-01-01,F
+1351706,Nicolas Castro,,,
+1351859,Patrick Zard,,,
+1351945,Michel Drucker,,1942-09-12,M
+1353645,Carl M. Leviness,USA,1885-07-06,M
+1356914,Calum Gittins,New Zealand,1986-07-16,
+1357958,Clyde McAtee,,,
+1358061,Christopher Matthew Cook,,,
+1358567,Richard Allan Jones,,,M
+1358965,Fred Galle,,,
+1359461,Graham Curry,UK,1984-04-16,M
+1360002,William Xifaras,,,
+1360008,Joseph Oliveira,,,M
+1360156,Ann Ogbomo,,,
+1362838,Stanislas Stanic,,,
+1364032,Hugh Mitchell,UK,1989-09-07,M
+1364491,Maxime Govare,,,M
+1366194,Victor Pontecorvo,,,M
+1366322,Arthur Benzaquen,,,
+1366350,John MacDonald,Canada,1968-08-02,M
+1366708,Claire Smithies,,,F
+1366940,Fayçal Safi,,1983-09-16,M
+1367114,Didier De Neck,,,M
+1367129,Cyd Strittmatter,,,F
+1367831,Jan Oliver Schroeder,,,M
+1369182,Goro Daimon,,,
+1370579,Claire Magnin,,,
+1370953,J. Mark Donaldson,,,M
+1370986,Happy Anderson,,,
+1371098,Dane Davenport,,,
+1371258,Nathalie Blanc,,,
+1371296,Tom Greer,,,M
+1371439,Daniel Westwood,,,
+1371552,Jeffrey Corazzini,,,M
+1371656,Stéphane Caillard,France,1988-01-01,F
+1372369,Samara Weaving,Australia,1992-02-23,F
+1374336,Leilah de Meza,U.K.,2003-05-09,F
+1375636,Genevieve Adams,,,F
+1375994,George Haynes,,,
+1377433,Claire Assali,,,
+1378128,Allegra Carpenter,,,F
+1378628,Sara Arrington,,,
+1378664,Clint Ward,USA,1980-04-28,
+1379281,Alexander Cooper,,,
+1379282,Guna Gultniece,,,F
+1379617,Yvon Brexel,,,
+1379749,Cecep Arif Rahman,Indonesia,1972-08-18,M
+1379821,Michael James Shaw,,1986-09-16,M
+1379933,Oona Chaplin,Bermuda,1925-05-14,F
+1379944,Vander McLeod,,,M
+1386235,Thierry Nenez,,1956-04-23,M
+1386241,Camille Chalons,,,
+1386244,Sophie-Marie Larrouy,,1984-01-01,F
+1386512,Chris McKinney,USA,1967-01-18,
+1386824,John Hollingworth,,,
+1388891,Jozef Aoki,,,M
+1389058,Lucie Boujenah,France,1987-07-31,F
+1389916,Nathaly Thibault,,1968-12-06,F
+1390394,James Embree,UK,1978-02-20,M
+1391129,Chad Randall,,,M
+1392726,Ray Donn,,,
+1393177,Noah Schnapp,USA,2004-10-03,M
+1393347,Tom Wood,,,
+1393349,Satori Shakoor,,,F
+1393358,Lawrence Sacco,,,
+1394283,Julia Lashae,USA,1969-07-22,F
+1394333,Dilyana Bouklieva,,,F
+1394384,Gino Picciano,,,
+1396824,Kinsey McLean,USA,1978-10-20,M
+1397812,Fiona Vroom,,,
+1397945,Brenda Wehle,,,F
+1398066,Marc Inniss,,,
+1399126,Jennifer Badger,USA,1976-11-24,F
+1399527,Miltos Yerolemou,,,
+1399841,Adil El Arbi,,,M
+1400906,Christopher Scarabosio,,,M
+1401531,Claudia Kim,South Korea,1985-01-25,F
+1402117,Kerry Rossall,USA,1947-06-23,M
+1402299,Auguste Carrière,,,
+1402424,Sarah Suco,France,1981-04-15,F
+1402694,Bill Reimbold,,,
+1402887,Marc Miles,,,M
+1405453,Frank Gilhooley,UK,1971-03-29,
+1405540,Alex Rose,,,
+1405553,Fred,,,
+1405570,Isabella Poynton,,,
+1405571,Imogen Poynton,,,
+1405915,Patricia Squire,,,F
+1406682,Marc Abbink,,,M
+1408809,Hannah John-Kamen,England,1989-09-06,F
+1411061,Mark Mottram,,,M
+1411625,Terence Rosemore,USA,1964-07-29,M
+1414396,François Rabette,,,M
+1414711,Gruffudd Glyn,,,M
+1415419,Janet Sully,,,
+1416230,Wolfgang Pissors,,1958-12-16,M
+1417415,Mychael Bates,,,M
+1417539,Paulina Boneva,,,
+1418199,Cathy Fithian,,,F
+1419121,Vitaliy Shtabnoy,,,
+1419813,Olivia Côte,,,F
+1422228,Karina Beuthe,,,F
+1422337,Brendan Burke,Canada,1978-08-06,M
+1422571,Steven Boyer,,,M
+1422673,Jason Lei Howden,,,
+1423898,Andrew Hawkins,,,
+1424788,Gwendolyn Gourvenec,,,F
+1426348,Pascal Loison,,,
+1427616,Déborah Amsens,,,F
+1429453,Sam Richardson,,1984-01-12,M
+1429797,Pétronille Moss,,,
+1432102,John Stewart,,,
+1433451,Michael Devine,,,M
+1434599,Brian Smyj,,,M
+1435364,Serge Malik,,,
+1438315,Andre Robinson,,,M
+1439660,Jérôme Varanfrain,,,M
+1439931,Ben Fransham,,,M
+1440014,Stephen Ure,,1958-03-28,
+1442076,Marie-Christine Demarest,,,F
+1443399,Jérôme Cachon,,,
+1443485,Colette Whitaker,,,
+1443795,Brad Abrell,USA,1965-06-01,M
+1446471,Paul Jude Letersky,,,
+1447307,Josie Trinidad,Philippines,,F
+1447932,Winston Duke,Trinidad and Tobago,1986-11-15,M
+1448173,Jorge-Luis Pallo,,1974-01-08,M
+1448180,Ameenah Kaplan,,,
+1448984,Stephen Kearin,,,
+1450229,Richie Smyth,,,
+1450452,Eric Munz,,,
+1450460,Myra McFadyen,,,F
+1452128,Meghan Trainor,USA,1993-12-22,F
+1453366,Serpentine Teyssier,,,F
+1453555,John H. Tobin,USA,1955-01-23,M
+1455760,Jason Furlani,,,
+1456035,Louka Meliava,,,
+1456290,Gita Reddy,Canada,1968-01-14,F
+1456745,James Ciccone,USA,1963-06-14,M
+1457224,Doris McCarthy,,,F
+1457795,Zohra Benali,,,F
+1458114,Daniel Ragussis,USA,,
+1460731,Camille Razat,EU,1994-03-01,F
+1463851,Mary Pitt,,,F
+1465283,Jon Donahue,United States,1971-12-23,M
+1465587,Jean Vinci,,,
+1465838,Frank Scozzari,,,M
+1470179,Alistair Findlay,,,
+1472079,Mehdi Djaadi,,,
+1472780,Joel Brady,,,M
+1475960,Scott Shepherd,,,
+1480058,Jeffrey Feingold,France,1975-11-07,M
+1480130,Tiffany Sander McKenzie,USA,,F
+1482685,Nea Dune,,,
+1484008,Franck Ekinci,,,M
+1485552,Belinda Owino,,1993-02-03,F
+1487500,Calixte Broisin-Doutaz,,,
+1491164,Pierre-Alain de Garrigues,,,
+1492326,Brianna Hildebrand,U.S.,1996-08-14,F
+1493331,Xavier Lemaître,,,M
+1498427,Jim Cantafio,,,M
+1500999,David Boston,,,M
+1502410,Christian Bianchi,,,M
+1502411,Gérard Camp,,,M
+1502441,Kornelia Horvath,,1969-08-29,F
+1502757,Stanislav Adamickij,,,
+1502942,Sonny Jim Gaines,,1928-01-01,
+1503021,Carolina Lancaster,,,F
+1503080,Robert J. Fraser,England,1992-12-05,M
+1504934,Bentley Kalu,,,M
+1505023,Théodore Pellerin,Canada,,M
+1507173,Vanna Salviati,,,
+1507605,Violet Columbus,,1994-01-01,F
+1507846,Paul McGillicuddy,,,
+1509064,Michael Wren Gucciardo,United States,1985-11-16,M
+1509613,Nikolett Barabas,,,F
+1509614,Karen Gagnon,,,F
+1509615,Nick Mohammed,,,M
+1511634,Phil Grieve,,,
+1511953,Serge Martineau,,,M
+1513512,Garry Pastore,USA,1961-12-02,M
+1513916,Kevin Kent,,,
+1514160,Nancy Grace,USA,1959-10-23,F
+1516962,Mark Amos,,,M
+1517904,Tom Rivoire,,,M
+1518443,Granville Redmond,,,
+1518966,Paschal Friel,UK,,M
+1519595,Adam Masnyk,,,
+1520857,Beau Sia,,1976-02-06,M
+1521525,Jeanne Rosa,,,F
+1521872,Justin Michael Woods,,,
+1521874,Laura Lundy Wheale,USA,,F
+1521875,Kamron Leal,,,
+1523704,Pope Francis,Argentina,1936-12-17,M
+1528536,Igor Gotesman,,,M
+1529062,Tassadit Mandi,,,F
+1530558,Madeleine McGraw,,2008-12-22,F
+1533850,Eden Estrella,U.S.A,2004-03-30,F
+1537218,Paul Carson,,,
+1538405,Bernard Mabille,,,
+1539943,Edouard Pluvieux,,,
+1540119,Afsheen Olyaie,,,M
+1543580,Charlie Nelson,,,M
+1543874,Joe Fishel,,,M
+1545156,Alyssa Veniece,Canada,1990-05-10,F
+1545693,Zazie Beetz,Germany,1991-06-01,F
+1547515,Bryan Burton,,,
+1548035,Paul Terry,,,
+1551776,Tom McComas,,,
+1553053,Tommy Bayiokos,,,M
+1553307,Matthew Gooley,,,
+1553308,London Hall,,,F
+1553377,Jeff Moffitt,,,
+1553379,Paul Thornton,,,
+1556340,Victor Harrington,,,
+1559505,Jérémy Bardeau,,,
+1563099,Patrick Médioni,,,
+1563462,Donato Carrisi,Taranto,1973-03-25,M
+1564989,Benita Krista Nall,,,F
+1566183,Steve Saunders,,,
+1568340,Darius,,,
+1568707,Jamie B. Chambers,UK,1987-10-03,M
+1569163,Gwenael Clause,,,M
+1569711,Erica Grant,,,
+1569718,Morgan Eastwood,USA,1996-12-12,
+1571182,Morgane Polanski,,1993-01-20,F
+1571415,Julianne Jain,,,
+1578275,Jason Williams,,,M
+1580866,Olivier Ayache-Vidal,,1965-03-27,M
+1583307,Natasha Liu Bordizzo,Australia,1994-08-25,F
+1583389,Orion McCabe,,,
+1584175,René Hell,,,
+1588593,Dan Marshall,,,
+1590323,Maurice Sneed,,,
+1590759,Noah Jupe,England,2005-02-25,M
+1590834,Michael Elsworth,UK,1932-06-12,M
+1590835,Brent McIntyre,,,
+1592480,Dino Fazzani,,,
+1596218,Nora Hamzawi,France,1985-04-29,F
+1599256,Stephane Cornicard,France,1964-01-01,M
+1599260,Wai Wong,,,M
+1599275,Ziad Abaza,,,M
+1605612,Stéphanie Di Giusto,,,
+1610446,Della Saba,,,F
+1610940,Lewis Tan,,,M
+1611250,Nathan Wiley,,,M
+1613886,Aileen Lewis,Ireland,1914-04-09,F
+1615615,Estéban,,,M
+1616303,Richard Graydon,UK,1922-05-12,M
+1617613,Ivan Allen,,,M
+1620249,Katia Elizarova,,,F
+1631707,Nancy Crane,,,F
+1632523,Dorothée Brière,,,F
+1633220,Bilal Aya,,,
+1633230,Alice van Dormael,,,
+1633263,Christian Magnani,,,M
+1635144,Trey McGriff,,,
+1635158,Christopher Beanland,,,M
+1635160,Mason Pike,,,
+1635398,Pierre Khorsand,,,M
+1636738,Katherine Langford,Australia,1996-04-29,F
+1637273,Gilles David,,,
+1643257,Fuschia!,,1965-07-25,F
+1644239,Manuel Guillot,,,M
+1649152,Jacob Batalon,USA,1996-06-06,M
+1649191,Jonathan Louis,,,M
+1653352,Faith Logan,USA,1995-06-29,F
+1655618,Tim Perez,,,M
+1661590,Jeff DeRocker,,,M
+1665029,Jina Djemba,,1985-07-14,F
+1665609,Antony Acheampong,,,
+1672709,Jeanne Arènes,,,F
+1673564,Scot Anthony Robinson,,,
+1673569,Graham Brown,,,M
+1674266,Sandro Kopp,,,
+1674603,Francesca Scorsese,,,F
+1675606,Joel Nagle,,,
+1677015,Akihiro Nishida,,,M
+1679033,Bertrand Combe,,,
+1679183,William Cagnard,,,M
+1679860,Patrick Pérez,,,
+1682526,Yusuf Hofri,,,M
+1683090,Adam Drescher,,,
+1684513,David Papava,,,
+1688196,Nicky Jam,,1981-03-17,M
+1691887,Timothy Deenihan,USA,1970-03-17,M
+1694509,Shaun Michael Lynch,USA,1984-06-26,M
+1695631,Melissa Villaseñor,,,
+1695960,Kieran Hurley,,,M
+1701518,Pierre Coré,,,
+1707343,Eiji Inoue,,,
+1708535,Guy Standeven,UK,1928-08-28,M
+1710073,Vincent Joncquez,,,
+1710602,Thomas Matthews,,,M
+1711699,Jose L. Vasquez,,,M
+1718938,John Sehil,France,1988-11-05,M
+1723792,Olivier Simmonet,,,
+1735653,Dolly Jagdeo,,,F
+1735654,Ekran Mustafa,,,
+1735657,Garry Marriott,,,
+1735658,Paul A Munday,,,
+1735664,Bron James,,,
+1735668,Tim Baros,,,
+1735671,Nicolas Savidis-Macris,,,
+1735909,Arnold Montey,,,M
+1742631,Siobhan McSweeney,,,F
+1742654,Jane Fowler,,,F
+1742655,Adam Galbraith,,,
+1742659,Kraig Thornber,,,
+1743778,Steve Scott,,,
+1747343,Bronco McLoughlin,Ireland,1938-08-10,M
+1752074,Rachael Dolan,,,F
+1752076,Charlotte Szivak,,,F
+1752319,Becca Sweitzer,USA,,F
+1752964,Lampros Kalfuntzos,Greece,1980-07-19,M
+1759634,Aaron Zell,,,
+1760088,David Nicholls,UK,1950-01-01,M
+1760679,Brenda Kempner,UK,,F
+1760879,Ben Sakamoto,,,
+1767219,Tahseen Ghauri,,,
+1775901,Jimmy Jatho,,,
+1788444,Lucie Bibal,,,
+1793830,Thomas Gioria,,,
+1795152,Antoine Reinartz,,,M
+1796483,Peter Best,,,
+1796502,Danielle Tabor,,,F
+1803327,Alexia Osborne,,,
+1804517,Julien Weill,,,
+1805664,Thérèse Roussel,,,
+1808462,Néo Broca,,,
+1808463,Marc Mairé,,,
+1808464,Jeanne Dupuch,,,
+1808482,Pierre-Benoist Varoclier,,,
+1813935,Jacqui-Lee Pryce,,,
+1815748,Harry Taylor,,,M
+1816403,Leslie A. Hughes,USA,,F
+1816899,Alan Wilder,USA,1953-09-24,M
+1820177,Honoré N'Zué,,,
+1820905,Georges Anderson,Kamerun,1933-05-20,M
+1831281,Brooke Ence,USA,1989-08-10,F
+1831282,Hari James,,,
+1832096,Robert Jekabson,,,
+1838353,Billy Devlin,USA,1969-10-07,M
+1841421,Yasin Houicha,,,
+1848567,Luke Roessler,Canada,2007-03-12,M
+1852817,Thomas Crawford,USA,1961-10-29,M
+1852819,Anthony Powers,,,
+1856270,Bill Murdoch,,,M
+1861185,Chris Fischer,,,M
+1862161,Robin Sykes,,,
+1866899,Andy Robb,UK,1970-03-14,M
+1879781,Jamie De Roy,,,
+1880151,Stephanie Langston,,,
+1881651,Maciej Winkler,,,
+1890450,Caitlin Burles,,,
+1896892,Bill Hurst,,,
+1910480,Lee Won-tae,,,M
+1913590,Maclean Burke,,,
+1926100,Philip Ettington,UK,1966-06-04,M
+1927466,Ludovic Pinette,,,M
+1933314,Gino Da Ronch,,,
+1935296,Islie Hirvonen,,,F
+1936774,Scott Flick,,,M
+1944194,Stephanie Haymes-Roven,,,
+1945734,Maria Despina,,,F
+1963910,Thierry Liagre,,,M
+2003611,Rachel Davey,,,
+2003612,Jessica Evans,,,F
+2003613,Hannah Unkrich,,,
+2004159,Marvin Beyster,France,2001-12-03,M
+2011839,Lisa Reynolds,,,
+2023551,Norman Gay,,,M
+2026845,Jacques Beyster,U.S.,1943-11-05,M
+2031105,Olaniyan Thurmon,,,M
+2082666,Lee Hartley,,,
+2082669,Katie Jackson,,,
+2082679,Ben Britton,,,
+2082697,Jørn Benzon,,,
+2082698,Jason Secto,,,
+2082705,Sam Kelly,,,
+2082708,Riley Brophy,,,
+2082709,Jarl Benzon,,,
+2082731,Henry Mortensen,,,
+2082732,Samuel E. Shore,,,
+2082770,Zo Hartley,,,
+2087193,Victor Roma,Russie,1919-11-22,M
+2090161,Gabrielle Lorthe,,,
+2115230,Marie Coulonjou,,,F
+2117140,Basile de Bodt,Belgium,1956-10-14,M
+2120338,Stéphane Roger,,,
+2124120,Claude Schmitz,,,
+2126017,Robert Destain,,,
+2154091,Thom Fountain,,,
+2154096,Carl J. Johnson,,,
+2156085,Tom Whitenight,,,
+2172659,Olivia Algazi,,,F
+2191245,Kevin P. McCarthy,,,M
+2238736,Nathan Clarke,,,
+2260554,Cheikna Sankare,,,
+2268476,Scott Rapp,,,
+2351966,Édouard Bergeon,,,
+2353225,Olivier Rosemberg,,,M
+2500866,Madeleine Delavaivre,,,
+2529489,Christophe David,,,

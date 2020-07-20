@@ -1,0 +1,90 @@
+lecteur :
+cf informatique
+
+Edgar Cobb
+Exeter College, Oxford
+
+James Gray
+University of California, Berkeley
+
+Serge Abiteboul 
+University of Southern California
+
+
+
+livres
+
+9781558601901
+Transaction Processing
+
+9780201141924
+The Relational Model for Database Management
+
+9782711786459
+Fondements des bases de données
+
+9780201099553
+Relational Databases and Knowledge Bases
+
+
+
+
+INSERT INTO LECTEUR
+VALUES( 1 , 'Edgar Cobb' , 'Exeter College, Oxford' );
+
+INSERT INTO LECTEUR
+VALUES( 2 , 'James Gray' , 'University of California, Berkeley' );
+
+INSERT INTO LECTEUR
+VALUES( 3 , 'Serge Abiteboul' , 'University of Southern California' );
+
+INSERT INTO OUVRAGE(isbn, titre)
+VALUES( 9782711786459 , 'Fondements des bases de données' );
+
+INSERT INTO OUVRAGE(isbn, titre)
+VALUES( 9781558601901 , 'Transaction Processing' );
+
+INSERT INTO OUVRAGE(isbn, titre)
+VALUES( 9780201099553 , 'Relational Databases and Knowledge Bases' );
+
+INSERT INTO OUVRAGE(isbn, titre)
+VALUES( 9780201141924 , 'The Relational Model for Database Management' );
+
+UPDATE OUVRAGE
+SET date_emprunt = date('now'), id_lecteur = 1
+WHERE isbn = 9782711786459 ;
+
+INSERT INTO RESERVATION(isbn, id_lecteur)
+VALUES( 9782711786459 , 2 );
+
+INSERT INTO RESERVATION(isbn, id_lecteur)
+VALUES( 9782711786459 , 3 );
+
+
+UPDATE OUVRAGE
+SET date_emprunt = NULL, id_lecteur = NULL
+WHERE isbn = 9782711786459 ;
+
+DELETE FROM RESERVATION
+WHERE isbn = 9782711786459 AND id_lecteur = 2 ;
+
+UPDATE OUVRAGE
+SET date_emprunt = date('now'), id_lecteur = 2
+WHERE isbn = 9782711786459 ;
+
+
+UPDATE OUVRAGE
+SET date_emprunt = date('now'), id_lecteur = 2
+WHERE isbn = 9780201141924 ;
+
+
+INSERT INTO RESERVATION(isbn, id_lecteur)
+VALUES( 9780201141924 , 3 );
+
+
+UPDATE OUVRAGE
+SET date_emprunt = date('now'), id_lecteur = 1
+WHERE isbn = 9781558601901 ;
+
+INSERT INTO RESERVATION(isbn, id_lecteur)
+VALUES( 9781558601901 , 2 );
