@@ -1,0 +1,377 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[noheadfoot,top=1cm,bottom=1cm,left=1cm,right=1cm,a4paper]{geometry}
+\pagestyle{empty}
+\usepackage{yhmath}
+\usepackage[boxed,longend]{algorithm2e}
+\usepackage{tagtex2}
+%\usepackage{algorithm}
+%\usepackage{algpseudocode}
+
+
+% Syntaxe style python
+\SetStartEndCondition{ }{}{}%
+\SetKwProg{Fn}{def}{\string:}{}
+\SetKwFunction{Range}{range}%%
+\SetKw{KwTo}{in}\SetKwFor{For}{for}{\string:}{}%
+\SetKwIF{If}{ElseIf}{Else}{if}{:}{elif}{else:}{}%
+\SetKwFor{While}{while}{:}{fintq}%
+\newcommand{\forcond}{$i$ \KwTo\Range{$n$}}
+\AlgoDontDisplayBlockMarkers
+%\SetAlgoNoEnd
+\SetAlgoNoLine%
+%fin syntaxe python
+\IncMargin{1em}
+
+
+
+\everymath{\displaystyle}
+\setlength{\parindent}{0cm}
+
+\begin{document}
+
+\begin{center}
+    {\Huge \textbf{QCM \fbox{12}: savoir montrer qu’une itération (de type while) se termine}}
+\end{center}
+
+
+{\Large binôme du groupe 1: Johann DOLIVET et Ivan MAUGIS}
+
+\section{\'Enoncé de la question}
+
+Voici $4$ algorithmes. Combien d'entre eux vont effectivement se terminer si on les exécute?
+
+\begin{multicols}{4}
+\begin{enumerate}[label=\alph*)]
+\item $0$
+\item $1$
+\item $2$
+\item $3$
+\end{enumerate}
+\end{multicols}
+
+\begin{tabular}{|c|c|c|c|}
+\hline
+algorithme $1$&
+algorithme $2$&
+algorithme $3$&
+algorithme $4$\\
+\hline
+\begin{minipage}[c][3cm][c]{.23\linewidth}
+\begin{verbatim}
+i = 0
+j = 100
+while j - i > 0:
+    i = i - 1
+    j = j - 1
+    print(i,j)
+\end{verbatim}
+\end{minipage}
+&
+\begin{minipage}[c][3cm][c]{.23\linewidth}
+\begin{verbatim}
+i = 0
+j = 100
+while j - i > 0:
+    i = i + 5
+    j = j + 4
+    print(i,j)
+\end{verbatim}
+\end{minipage}
+&
+\begin{minipage}[c][3cm][c]{.23\linewidth}
+\begin{verbatim}
+i = 0
+j = 100
+while j - i > 0:
+    i = i + 1
+    j = j - 1
+    print(i,j)
+\end{verbatim}
+\end{minipage}
+&
+\begin{minipage}[c][3cm][c]{.23\linewidth}
+\begin{verbatim}
+i = 0
+j = 100
+while j - i > 0:
+    i = i - 1
+    j = j + 1
+    print(i,j)
+\end{verbatim}
+\end{minipage}
+\\
+\hline
+\end{tabular}
+
+\section{Correction, analyse}
+
+\subsection{Correction}
+
+On illustre ici la notion de terminaison d'une boucle non bornée.
+
+Le variant de boucle est la quantité $(j - i)$.
+
+$j$ est initialisé assez grand pour qu'une exécution manuelle soit fastitdieuse. Ce qui ne l'empêche pas d'éclairer la situation.
+
+C'est une quantité entière, initialement positive, qui doit devenir négative ou nulle au bout d'un certain rang.
+
+Soit 
+\begin{itemize}
+\item[\textbullet] $(j - i)'$ la valeur du variant en sorti de boucle,
+\item[\textbullet] $i'$ la valeur de $i$ en sorti de boucle,
+\item[\textbullet] $j'$ la valeur de $j$ en sorti de boucle.
+\end{itemize}
+
+Pour chaque algorithme $(j-i)$ est initialisé à $100 - 0 = 100$.
+
+\begin{tabular}{|c|c|c|c|}
+\hline
+\begin{minipage}[c][4.1cm][c]{.23\linewidth}
+$\begin{array}[t]{r@{}c@{}l}
+(j - i)' &=& j' - i'\\
+ &=& (j - 1) - (i - 1)\\
+ &=& j - i -1+1\\
+(j - i)'  &=& (j - i)\\
+\end{array}$ \vfill
+
+$(j-i)$ étant constante, elle ne peut décroître vers $0$.
+
+
+\end{minipage}
+&
+\begin{minipage}[c][4.1cm][c]{.23\linewidth}
+$\begin{array}[t]{r@{}c@{}l}
+(j - i)' &=& j' - i'\\
+ &=& (j + 4) - (i + 5)\\
+ &=& j - i + 4 - 5\\
+ &=& (j - i) - 1\\
+(j - i)'&<&(j-i)\\
+\end{array}$ \vfill
+$(j-i)$ étant strictement décroissante, elle devient négative ou nulle au bout d'un certain temps.
+
+
+\end{minipage}
+&
+\begin{minipage}[c][4.1cm][c]{.23\linewidth}
+$\begin{array}[t]{r@{}c@{}l}
+(j - i)' &=& j' - i'\\
+ &=& (j - 1) - (i +1)\\
+ &=& j - i - 1 - 1\\
+  &=& (j - i)-2\\
+(j - i)'&<&(j-i)\\
+\end{array}$ \vfill
+
+$(j-i)$ étant strictement décroissante, elle devient négative ou nulle au bout d'un certain temps.
+
+
+\end{minipage}
+&
+\begin{minipage}[c][4.1cm][c]{.23\linewidth}
+$\begin{array}[t]{r@{}c@{}l}
+(j - i)' &=& j' - i'\\
+ &=& (j + 1) - (i - 1)\\
+ &=& j - i +1+1\\
+ &=& (j - i) + 2\\
+(j - i)'&>&(j-i)\\
+\end{array}$ \vfill
+
+$(j-i)$ étant strictement croissante, elle ne peut décroître vers $0$.
+
+
+\end{minipage}
+\\
+\hline
+\end{tabular}
+
+\subsection{Objectif d'évaluation}
+
+
+On cherche à évaluer la capacité de l'élève à identifier le variant, la façon dont il évolue pour {\it in fine} aboutir à la preuve de terminaison (ou de non-terminaison).
+
+
+Les erreurs attendues sont les suivantes :
+\begin{itemize}
+\item[\textbullet] la non-identification du variant;
+\item[\textbullet] focalisation sur l'évolution de $i$ et $j$;
+\item[\textbullet] confusion entre les indices $i$ et $j$.
+\end{itemize}
+
+
+
+Choix des algorithmes :
+\begin{itemize}
+\item[\textbullet] Dans l'algorithme 1, $i$ et $j$ décroissent tous les deux: l'élève peut se tromper en se disant \og {\it on va tomber dans les négatifs} \fg.
+
+\item[\textbullet] Dans les algorithmes 3 et 4, l'élève peut être déboussolé par des évolutions en sens contraire de $i$ et $j$. Ce qui doit l'amener à prendre en compte le variant, qui lui a une évolution sans équivoque. Ces deux questions peuvent induire des confusions entre $i$ et $j$.
+
+\item[\textbullet] Dans l'algorithme 2, l'élève doit percevoir que la variation absolue de $i$ et $j$ ne compte pas, que seule la variation relative est importante ici.
+
+\end{itemize}
+
+
+
+
+\section{Remédiation}
+
+Sous la forme d'une exercice guidé par un questionnement.
+
+\vspace*{2mm}\hrule\vspace*{2mm}
+
+Pour chacune des boucles {\verb while } situées dans les algorithmes suivants
+\begin{enumerate}[label=\alph*)]
+\item Identifier un variant de boucle.
+\item Identifier la condition d'arrêt de boucle sur ce variant.
+\item Identifier la façon dont ce variant évolue lors d'une itération.
+\item Conclure sur la terminaison ou non de la boucle.
+\end{enumerate}
+
+
+
+Exemple:\\
+\begin{tabular}{|l|l|}
+\hline
+\begin{minipage}[c][3cm][c]{.15\linewidth}
+\begin{verbatim}
+i = 0
+j = 100
+while j - i > 0:
+    i = i + 1
+    j = j - 1
+    print(i,j)
+\end{verbatim}
+\end{minipage}
+&
+\begin{minipage}[c][3cm][c]{.7\linewidth}
+\begin{enumerate}[label=\alph*)]
+\item Le variant est l'entier $(j-i)$.
+\item La boucle s'arrête dès que cet entier $(j-i)$ est négatif ou nul.
+\item Après un passage dans la boucle $(j-i)'=j'-i'=(j-1)-(i+1)=j-i-2< (j-i)$.
+\item Le variant $(j-i)$ étant ainsi strictement décroissant d'un test à l'autre, il deviendra fatalement négatif à un moment. Donc la boucle s'arrête bel et bien.
+\end{enumerate}
+\end{minipage}
+\\
+\hline
+\end{tabular}
+
+
+\begin{minipage}[c][3cm][c]{.18\linewidth}
+\begin{verbatim}
+i = 0
+j = 10
+while j - i > 0:
+    i = i + 5
+    j = j + 7
+    print(i,j)
+\end{verbatim}
+\end{minipage}\hfill
+\begin{minipage}[c][3cm][c]{.18\linewidth}
+\begin{verbatim}
+i = 0
+j = 10
+while j - i > 0:
+    i = i + 7
+    j = j + 5
+    print(i,j)
+\end{verbatim}
+\end{minipage}\hfill
+\begin{minipage}[c][3cm][c]{.18\linewidth}
+\begin{verbatim}
+i = 0
+j = 10
+while j > i:
+    i = i + 3
+    j = j + 2
+    print(i,j)
+\end{verbatim}
+\end{minipage}\hfill
+\begin{minipage}[c][3cm][c]{.18\linewidth}
+\begin{verbatim}
+i = 0
+j = 11
+while j - i != 0:
+    i = i + 2
+    j = j - 3
+    print(i,j)
+\end{verbatim}
+\end{minipage}\hfill
+\begin{minipage}[c][3cm][c]{.18\linewidth}
+\begin{verbatim}
+T = [1,2,6,9,8,7]
+n = 0
+while n < len(T):
+    T.append(n)
+    n = n + 1
+    print(T)
+\end{verbatim}
+\end{minipage}
+
+\vspace*{2mm}\hrule\vspace*{2mm}
+
+Commentaires sur le choix des algorithmes:
+\begin{enumerate}[label=\alph*)]
+\item Les quatre premiers algorithmes peuvent être exécutés intégralement de façon manuelle.
+\item Les deux premiers sont très similaires, mais un seul termine.
+\item Le variant du troisième est moins immédiat à identifier.
+\item La condition d'arrêt de boucle du quatrième est plus subtile. 
+\item Le dernier oblige à s'interroger sur l'évolution de la taille d'une liste.
+\end{enumerate}
+
+
+\end{document}
+
+
+
+Motifs de non terminaison possibles d'une boucle while:
+
+compteur qui saute par dessus la borne
+
+compteur modifié par inadvertance
+
+croissance avec limite finie
+
+test d'égalité sur un flottant
+
+" invariant " piégeux car stagnant
+
+confusion condition d'arr
+
+
+boucle qui travaille en place sur une liste en la modifiant
+
+
+Mis de côté:
+\section{proposition 1}
+\begin{minipage}{.6\linewidth}
+{\large Question:} 
+
+
+Voici un programme en Python, dépendant de variables $a$ et $b$ qui n'ont pas été initialisées:
+
+
+Ce programme se termine si et seulement si.....
+
+\begin{multicols}{2}
+\begin{enumerate}[label=\alph*)]
+\item $b < \frac23 a$
+\item $a < \frac23 b$
+\item $b < \frac32 a$
+\item $a < \frac32 b$
+\end{enumerate}
+\end{multicols}
+\end{minipage} \hfill \vrule \hfill
+\begin{minipage}{.3\linewidth}
+\begin{verbatim}
+i=0
+j=1000
+a=...
+b=...
+while j-i > 0:
+    i = i+2*a
+    j = j+3*b
+    print(i,j)
+\end{verbatim}
+
+
+
+\end{minipage}
+

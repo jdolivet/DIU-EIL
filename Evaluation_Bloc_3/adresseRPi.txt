@@ -1,0 +1,19 @@
+pi@raspberrypi:~ $ ip add
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host 
+       valid_lft forever preferred_lft forever
+2: eth0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc pfifo_fast state DOWN group default qlen 1000
+    link/ether b8:27:eb:91:09:70 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc pfifo_fast state UP group default qlen 1000
+    link/ether b8:27:eb:c4:5c:25 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.0.6/24 brd 192.168.0.255 scope global noprefixroute wlan0
+       valid_lft forever preferred_lft forever
+    inet6 2804:14c:60:8657:5790:49b7:9b1b:a2b1/128 scope global dynamic noprefixroute 
+       valid_lft 3205sec preferred_lft 3205sec
+    inet6 2804:14c:60:8657:1763:905a:c6d1:f72f/64 scope global dynamic mngtmpaddr noprefixroute 
+       valid_lft 3599sec preferred_lft 3599sec
+    inet6 fe80::39a7:a373:1476:b330/64 scope link 
+       valid_lft forever preferred_lft forever

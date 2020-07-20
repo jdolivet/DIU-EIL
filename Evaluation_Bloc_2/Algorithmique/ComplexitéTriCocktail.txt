@@ -1,0 +1,52 @@
+Pour 100 tableaux de taille 100 : 
+    nb moyens comparaisons du tri : 3382.05
+    nb moyens échanges du tri : 2478.42
+    durée moyenne du tri (en sec) : 0.00060968 
+
+Pour 100 tableaux de taille 200 : 
+    nb moyens comparaisons du tri : 13365.09
+    nb moyens échanges du tri : 9881.62
+    durée moyenne du tri (en sec) : 0.00241946 
+
+Pour 100 tableaux de taille 400 : 
+    nb moyens comparaisons du tri : 53705.64
+    nb moyens échanges du tri : 40006.17
+    durée moyenne du tri (en sec) : 0.01031692 
+
+Pour 100 tableaux de taille 800 : 
+    nb moyens comparaisons du tri : 213836.54
+    nb moyens échanges du tri : 159697.27
+    durée moyenne du tri (en sec) : 0.04504276 
+
+Pour 100 tableaux de taille 1600 : 
+    nb moyens comparaisons du tri : 853767.38
+    nb moyens échanges du tri : 638981.27
+    durée moyenne du tri (en sec) : 0.18900067 
+
+Pour 100 tableaux de taille 3200 : 
+    nb moyens comparaisons du tri : 3412197.94
+    nb moyens échanges du tri : 2555997.0
+    durée moyenne du tri (en sec) : 0.76286488 
+
+Pour 100 tableaux de taille 6400 : 
+    nb moyens comparaisons du tri : 13644446.47
+    nb moyens échanges du tri : 10225369.32
+    durée moyenne du tri (en sec) : 3.02681951 
+
+Pour 100 tableaux de taille 12800 : 
+    nb moyens comparaisons du tri : 54595860.96
+    nb moyens échanges du tri : 40938709.3
+    durée moyenne du tri (en sec) : 12.01310291 
+
+Pour 100 tableaux de taille 25600 : 
+    nb moyens comparaisons du tri : 218335746.32
+    nb moyens échanges du tri : 163737322.26
+    durée moyenne du tri (en sec) : 48.68246473 
+
+Pour 100 tableaux de taille 51200 : 
+    nb moyens comparaisons du tri : 873578395.39
+    nb moyens échanges du tri : 655247329.1
+    durée moyenne du tri (en sec) : 195.63896141 
+
+[100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600, 51200] [3382.05, 13365.09, 53705.64, 213836.54, 853767.38, 3412197.94, 13644446.47, 54595860.96, 218335746.32, 873578395.39] [2478.42, 9881.62, 40006.17, 159697.27, 638981.27, 2555997.0, 10225369.32, 40938709.3, 163737322.26, 655247329.1] [0.00060968, 0.00241946, 0.01031692, 0.04504276, 0.18900067, 0.76286488, 3.02681951, 12.01310291, 48.68246473, 195.63896141]
+

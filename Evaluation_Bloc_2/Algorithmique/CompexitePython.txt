@@ -1,0 +1,32 @@
+Pour 100 tableaux de taille 100  : 
+    nb moyens echanges du tri : 2450.83
+    moyenne durée du tri : 0.00057266
+Pour 100 tableaux de taille 200  : 
+    nb moyens echanges du tri : 9958.48
+    moyenne durée du tri : 0.00228158
+Pour 100 tableaux de taille 400  : 
+    nb moyens echanges du tri : 40001.43
+    moyenne durée du tri : 0.009641
+Pour 100 tableaux de taille 800  : 
+    nb moyens echanges du tri : 159189.7
+    moyenne durée du tri : 0.04274607
+Pour 100 tableaux de taille 1600  : 
+    nb moyens echanges du tri : 640196.89
+    moyenne durée du tri : 0.18252925
+Pour 100 tableaux de taille 3200  : 
+    nb moyens echanges du tri : 2561124.73
+    moyenne durée du tri : 0.76333816
+Pour 100 tableaux de taille 6400  : 
+    nb moyens echanges du tri : 10234738.33
+    moyenne durée du tri : 3.07071152
+Pour 100 tableaux de taille 12800  : 
+    nb moyens echanges du tri : 40973777.97
+    moyenne durée du tri : 12.27523266
+Pour 100 tableaux de taille 25600  : 
+    nb moyens echanges du tri : 163858585.72
+    moyenne durée du tri : 49.75812542
+Pour 100 tableaux de taille 51200  : 
+    nb moyens echanges du tri : 655482596.42
+    moyenne durée du tri : 204.44192135
+
+

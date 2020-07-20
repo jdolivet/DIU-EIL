@@ -1,0 +1,13 @@
+L'idée est d'évaluer la capacité du candidat à identifier le variant et la façon dont il évolue.
+
+Les erreurs probables seront de :
+- ne pas identifier le variant (ici pas vraiment difficile)
+- se contenter d'observer l'évolution absolue des indices
+- confusion entre les indices i et j
+
+Choix des algorithmes :
+- quand les 2 indices augmentent (ou diminuent) de la même quantité, on peut facilement se dire que le variant ne change pas (algo 1)
+- quand i augmente et j diminue, il est assez intuitif que cela s'arrête (algo 3)
+- Confusion possible sur les i et j (algo 4)
+- La vraie notion importante dans l'étude du variant n'est pas la variation absolue de chacun des indices, mais la variation relative entre les 2 indices (algo 2)
+

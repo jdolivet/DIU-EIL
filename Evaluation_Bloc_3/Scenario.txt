@@ -1,0 +1,32 @@
+1ere etape
+On part d'un script python permettant de convertir un entier non signé en un nombre binaire de taille fixe (ici sur 4 bits).
+production : entToBin.py
+
+2eme etape
+On passe sur Raspberry et on utilise le script Python pour commander un montage utilisant les broches du Raspberry et permettant de visualiser l'écriture binaire d'un entier en éclairant une suite de LEDs sur un montage.
+On utilise la bibliothèque GPIO.
+production : montage (Raspberry + montage), script entToLeds.py
+
+Extension :
+On peut faire la même chose sur un Arduino (diversité des langages)
+
+3eme étape
+On relie un ordinateur au Raspberry (via un câble Ethernet) et on commande le Raspberry (serveur) depuis l'ordinateur (client).
+On utilise la bibliothèque flask.
+Il faut identifier l'adresse du Raspberry (commande shell), puis communiquer sur cette adresse, en passant un paramètre via l'URL.
+production : montage (Raspberry + montage), script entToLedsServeur.py
+
+Extension : 
+les requêtes peuvent se faire via POST et GET
+On peut envisager un réseau plus complexe, des connexions différentes (WIFI).
+
+
+Liens programme :
+- Représentation des données
+	Écriture d’un entier positif dans une base b ≥ 2
+
+- Architectures matérielles et systèmes d’exploitation)
+	Périphériques d’entrée et de sortie (Identifier le rôle des capteurs et actionneurs).
+	Systèmes d’exploitation (Utiliser les commandes de base en ligne de commande).
+	Transmission de données dans un réseau (Simuler ou mettre en œuvre un réseau).
+	Interface Homme-Machine (Réaliser par programmation une IHM répondant à un cahier des charges donné).
